@@ -1,0 +1,23 @@
+#the-fold {
+	height: 21vh;
+	background-color: white;
+}
+
+header {
+	font-family: $titles;
+	color: $nose;
+	margin: 0 0 0 46px;
+	font-size: 11.9vw;
+	line-height: 24vh;
+	z-index: -1;
+	position: relative;
+}
+
+.js-fade-element-hide {
+  opacity: 0;
+}
+
+.js-fade-element-show {
+  opacity: 1;
+  transition: all 0.7s ease-in-out;
+}

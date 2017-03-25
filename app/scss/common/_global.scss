@@ -1,0 +1,188 @@
+/*
+ * Web Fonts from colophon-foundry.org
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Colophon Foundry. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2017 Colophon Foundry
+ *
+ * Licensed to Dan Hanasono 
+ */
+/*@include font-face("apercu-medium", "/fonts/apercu/apercu-medium", $file-formats: eot woff2 woff ttf);*/
+@font-face {
+    font-family: 'apercu-medium';
+    src: url('../../fonts/apercu/apercu-medium.eot');
+    src: url('../../fonts/apercu/apercu-medium.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/apercu/apercu-medium.woff') format('woff'),
+         url('../../fonts/apercu/apercu-medium.ttf') format('truetype'),
+         url('../../fonts/apercu/apercu-medium.svg#apercu-medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased; //styles to make type look cleaner on chrome
+}
+
+html, body {
+	height: 100vh;
+	text-rendering: auto;
+	font-smoothing: antialiased;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-weight: normal;
+	color: $black;
+}
+
+body {
+	background: white;
+}
+
+@include clearfix;
+
+h1, h2, h3, p {
+	margin: 0;
+	font-weight: 100;
+}
+
+h1 {
+	font-family: $titles;
+	font-size: 1.8em;
+	margin-bottom: .5em;
+}
+
+h2 {
+	font-family: $titles;
+	font-size: 1.2em;
+	line-height: 1.4em;
+/*	margin-bottom: 1.1em;
+*/}
+
+h3 {
+	font-family: $titles;
+    font-size: 1.4em;
+    font-weight: 400;
+    line-height: 1.3em;
+    margin-bottom: 0.4em;
+}
+
+p.date {
+  color: transparentize($base-font-color, 0.6);
+  font-family: $titles;
+  font-size: 0.9em;
+  font-style: italic;
+  margin-bottom: 0.3em;
+}
+
+p.last {
+	margin-bottom: 1.5em;
+
+}
+
+p {
+	font-family: $copies;
+	line-height: $base-line-height;
+	font-size: 1.05em;
+	line-height: $base-line-height;
+}
+
+a {
+	color: $nav-color;
+	text-decoration: none;
+	font-family: $copies;
+	font-size: 1.05em;
+	line-height: $base-line-height;
+	margin-bottom: 1.5em;
+	&:hover, &:focus {
+		color: $action-color;
+		text-decoration: none;
+	}
+}
+
+a.read-more {
+	display: inline-block;
+    font-family: $titles;
+    font-size: 0.8em;
+    font-weight: 700;
+    margin-left: 0.2em;
+    position: relative;
+    text-transform: uppercase;
+
+    span {
+      font-family: $titles;
+      font-size: 1.5em;
+      font-style: normal;
+      position: absolute;
+      right: -12px;
+      top: -1px;
+    }
+}
+
+.type {
+    border-bottom: 1px solid;
+    display: inline-block;
+    font-family: $copies;
+    font-size: 0.7em;
+    font-weight: 800;
+    margin-bottom: 2em;
+    padding: 0.3em 0;
+    text-align: left;
+    text-transform: uppercase;
+  }
+
+hr {
+	border-bottom: 1px solid $light-gray;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    margin: $base-line-height 0;
+}
+
+code {
+   background: #F7F7F7;
+   border-radius: $base-border-radius * 1.5;
+   border: 1px solid #E0E0E0;
+   font-size: 1em;
+   font-style: normal;
+   padding: 0.1em 0.4em;
+   white-space: nowrap;
+ }
+
+/*.arrow-down {
+	font-family: 'apercu-medium';	
+	font-size: 5vw;
+	color: white;
+	padding-left: 36px;
+    line-height: 3.5vw;
+}
+*/
+.rotate {
+/* Safari */
+-webkit-transform: rotate(90deg);
+/* Firefox */
+-moz-transform: rotate(90deg);
+/* IE */
+-ms-transform: rotate(90deg);
+/* Opera */
+-o-transform: rotate(90deg);
+/* Internet Explorer */
+filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+}
+
+/*
+.hero-container a:hover, .hero-container a:visited, .hero-container a:link, .hero-container a:active {
+	text-decoration: none;
+	color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 25px;
+    padding-top: 5px;
+    padding-left: 0;
+}*/
+
+/** {
+	outline: 1px solid red;
+	background-color: black;
+	color: green;
+}*/

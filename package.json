@@ -1,0 +1,44 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Dan Hanasono's website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danhanasono/danhanasono.github.io"
+  },
+  "keywords": [
+    "Product",
+    "Management",
+    "Product",
+    "Manager"
+  ],
+  "author": "Dan Hanasono",
+  "license": "ISC",
+  "devDependencies": {
+    "animate.css": "^3.5.2",
+    "bourbon-neat": "^2.0.0",
+    "browser-sync": "^2.18.8",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cache": "^0.4.5",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemap": "^1.0.1",
+    "gulp-uglify": "^2.0.1",
+    "gulp-useref": "^3.1.2",
+    "node-bourbon": "^4.2.8",
+    "node-neat": "^2.0.0-beta.0",
+    "run-sequence": "^1.2.2"
+  },
+  "dependencies": {
+    "bourbon": "^4.3.3",
+    "bourbon-neat": "^2.0.0",
+    "normalize.css": "^5.0.0"
+  }
+}

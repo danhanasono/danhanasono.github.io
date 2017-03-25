@@ -1,0 +1,23 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Dan Hanasono -- Designer | Front End Dev -- s0L0olo0L0
+
+# THANKS
+
+    Nicole Bella, Jim Bogenrief, Hanlu Cao, William H Carter III, Drea Caruso, Hsin Chen, Clay Cooper, Benny Gee, Grace Hutchison, Matt Johnson, Ali Keenan, Richard Kobayashi, Rachel Macek, Paul Mendoza, Sara Nakamura, Andre Sochinski - for tilin' straight wilin'
+    John Clark and Marianne Thompson - for boosting my confidence in conceptual design
+    Marc Mertens - for boosting my confidence in ux design and presentation
+    Mitch Gohman - for boosting my coding skills
+    Wojtek Tilbury - for boosting my design and production skills
+    Eric McDermott - for boosting my project management skills
+    Shalea Oretzky - last and not least, my kitty, for boosting my love skills
+    My parents - for boosting me
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Node, Gulp
+    Bourbon, Neat

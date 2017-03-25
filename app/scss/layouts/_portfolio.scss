@@ -1,0 +1,16 @@
+#portfolio {
+	margin-top: 5vh
+}
+.portfolio-intro {
+	@include grid-column(9, $danno-grid);
+	@include grid-push(2, $danno-grid);
+}
+
+.full-presence {
+	@include grid-column(3, $danno-grid);
+	@include grid-push(2, $danno-grid);
+}
+
+.thumb-half-height {
+	
+}
