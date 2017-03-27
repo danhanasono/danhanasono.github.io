@@ -72,7 +72,7 @@ gulp.task('useref', function(){
     .pipe(gulpIf('*.js', uglify()))
     // Minifies only if it's a CSS file
     .pipe(gulpIf('*.css', cssnano()))
-    .pipe(gulp.dest('dist'))
+    .pipe(gulp.dest('static'))
 });
 
 gulp.task('images', function(){
@@ -81,16 +81,16 @@ gulp.task('images', function(){
 	.pipe(cache(imagemin({
         interlaced: true
       })))
-  .pipe(gulp.dest('dist/images'))
+  .pipe(gulp.dest('static/images'))
 });
 
 gulp.task('fonts', function() {
   return gulp.src('app/fonts/**/*')
-  .pipe(gulp.dest('dist/fonts'))
+  .pipe(gulp.dest('static/fonts'))
 })
 
-gulp.task('clean:dist', function() {
-  return del.sync('dist');
+gulp.task('clean:static', function() {
+  return del.sync('static');
 })
 
 gulp.task('cache:clear', function (callback) {
@@ -102,7 +102,7 @@ return cache.clearAll(callback)
 //   runSequence('task-one', 'task-two', 'task-three', callback);
 // });
 gulp.task('build', function (callback) {
-  runSequence('clean:dist', 
+  runSequence('clean:static', 
     ['sass', 'fonts', 'useref', 'images'],
     callback
   )
@@ -127,7 +127,7 @@ gulp.task('default', function (callback) {
 })
 
 gulp.task('deploy', function() {
-  return gulp.src('./dist/**/*')
+  return gulp.src('./static/**/*')
     .pipe(ghPages());
 });
 

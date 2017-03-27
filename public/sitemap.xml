@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://danno.co/portfolio/</loc>
+    <lastmod>2017-03-27T11:35:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danno.co/writings/</loc>
+    <lastmod>2017-03-27T11:35:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danno.co/writings/false-teeth/</loc>
+    <lastmod>2017-03-27T11:35:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danno.co/writings/a-study-of-gear-ratios-and-cadence/</loc>
+    <lastmod>2017-03-27T11:17:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danno.co/</loc>
+    <lastmod>2017-03-27T11:35:50-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
