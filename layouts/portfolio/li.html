@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>{{ .Title }}</title>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<meta name="destription" content="{{ .Description }}">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="../../static/css/styles.min.css">
-</head>
-<body>
-	<main>
-		<article>
-			<h1>{{ .Title }}</h1>
-			{{ .Content }}
-		</article>
-	</main>
-</body>
+{{ partial "head.html" . }}
+{{ partial "nav.html" . }}
+
+<section id="main">
+  <div>
+   <h1 id="title">{{ .Title }}</h1>
+        <ul id="list">
+            {{ range .Data.Pages }}
+                {{ .Render "li"}}
+            {{ end }}
+        </ul>
+  </div>
+</section>
+
+{{ partial "footer.html" . }}
+
 </html>
