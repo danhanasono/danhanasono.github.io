@@ -1,16 +1,72 @@
 #portfolio {
 	margin-top: 5vh
 }
-.portfolio-intro {
+.portfolio-intro, .output-intro {
 	@include grid-column(9, $danno-grid);
 	@include grid-push(2, $danno-grid);
+	margin-bottom: 5vh;
 }
 
-.full-presence {
+.output-intro {
+	margin-top: 60px;
+}
+
+.full-presence, .output {
+	@include grid-shift(2, $danno-grid);
+}
+
+.thumb-half-height, .thumb-sq-height {
+	position: relative;
 	@include grid-column(3, $danno-grid);
-	@include grid-push(2, $danno-grid);
 }
 
-.thumb-half-height {
-	
+.thumb-half-height:before {
+	content: "";
+	display: block;
+	padding-top: 50%; 	/* 50% is twice as wide as tall*/
+}
+
+.thumb-sq-height:before {
+	content: "";
+	display: block;
+	padding-top: 100%; 	/* 100% is square dude*/
+}
+
+.thumb {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	cursor: pointer;
+	img {
+		display: block;
+		margin:0 auto;
+		width: 70%;
+		position: relative;
+		top: 50%;
+		transform: translateY(-50%);
+	}
+}
+
+.th-planned-parenthood {
+	background-color: $planned-parenthood;
+}
+
+.th-aclu {
+	background-color: $aclu;
+}
+
+.th-epa {
+	background-color: $epa;
+}
+
+.th-thrive-market{
+	background-color: $thrive-market;
+}
+
+.external-link {
+	position: absolute;
+	bottom: 15px;
+	right: 15px;
 }

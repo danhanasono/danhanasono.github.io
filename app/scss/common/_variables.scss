@@ -4,6 +4,10 @@ $nose:	rgba(60,200,215,1);
 $poppy: rgba(247,160,68,1);
 $dark-gray: #333 !default;
 $light-gray: #DDD !default;
+$planned-parenthood: rgba(21,116,196,1);
+$aclu: rgba(81,146,203,1);
+$epa: rgba(0,108,181,1);
+$thrive-market: rgba(58,196,149,1);
 
 $image-gradient-color-top: $nose;
 $transparency-top: 0.3;
@@ -29,7 +33,7 @@ $action-color: $poppy;
 
 //neat
 $danno-grid: (
-  columns: 16,
+  columns: 13,
   media: 1024px,
   gutter: 30px
 );
