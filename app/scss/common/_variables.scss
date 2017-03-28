@@ -8,6 +8,12 @@ $planned-parenthood: rgba(21,116,196,1);
 $aclu: rgba(81,146,203,1);
 $epa: rgba(0,108,181,1);
 $thrive-market: rgba(58,196,149,1);
+$salad-days: rgba(117,181,0,1);
+$ford-factory: rgba(202,101,60,1);
+$io-playa-vista: rgba(180,195,1,1);
+$chn-foundation: rgba(43,79,124,1);
+$newmark: rgba(0,71,132,1);
+$tdae: rgba(74,74,74,1);
 
 $image-gradient-color-top: $nose;
 $transparency-top: 0.3;
@@ -20,6 +26,8 @@ $image-gradient-color-right: $poppy;
 $transparency-right: 0.3;
 $horizontal-angle: 135deg;
 
+//measurements
+$tall-logo-max: 10vw;
 
 //type
 $base-border-radius: 3px !default;
@@ -29,11 +37,11 @@ $titles: 'apercu-medium', sans-serif;
 $copies: 'Work Sans', sans-serif;
 $nav-color: $black;
 $link-color: $nose;
-$action-color: $poppy;
+$action-color: $nose;
 
 //neat
 $danno-grid: (
-  columns: 13,
+  columns: 16,
   media: 1024px,
   gutter: 30px
 );

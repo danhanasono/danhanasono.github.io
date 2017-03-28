@@ -2,7 +2,6 @@ footer {
 	position: absolute;
 	bottom: 0px;
 	width: 100%;
-	opacity: 0;
 	ul {
 		margin: 0 1px 20px 60px;
 		padding: 0;
@@ -19,6 +18,14 @@ footer {
 			}
 		}
 	}
+}
+
+#home-footer {
+  opacity: 0;
+}
+
+#other-footer {
+  position: relative;
 }
 
 .tooltip {

@@ -16,8 +16,8 @@ $(document).ready(function() {
 			loop: false,
 			showCursor: true,
 			callback: function() {
-				console.log('toots toots toots');
-				$('footer').addClass('animated fadeInUp');
+				// console.log('toots toots toots');
+				$('#home-footer').addClass('animated fadeInUp');
 				foldThatDom()
 			},
 		});
