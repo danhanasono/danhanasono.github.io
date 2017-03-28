@@ -17,6 +17,9 @@
   }
   font-size: $responsive;
 }
+
+@include clearfix;
+
 /*
 @mixin large-screen {
   @media (min-width: #{$desktop-1600px + 1px}) and (max-width: #{$desktop-1920px}) {

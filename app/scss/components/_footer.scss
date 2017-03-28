@@ -26,6 +26,15 @@ footer {
 
 #other-footer {
   position: relative;
+  margin-top: 60px;
+  padding-top: 14px;
+  background-color: $light-gray;
+  display: block;
+    small {
+      time {
+        opacity: 0;
+      } 
+    }
 }
 
 .tooltip {
@@ -50,6 +59,8 @@ footer {
       color: $base-font-color;
       line-height: $base-line-height;
       margin: 0;
+      font-size: 0.875em;
+      line-height: 1.25em;
     }
 
     &::after {

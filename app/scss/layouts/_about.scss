@@ -1,0 +1,60 @@
+#about {
+	margin-top: 5vh;
+	a {
+		margin-bottom: 30px;
+		&::after {
+			content: unset;
+		}
+	}
+	img {
+		width: 100%;
+		display: block;
+		position: relative;
+		margin-top: 30px;
+	}
+	.about-header-img, .about-footer-img {
+		@include grid-container;
+		padding: 0 60px;
+		img {
+			margin-top: 0;
+		}
+	}
+	.about-footer-img {
+		margin-top: 30px;
+	}
+}
+
+figcaption {
+/*	position: absolute;
+    bottom: 0px;
+    left: 80px;*/
+    color: $black;
+    font-size: .75em;
+    font-family: $copies;
+    margin-top: 5px;
+    height: 2em;
+}
+
+.resume {
+	float: right;
+}
+
+.about-intro, .big-blip {
+	@include grid-column(10, $danno-grid);
+	@include grid-push(3, $danno-grid);
+}
+
+.about-intro {
+	margin-bottom: 20px;
+}
+
+.little-blip {
+	@include grid-column(5, $danno-grid);
+	@include grid-push(3, $danno-grid);
+	margin-bottom: 30px;
+}
+.little-blip:nth-child(2), .little-blip:nth-child(5) {
+	@include grid-push(0);
+}
+
+

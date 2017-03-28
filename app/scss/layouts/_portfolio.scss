@@ -1,10 +1,16 @@
 #portfolio {
-	margin-top: 5vh
+	margin-top: 5vh;
+	ul { 
+		list-style: none; 
+		padding: 0;
+		margin: 0;
+	}
+	li {
+		margin-bottom: 30px;
+	}
 }
 
-a {
-	margin-bottom: 30px;
-}
+
 
 .portfolio-intro, .output-intro {
 	@include grid-column(10, $danno-grid);
@@ -100,12 +106,7 @@ a {
 }
 
 .th-other-2 {
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#3cc8d7+0,f7a044+100 */
-	background: #3cc8d7; /* Old browsers */
-	background: -moz-linear-gradient(top,  #3cc8d7 0%, #f7a044 -100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top,  #3cc8d7 0%,#f7a044 -100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom,  #3cc8d7 0%,#f7a044 -100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3cc8d7', endColorstr='#f7a044',GradientType=0 ); /* IE6-9 */
+	background-color: $dark-gray;
 }
 
 .th-planned-parenthood {
