@@ -10,8 +10,6 @@
 	}
 }
 
-
-
 .portfolio-intro, .output-intro {
 	@include grid-column(10, $danno-grid);
 	@include grid-push(3, $danno-grid);
@@ -30,6 +28,10 @@
 .thumb-half-height, .thumb-sq-height {
 	position: relative;
 	@include grid-column(4, $danno-grid);
+	&:hover, &:focus {
+		background-color: $action-color;
+		color: $light-gray;
+	}
 }
 
 .thumb-half-height:before {
@@ -42,6 +44,7 @@
 	content: "";
 	display: block;
 	padding-top: 100%; 	/* 100% is square dude*/
+	overflow: hidden;
 }
 
 .thumb {
@@ -51,6 +54,7 @@
 	bottom: 0;
 	right: 0;
 	cursor: pointer;
+	overflow: hidden;
 	img {
 		display: block;
 		margin:0 auto;
@@ -59,17 +63,40 @@
 		top: 50%;
 		transform: translateY(-50%);
 	}
-	&:hover, &:focus {
-		background-color: $action-color;
-		color: $light-gray;
-	}
+	
 	h3 {
 		position: relative;
 		top: 50%;
-		transform: translateY(-50%);
+		transform: translateY(-70%);
 		text-align: center;
 		color: white;
 	}
+	figcaption {
+		position: relative;
+		top: 50%;
+		transform: translateY(-70%);
+		text-align: center;
+		color: white;
+	}
+}
+
+.thumb:hover > div {
+	transform: translate(0, 0%);
+	transition: all 0.2s ease-in-out;
+}
+
+.tile-caption {
+    background-color: rgba(0, 0, 0, 0.6875);
+    z-index: 10;
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: white;
+    transform: translate(0, 100%);
+    transition: all 0.2s ease-in-out;
 }
 
 .th-aclu {
@@ -95,18 +122,21 @@
 .th-newmark {
 	background-color: $newmark;
 }
-
+      
 .th-other {
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#3cc8d7+0,f7a044+100 */
-	background: #3cc8d7; /* Old browsers */
-	background: -moz-linear-gradient(top,  #3cc8d7 0%, #f7a044 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top,  #3cc8d7 0%,#f7a044 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom,  #3cc8d7 0%,#f7a044 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3cc8d7', endColorstr='#f7a044',GradientType=0 ); /* IE6-9 */
+	@include linear-gradient(-45deg, $nose 0%, $poppy 100%);
+	&:hover, &:focus {
+		background: $action-color;
+		color: $light-gray;
+	}
 }
 
 .th-other-2 {
-	background-color: $dark-gray;
+	@include linear-gradient(135deg, $nose 0%, $poppy 100%);
+}
+
+.th-other, .th-other-2 {
+	
 }
 
 .th-planned-parenthood {
