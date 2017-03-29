@@ -1,0 +1,49 @@
+#single {
+	margin-top: 5vh;
+	a, em, code, p {
+		&::after {
+			content: unset;
+		}
+	}
+
+	code {
+	    display: block;
+	    margin-top: 0.4em;
+	}
+
+	p {
+		margin-bottom: 15px;
+		font-weight: normal;
+	}
+
+	img {
+			width: 100%;
+			display: block;
+			position: relative;
+			margin-top: 30px;
+	}
+
+	h1, h2, h3, h4, h5 {
+		margin-top: 30px;
+	}
+
+	thead {
+		font-family: $titles;
+	}
+
+	td {
+		font-family: $copies;
+	}
+
+	.post-header-img {
+		@include grid-container;
+		img {
+			margin-top: 0;
+		}
+	}
+
+	.post-section {
+		@include grid-column(10, $danno-grid);
+		@include grid-push(3, $danno-grid);
+	}
+}

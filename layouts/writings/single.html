@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>{{ .Title }}</title>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<meta name="destription" content="{{ .Description }}">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="../../../css/styles.min.css">
-</head>
+{{ partial "head.html" . }}
+{{ partial "nav.html" . }}
+{{ $baseURL := .Site.BaseURL }}
 <body>
-	<main>
-		<article>
-			<h1>{{ .Title }}</h1>
+	<main id="single">
+		<article class="post-section">
+			<a href="../"><-back</a>
+			<h2>{{ .Title }}</h2>
+			<p class="date">{{ .Date.Format "Mon, Jan 2, 2006" }} </p>
+			<p class="type">by {{ $.Param "Author" }} • Reading Time ~{{ $.Param "time" }}</p>
 			{{ .Content }}
 		</article>
 	</main>
 </body>
+{{ partial "footer.html" . }}
 </html>

@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://danno.co/portfolio/thrive-market-feature/</loc>
+    <lastmod>2017-03-27T17:14:25-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://danno.co/portfolio/</loc>
     <lastmod>2017-03-27T11:35:50-07:00</lastmod>
   </url>
@@ -23,7 +28,7 @@
   
   <url>
     <loc>http://danno.co/</loc>
-    <lastmod>2017-03-27T11:35:50-07:00</lastmod>
+    <lastmod>2017-03-27T17:14:25-07:00</lastmod>
     <priority>0</priority>
   </url>
   

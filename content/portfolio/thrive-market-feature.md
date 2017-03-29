@@ -7,7 +7,6 @@ Description = ""
 Author = "Dan Hanasono"
 
 +++
-[<Back](../)
 # Thrive Market Feature
 
 ## The non-GMO Overview

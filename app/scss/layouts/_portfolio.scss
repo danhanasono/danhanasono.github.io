@@ -123,20 +123,16 @@
 	background-color: $newmark;
 }
       
-.th-other {
-	@include linear-gradient(-45deg, $nose 0%, $poppy 100%);
+.th-other, .th-other-2 {
+	/*@include linear-gradient(-45deg, $nose 0%, $poppy 100%);*/
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f7a044+0,3cc8d7+100 */
+background: #f7a044; /* Old browsers */ /* FF3.6-15 */ /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #f7a044 0%,#3cc8d7 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7a044', endColorstr='#3cc8d7',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 	&:hover, &:focus {
 		background: $action-color;
 		color: $light-gray;
 	}
-}
-
-.th-other-2 {
-	@include linear-gradient(135deg, $nose 0%, $poppy 100%);
-}
-
-.th-other, .th-other-2 {
-	
 }
 
 .th-planned-parenthood {
