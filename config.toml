@@ -1,7 +1,15 @@
-languageCode = "en-us"
-title = "Dan Hanasono | Product Manager"
+# Site settings
 baseURL = "http://danno.co"
-description = "Danno's product portfolio site"
-TwitterUser = "danhanasono"
-CopyrightHTML = ""
+# HTML Language Code Reference
+languageCode = "en-us"
 DefaultContentLanguage = "en"
+# 
+title = "Dan Hanasono | Product Manager"
+description = "Danno's product portfolio site"
+InstagramUser = "brkfstburrito"
+TwitterUser = "danhanasono"
+AngelCoUser = "danhanasono"
+MediumUser = "dannoh"
+ProductHuntUser = "danhanasono"
+Email = "dan.hanasono@gmail.com"
+CopyrightHTML = "copyright.html"

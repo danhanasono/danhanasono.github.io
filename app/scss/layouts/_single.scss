@@ -1,42 +1,26 @@
 #single {
 	margin-top: 5vh;
-	a, em, code, p {
-		&::after {
-			content: unset;
-		}
-	}
-
-	code {
-	    display: block;
-	    margin-top: 0.4em;
-	}
-
 	p {
 		margin-bottom: 15px;
 		font-weight: normal;
 	}
 
 	img {
-			width: 100%;
-			display: block;
-			position: relative;
-			margin-top: 30px;
+		width: 100%;
+		display: block;
+		position: relative;
+		margin-top: 30px;
 	}
 
 	h1, h2, h3, h4, h5 {
 		margin-top: 30px;
 	}
 
-	thead {
-		font-family: $titles;
-	}
-
-	td {
-		font-family: $copies;
-	}
-
 	.post-header-img {
-		@include grid-container;
+		/*@include grid-container;*/
+		width: 150%;
+		transform: translateX(-16.5%);
+		padding: 0;
 		img {
 			margin-top: 0;
 		}
@@ -46,4 +30,17 @@
 		@include grid-column(10, $danno-grid);
 		@include grid-push(3, $danno-grid);
 	}
+
+	.split-content {
+		width: calc(50% - 15px);
+		margin: 0;
+		float: left;
+	}
+
+	.split-content:nth-child(odd) {
+		margin-left: 30px;
+	}
+/*	.split-content-right {
+		@include grid-column(5, $danno-grid);
+	}*/
 }

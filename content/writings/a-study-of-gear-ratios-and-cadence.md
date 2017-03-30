@@ -6,6 +6,7 @@ slug = ""
 date = "2017-03-27T11:17:21-07:00"
 title = "a study of gear ratios and cadence"
 time = "10 minutes"
+type = "writings"
 
 +++
 
@@ -28,21 +29,32 @@ One big strategy for training is to run a long time (or distance - same thing es
 ## Gear Study - the whips
 I have two bikes I've ridden for a few years, each with totally different purposes, but both are in fine shape to ride and train on.
 
-Here is the first bike, a steel Surly Cross Check I got on sale to tow my kids about, get myself to work/errand destinations, and, in general, ride for fun around town. It's smooth like butter.
+I am riding on two bikes, a steel Surly Cross Check I got on sale to tow my kids about, get myself to work/errand destinations, and, in general, ride for fun around town. It's smooth like butter.
 ![Cross check baby][cross-check]
 
 The second bike, what I will call a *vintage* Lemond* I did not get on sale, in fact I learned some important lessons about managing personal finance back in the day from buying it impulsively. It is stable, fun, comfortable, and well worth the lesson and rides that followed.
-![Twelve years and counting][lemond]
+<div class="split-content">
+	<img src ="https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/17125708_421097804909017_2084188985541787648_n.jpg">
+	<figcaption>Push-hard Fifi!</figcaption>
+</div>
+<div class="split-content">
+	<img src ="https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/17125708_421097804909017_2084188985541787648_n.jpg">
+	<figcaption>Push-hard Fifi!</figcaption>
+</div>
 
+<!-- ![Twelve years and counting][lemond]
+ -->
 *It is only 12 years old, but to me looks vintage next to some whips out there.
 
 As you can see, the frames are slightly different in weight, geometry, etc. Given that the tire diameters are the same, and the crank length is the same. I want to devise a quick reference table to help myself and potentially a rider or two out there who have bikes with different front cassettes, but are trying to be disciplined with their cadence training.
 
 ### Gear Math Example
-On the Lemond, I have a 53 / 39 front cassette, meaning that I have two rings to choose from - one larger ring with 53 teeth and one smaller ring with 39. This is a standard crankset for many classic road bikes. 
+On the Lemond, I have a 53 / 39 front cassette, meaning that I have two rings to choose from - one larger ring with 53 teeth and one smaller ring with 39. This is a standard crankset for many classic road bikes.
+
 `var frontCogLemond = new Array("39", "53");`
 
 The rear cassette is 12-26, also a standard for 18 speed road bikes (as I write this I realize that 18 speed is old school now), with gears ranging from 12 teeth on the small ring to 26 teeth on the large. The rear cassette cog breakdown for reference is…
+
 `var rearCogLemond = new Array ("12","13","14","15","17","19","21","23","26")`
 
 One example for training, if I were to ride two hours on the smaller front ring (baby steps right?), as well as the fifth ring down in the rear, I'm pedaling a ratio of…
@@ -51,10 +63,13 @@ This simply means that my rear wheel is spinning 2.29x for every single rotation
 
 ### Gear Math Example 2
 On the Surly, the front and rear cog are more compact, set-up like a mountain bike even though it is an entry-level cyclocross bike (if these terms are unfamiliar, then let me know, I'm happy to nerd out more with you). It too is an 18 speed bike, and the cassettes are set up like so…
+
 `var frontCogSurly = new Array("36", "48");`
+
 `var rearCogSurly = new Array ("11","12","14","16","18","21","24","28","32")`
 
 If I were to hop over to the Surly, and set my gears in the exact same position, the ratio would feel different, or would it?
+
 `36 teeth / 21 teeth = 1.714`
 
 What does this mean? Well, on the Surly, if I was keeping that same 93 rpm #wethepeople, then my rear tire would be spinning almost a half rotation less per crank spin. To the user, the cyclist's legs, with the same effort would fly up to 140 rpm to keep the same speed. This is too fast with leg rotations, so the end result would probably be a slower speed and more time in the saddle (which is no fun).
@@ -75,6 +90,9 @@ Below is a rudimentary table of the low and high gear ratios for both bikes, let
 39 | 14 | 2.79 | 36 | -- | -.--
 39 | 13 | 3.00 | 36 | 12 | 3.00
 39 | 12 | 3.25 | 36 | 11 | 3.27
+
+
+&nbsp;
 
 54 Front Gear | 12-26 Rear Gear | Ratio A | 48 Front Gear | 11-32 Rear Gear | Ratio B
 --- | --- | --- | --- | --- | ---
@@ -104,8 +122,9 @@ I tried to line up values to ~ +/- 15 hundredths gear ratios. I figure that my l
 ## What else
 Welcome to my blog, this is my first post and on a topic that has been in my headspace for some time. I'll be covering all kinds of topics, largely as a journal. Some posts for fun, some with a product cap on, good times.
 ![Let's get it started][me]
+<figcaption>now imagine if I had this whip! #whatawhip</figcaption>
 
-[me]: https://lh3.googleusercontent.com/0M9La9NjzWVI7UAO9GZc_kplkfAUudUZxQKoI5FvkuPL5XK-R5UsALhOxaFtaH64vYKkZAG2EReV6XnryAQjW5iwDF_Ie4Y6F97Hub3f74XXPwcOseKd09VsC6992jIwu4KTeaALR8UYKtU_YrvPgmRV-xDJHx-pdBXNfc2BDkVodgwwLmK1RHjYSczX9fhwDxWsAHfvawIYS2b6tnOwRhfOe1ymlkFq76hTH7C14FD8oBwsO2SXQqIe5q9VMa77xnIYjTZTyk8qg3nERuEHcAE70hiz0o0JY8yTLJ8TgfazWjr4RH3avKn5rbAooiQ7SMo2GhXHPl4OdS3FqphWknJBGsjUbQLrs4IwM4LVdPaaDjbENgDFjfht99P5YgpD_wmzvUdBRXCk-KD8TxmyoSUk2LPlWfL8hqi3xklUNctb75-Y9cylb1jDG0Z19PBhTta1wY4L40VjT2Bv0FJtQzi6ld5uLTpHn0P7d75foGz2Ymm3yeFuTadNq8s4QXDz_pRJtRif-iiqJ7Fz9vESa6kyxTmtAKJIfjYB7a7wgKXPwIss5GSmVuoA344Zp9nkGgQ-_dwOB6EKzzIRroLm5VV6OSrdV6KKQAyQ96BXEt13sylbhu0dyA=w1200-h1598-no
+[me]: /images/w-that-stinner-bike-dream.jpg
 [cross-check]: https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/17076855_961821877285469_51715709801070592_n.jpg
 [lemond]: https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/17125708_421097804909017_2084188985541787648_n.jpg
 [lacbc-url]: http://www.la-bike.org/

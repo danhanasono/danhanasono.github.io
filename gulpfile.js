@@ -89,6 +89,11 @@ gulp.task('fonts', function() {
   .pipe(gulp.dest('static/fonts'))
 })
 
+gulp.task('pdfs', function() {
+  return gulp.src('app/pdfs/**/*')
+  .pipe(gulp.dest('static/pdfs'))
+})
+
 gulp.task('clean:static', function() {
   return del.sync('static');
 })
@@ -103,7 +108,7 @@ return cache.clearAll(callback)
 // });
 gulp.task('build', function (callback) {
   runSequence('clean:static', 
-    ['sass', 'fonts', 'useref', 'images'],
+    ['sass', 'fonts', 'pdfs','useref', 'images'],
     callback
   )
 })

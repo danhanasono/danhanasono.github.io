@@ -34,10 +34,10 @@ h2 {
 
 h3 {
 	font-family: $titles;
-    font-size: 1.4em;
-    font-weight: 400;
-    line-height: 1.3em;
-    margin-bottom: 0.4em;
+	font-size: 1.4em;
+	font-weight: 400;
+	line-height: 1.3em;
+	margin-bottom: 0.4em;
 }
 
 p.date {
@@ -75,53 +75,175 @@ a {
 
 a.read-more {
 	display: inline-block;
-    font-family: $titles;
-    font-size: 0.8em;
-    font-weight: 700;
-    margin-left: 0.2em;
-    position: relative;
-    text-transform: uppercase;
+	font-family: $titles;
+	font-size: 0.8em;
+	font-weight: 700;
+	margin-left: 0.2em;
+	position: relative;
+	text-transform: uppercase;
 
-    span {
-      font-family: $titles;
-      font-size: 1.5em;
-      font-style: normal;
-      position: absolute;
-      right: -12px;
-      top: -1px;
-    }
+	span {
+	  font-family: $titles;
+	  font-size: 1.5em;
+	  font-style: normal;
+	  position: absolute;
+	  right: -12px;
+	  top: -1px;
+	}
 }
 
 .type {
-    border-bottom: 1px solid;
-    display: inline-block;
-    font-family: $copies;
-    font-size: 0.7em;
-    font-weight: 800;
-    margin-bottom: 2em;
-    padding: 0.3em 0;
-    text-align: left;
-    text-transform: uppercase;
+	border-bottom: 1px solid;
+	display: inline-block;
+	font-family: $copies;
+	font-size: 0.7em;
+	font-weight: 800;
+	margin-bottom: 2em;
+	padding: 0.3em 0;
+	text-align: left;
+	text-transform: uppercase;
   }
 
 hr {
 	border-bottom: 1px solid $light-gray;
-    border-left: 0;
-    border-right: 0;
-    border-top: 0;
-    margin: $base-line-height 0;
+	border-left: 0;
+	border-right: 0;
+	border-top: 0;
+	margin: $base-line-height 0;
 }
 
 code {
-   background: #F7F7F7;
+   background: $light-gray;
    border-radius: $base-border-radius * 1.5;
-   border: 1px solid #E0E0E0;
-   font-size: 1em;
+   /*border: 1px solid #E0E0E0;*/
+   font-size: 1.25em;
    font-style: normal;
-   padding: 0.1em 0.4em;
+   padding: .5em .635em;
    white-space: nowrap;
- }
+   box-shadow: 0 2px 2px rgba(0,0,0,.1);
+   display: inline-block;
+   margin: 0.4em;
+}
 
+a, em, code, p {
+  &::after {
+	content: unset;
+  }
+}
+
+.table-fill {
+	background: white;
+	border-radius:3px;
+	border-collapse: collapse;
+	height: 320px;
+	margin: auto;
+	max-width: 600px;
+	padding:5px;
+	width: 100%;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+	animation: float 5s infinite;
+}
+
+th {
+	color: $light-gray;
+	background: $dark-gray;
+	border-bottom: 4px solid #9ea7af;
+	border-right: 1px solid #343a45;
+	font-size: 1.25em;
+	font-weight: 100;
+	padding: .625em;
+	text-align: left;
+	vertical-align: middle;
+	font-family: $titles;
+}
+
+th:last-child {
+    border-right:none;
+}
+
+tr {
+	border-top: 1px solid #C1C3D1;
+	border-bottom-: 1px solid #C1C3D1;
+	color: $dark-gray;
+	font-size: 1em;
+	font-weight: normal;
+}
+
+/*tr:hover td {
+background:#4E5066;
+color:#FFFFFF;
+border-top: 1px solid #22262e;
+border-bottom: 1px solid #22262e;
+}*/
+
+tr:first-child {
+	border-top:none;
+}
+
+tr:last-child {
+	border-bottom:none;
+}
+
+tr:nth-child(odd) td {
+	background:#EBEBEB;
+}
+
+/*tr:nth-child(odd):hover td {
+background:#4E5066;
+}*/
+
+tr:last-child td:first-child {
+	border-bottom-left-radius:3px;
+}
+
+tr:last-child td:last-child {
+	border-bottom-right-radius:3px;
+}
+
+td {
+	background: #FFFFFF;
+	padding: .625em;
+	text-align: center;
+	vertical-align:middle;
+	font-weight: normal;
+	font-size: 1em;
+	border-right: 1px solid #C1C3D1;
+	font-family: $copies;
+}
+
+td:last-child {
+	border-right: 0px;
+}
+
+th.text-left {
+	text-align: left;
+}
+
+th.text-center {
+	text-align: center;
+}
+
+th.text-right {
+	text-align: right;
+}
+
+td.text-left {
+	text-align: left;
+}
+
+td.text-center {
+	text-align: center;
+}
+
+td.text-right {
+	text-align: right;
+}
+
+ol li {
+	font-family: $copies;
+	font-size: 1.25em;
+	line-height: $base-line-height;
+}
 
 /*start object styles*/
 .external-link {
@@ -150,7 +272,7 @@ code {
 	font-size: 5vw;
 	color: white;
 	padding-left: 36px;
-    line-height: 3.5vw;
+	line-height: 3.5vw;
 }
 */
 .rotate {
@@ -173,10 +295,10 @@ filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
 }
 
 ul {
-    list-style-type: none;
-    margin-left: 25px;
-    padding-top: 5px;
-    padding-left: 0;
+	list-style-type: none;
+	margin-left: 25px;
+	padding-top: 5px;
+	padding-left: 0;
 }*/
 
 /** {
