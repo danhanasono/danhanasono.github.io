@@ -1,5 +1,11 @@
 #about {
 	margin-top: 5vh;
+	h1 {
+		float: left;
+	}
+	h2 {
+		clear: left;
+	}
 	a {
 		margin-bottom: 30px;
 		&::after {
@@ -36,12 +42,33 @@ figcaption {
 }
 
 .resume {
-	float: right;
+	float: left;
+    display: block;
+    padding: 20px 15px 15px 15px;
+    background-color: $light-gray;
+    margin-left: 130px;
+    margin-top: 14px;
+    &:hover, &:focus {
+    	background-color: $nose;
+    	color: white;
+    }
+    i{
+    	display: block;
+    	transform: translateY(-50%);
+    }
+    p {
+    	font-size: 0.875em;
+    	line-height: .6em;
+    }
 }
 
 .about-intro, .big-blip {
 	@include grid-column(10, $danno-grid);
 	@include grid-push(3, $danno-grid);
+}
+
+.big-blip {
+	margin-bottom: 30px;
 }
 
 .about-intro {

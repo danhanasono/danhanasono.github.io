@@ -131,8 +131,8 @@ gulp.task('default', function (callback) {
   )
 })
 
-gulp.task('deploy', function() {
-  return gulp.src('./static/**/*')
-    .pipe(ghPages());
-});
+// gulp.task('deploy', function() {
+//   return gulp.src('./static/**/*')
+//     .pipe(ghPages());
+// });
 

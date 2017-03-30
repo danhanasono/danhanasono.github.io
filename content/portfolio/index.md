@@ -152,4 +152,8 @@ type = "portfolio"
  			</li>
 			</ul>
 		</article>
+		<article>
+			<a href="#top-o-page" class="back-to-top">{{< fa sort-asc >}}
+			<p>Scroll to top</p></a>
+		</article>
 </section>

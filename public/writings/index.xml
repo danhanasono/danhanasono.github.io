@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writings on Dan Hanasono | Product Manager</title>
+    <link>http://danno.co/writings/index.xml</link>
+    <description>Recent content in Writings on Dan Hanasono | Product Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Mar 2017 11:17:21 -0700</lastBuildDate>
+    <atom:link href="http://danno.co/writings/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>a study of gear ratios and cadence</title>
+      <link>http://danno.co/writings/a-study-of-gear-ratios-and-cadence/</link>
+      <pubDate>Mon, 27 Mar 2017 11:17:21 -0700</pubDate>
+      
+      <guid>http://danno.co/writings/a-study-of-gear-ratios-and-cadence/</guid>
+      <description>
+
+&lt;p&gt;&lt;article class=&#34;post-header-img&#34;&gt;
+    &lt;img src=&#34;http://danno.co/images/dan-profile-lg.png&#34; alt=&#34;A pic of me up in public presenting&#34;&gt;
+    &lt;figcaption&gt;Push-hard Fifi!&lt;/figcaption&gt;
+&lt;/article&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;roll-a-hundred&#34;&gt;Roll-a-hundred&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been taking to the streets lately in great anticipation of &lt;a href=&#34;http://www.la-bike.org/&#34;&gt;LACBC&lt;/a&gt;&amp;rsquo;s 17th Annual &lt;a href=&#34;http://www.la-bike.org/riverride&#34;&gt;LA River Ride 2017&lt;/a&gt;. Call it a training push, but I signed up to ride 100 miles come June 4th. Mind you, I have never ridden what is commonly referred to as a &amp;ldquo;century&amp;rdquo;, nor have I been keeping in shape with spin class or indoor training. Nope, this is an addendum to my time transitioning into product - to get fit.&lt;/p&gt;
+
+&lt;p&gt;Biking is a natural exercise for me. Great cardio, great core and leg strengthening, and some vitamin D and cool sites you can&amp;rsquo;t see from walking or driving around L.A. I&amp;rsquo;ve been cycling on and off since I was six, a by-product of growing up in an Indy-car town where tinkering with both vehicle and engine is second hand for a good ride. Sound familiar? #product&lt;/p&gt;
+
+&lt;p&gt;While I wouldn&amp;rsquo;t say outright that biking is the most social form of exercise out there, it is surprising how many interactions I&amp;rsquo;ve had in the short 2-3 weeks I&amp;rsquo;ve started riding again. Twenty-minute ride-alongs with strangers who see me struggling and coach me along. Chit chat off bikes at destination points with experienced riders. &lt;a href=&#34;https://www.instagram.com/brkfstburrito/?hl=en&#34;&gt;Instagram&lt;/a&gt; and &lt;a href=&#34;https://www.strava.com/athletes/18288126&#34;&gt;Strava&lt;/a&gt; have been strong inspiration and motivation respectively.&lt;/p&gt;
+
+&lt;h2 id=&#34;cadence-hack&#34;&gt;Cadence Hack&lt;/h2&gt;
+
+&lt;p&gt;One big strategy for training is to run a long time (or distance - same thing essentially) at a high cadence of 90-110 rpms. The focus is less on leg strength, more on ride volume (time in the saddle) and cardio capacity (how hard you can push before you pant out). A quick cadence reference for myself and a small cadence hack…just listen to a few seconds of A Tribe Called Quest&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=BDxKVYUHBdA&#34;&gt;&amp;ldquo;We the People&amp;rdquo;&lt;/a&gt;, which is a steady 93 bpm. Your left foot should rotate one full crank for each beat, &lt;em&gt;boom&lt;/em&gt;, 93 rpm #nowthatissometoetapping.
+&lt;!-- YouTube Embed --&gt;
+&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;&lt;div class=&#39;embed-container&#39;&gt;&lt;iframe src=&#39;https://www.youtube.com/embed/BDxKVYUHBdA&#39; frameborder=&#39;0&#39; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;gear-study-the-whips&#34;&gt;Gear Study - the whips&lt;/h2&gt;
+
+&lt;p&gt;I have two bikes I&amp;rsquo;ve ridden for a few years, each with totally different purposes, but both are in fine shape to ride and train on.&lt;/p&gt;
+
+&lt;p&gt;I am riding on two bikes, a steel Surly Cross Check I got on sale to tow my kids about, get myself to work/errand destinations, and, in general, ride for fun around town. It&amp;rsquo;s smooth like butter.
+&lt;img src=&#34;https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/17076855_961821877285469_51715709801070592_n.jpg&#34; alt=&#34;Cross check baby&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The second bike, what I will call a &lt;em&gt;vintage&lt;/em&gt; Lemond* I did not get on sale, in fact I learned some important lessons about managing personal finance back in the day from buying it impulsively. It is stable, fun, comfortable, and well worth the lesson and rides that followed.
+&lt;div class=&#34;split-content&#34;&gt;
+    &lt;img src =&#34;https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/17125708_421097804909017_2084188985541787648_n.jpg&#34;&gt;
+    &lt;figcaption&gt;Push-hard Fifi!&lt;/figcaption&gt;
+&lt;/div&gt;
+&lt;div class=&#34;split-content&#34;&gt;
+    &lt;img src =&#34;https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/17125708_421097804909017_2084188985541787648_n.jpg&#34;&gt;
+    &lt;figcaption&gt;Push-hard Fifi!&lt;/figcaption&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;!-- ![Twelve years and counting][lemond]
+ --&gt;
+
+&lt;p&gt;*It is only 12 years old, but to me looks vintage next to some whips out there.&lt;/p&gt;
+
+&lt;p&gt;As you can see, the frames are slightly different in weight, geometry, etc. Given that the tire diameters are the same, and the crank length is the same. I want to devise a quick reference table to help myself and potentially a rider or two out there who have bikes with different front cassettes, but are trying to be disciplined with their cadence training.&lt;/p&gt;
+
+&lt;h3 id=&#34;gear-math-example&#34;&gt;Gear Math Example&lt;/h3&gt;
+
+&lt;p&gt;On the Lemond, I have a 53 / 39 front cassette, meaning that I have two rings to choose from - one larger ring with 53 teeth and one smaller ring with 39. This is a standard crankset for many classic road bikes.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;var frontCogLemond = new Array(&amp;quot;39&amp;quot;, &amp;quot;53&amp;quot;);&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The rear cassette is 12-26, also a standard for 18 speed road bikes (as I write this I realize that 18 speed is old school now), with gears ranging from 12 teeth on the small ring to 26 teeth on the large. The rear cassette cog breakdown for reference is…&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;var rearCogLemond = new Array (&amp;quot;12&amp;quot;,&amp;quot;13&amp;quot;,&amp;quot;14&amp;quot;,&amp;quot;15&amp;quot;,&amp;quot;17&amp;quot;,&amp;quot;19&amp;quot;,&amp;quot;21&amp;quot;,&amp;quot;23&amp;quot;,&amp;quot;26&amp;quot;)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;One example for training, if I were to ride two hours on the smaller front ring (baby steps right?), as well as the fifth ring down in the rear, I&amp;rsquo;m pedaling a ratio of…
+&lt;code&gt;39 teeth / 17 teeth = 2.294&lt;/code&gt;
+This simply means that my rear wheel is spinning 2.29x for every single rotation of the cranks. At 93 rpm, thats some spinning wheels!&lt;/p&gt;
+
+&lt;h3 id=&#34;gear-math-example-2&#34;&gt;Gear Math Example 2&lt;/h3&gt;
+
+&lt;p&gt;On the Surly, the front and rear cog are more compact, set-up like a mountain bike even though it is an entry-level cyclocross bike (if these terms are unfamiliar, then let me know, I&amp;rsquo;m happy to nerd out more with you). It too is an 18 speed bike, and the cassettes are set up like so…&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;var frontCogSurly = new Array(&amp;quot;36&amp;quot;, &amp;quot;48&amp;quot;);&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;var rearCogSurly = new Array (&amp;quot;11&amp;quot;,&amp;quot;12&amp;quot;,&amp;quot;14&amp;quot;,&amp;quot;16&amp;quot;,&amp;quot;18&amp;quot;,&amp;quot;21&amp;quot;,&amp;quot;24&amp;quot;,&amp;quot;28&amp;quot;,&amp;quot;32&amp;quot;)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;If I were to hop over to the Surly, and set my gears in the exact same position, the ratio would feel different, or would it?&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;36 teeth / 21 teeth = 1.714&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;What does this mean? Well, on the Surly, if I was keeping that same 93 rpm #wethepeople, then my rear tire would be spinning almost a half rotation less per crank spin. To the user, the cyclist&amp;rsquo;s legs, with the same effort would fly up to 140 rpm to keep the same speed. This is too fast with leg rotations, so the end result would probably be a slower speed and more time in the saddle (which is no fun).&lt;/p&gt;
+
+&lt;h2 id=&#34;gear-ratio-comparison-table&#34;&gt;Gear ratio comparison table&lt;/h2&gt;
+
+&lt;p&gt;Below is a rudimentary table of the low and high gear ratios for both bikes, let&amp;rsquo;s see if we see any patterns…&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;39 Front Gear&lt;/th&gt;
+&lt;th&gt;12-26 Rear Gear&lt;/th&gt;
+&lt;th&gt;Ratio A&lt;/th&gt;
+&lt;th&gt;36 Front Gear&lt;/th&gt;
+&lt;th&gt;11-32 Rear Gear&lt;/th&gt;
+&lt;th&gt;Ratio B&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;&amp;ndash;&lt;/td&gt;
+&lt;td&gt;-.&amp;ndash;&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;td&gt;32&lt;/td&gt;
+&lt;td&gt;1.13&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;&amp;ndash;&lt;/td&gt;
+&lt;td&gt;-.&amp;ndash;&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;td&gt;28&lt;/td&gt;
+&lt;td&gt;1.29&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;26&lt;/td&gt;
+&lt;td&gt;1.50&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;td&gt;1.50&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;td&gt;1.70&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;1.71&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;1.86&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;td&gt;&amp;ndash;&lt;/td&gt;
+&lt;td&gt;-.&amp;ndash;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;td&gt;2.05&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;2.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;2.29&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;2.25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;2.60&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;2.57&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;2.79&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;td&gt;&amp;ndash;&lt;/td&gt;
+&lt;td&gt;-.&amp;ndash;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;3.00&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;3.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;3.25&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;3.27&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;54 Front Gear&lt;/th&gt;
+&lt;th&gt;12-26 Rear Gear&lt;/th&gt;
+&lt;th&gt;Ratio A&lt;/th&gt;
+&lt;th&gt;48 Front Gear&lt;/th&gt;
+&lt;th&gt;11-32 Rear Gear&lt;/th&gt;
+&lt;th&gt;Ratio B&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;54&lt;/td&gt;
+&lt;td&gt;&amp;ndash;&lt;/td&gt;
+&lt;td&gt;-.&amp;ndash;&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;td&gt;32&lt;/td&gt;
+&lt;td&gt;1.50&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;54&lt;/td&gt;
+&lt;td&gt;&amp;ndash;&lt;/td&gt;
+&lt;td&gt;-.&amp;ndash;&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;td&gt;28&lt;/td&gt;
+&lt;td&gt;1.71&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;54&lt;/td&gt;
+&lt;td&gt;26&lt;/td&gt;
+&lt;td&gt;2.08&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;td&gt;2.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;54&lt;/td&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;td&gt;2.35&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;2.29&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;54&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;2.57&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;2.67&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;54&lt;/td&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;td&gt;2.84&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;td&gt;&amp;ndash;&lt;/td&gt;
+&lt;td&gt;-.&amp;ndash;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;54&lt;/td&gt;
+&lt;td&gt;&amp;ndash;&lt;/td&gt;
+&lt;td&gt;-.&amp;ndash;&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;3.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;54&lt;/td&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;3.18&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;td&gt;&amp;ndash;&lt;/td&gt;
+&lt;td&gt;-.&amp;ndash;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;54&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;3.60&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;3.43&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;54&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;3.86&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;td&gt;&amp;ndash;&lt;/td&gt;
+&lt;td&gt;-.&amp;ndash;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;54&lt;/td&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;4.15&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;4.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;54&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;4.50&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;4.36&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;I tried to line up values to ~ +/- 15 hundredths gear ratios. I figure that my legs, as novices, probably could not feel a different of a tenth of a wheel spin difference. I could probably see a slight difference in bike speed if my cadence is robot precise, but with hills, winds, bumps, obstacles, that isn&amp;rsquo;t likely to matter over two hours of pedalling.&lt;/p&gt;
+
+&lt;h2 id=&#34;general-observations&#34;&gt;General observations&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Surly for the climbs&lt;/strong&gt;
+It is a heavier frame, but with a low gear ratios of 1.13, I would assume the Surly will be a better climber. The mountain bike drive train reflects this.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lemond for the speed&lt;/strong&gt;
+With the rare exception of a continuous straight-hill descent with no stops or turns, the Lemond will be able to push out just a few more rotations in the highest gear with a ratio of 4.5. The Surly is respectable at 4.36 rear-revolutions per crank turn, but the reality is that the Lemond has more cassette teeth closer together on the high speeds, which means a more incremental shifting experience at the high speeds.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Some gears overlap&lt;/strong&gt;
+There are cozy spots on both bikes and on both front cassettes, where the ratio is close. One bike is slightly heavier than the other, but that aside, the overlap is nice. If I had to jump&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;what-else&#34;&gt;What else&lt;/h2&gt;
+
+&lt;p&gt;Welcome to my blog, this is my first post and on a topic that has been in my headspace for some time. I&amp;rsquo;ll be covering all kinds of topics, largely as a journal. Some posts for fun, some with a product cap on, good times.
+&lt;img src=&#34;http://danno.co/images/w-that-stinner-bike-dream.jpg&#34; alt=&#34;Let&#39;s get it started&#34; /&gt;
+&lt;figcaption&gt;now imagine if I had this whip! #whatawhip&lt;/figcaption&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

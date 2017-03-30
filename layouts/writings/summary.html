@@ -1,18 +1,17 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
 	{{ partial "head.html" . }}
 	{{ partial "nav.html" . }}
 	{{ $baseURL := .Site.BaseURL }}
 	<body>
-		<section id="wrapper" class="home">
+		<article>
 		{{ range .Data.Pages.GroupByDate "2006" }}
 			<div class="archive">
 				<h3>{{ .Key }}</h3>
 				<ul>
 					{{ range .Pages }}
 					<div class="post-item">
-						<div class="post-time">{{ .Date.Format "Jan 2" }}
-						</div>
+						<div class="post-time">{{ .Date.Format "March 2nd, 2017" }}</div>
 						<a href="{{ .Permalink }}" class="post-link">
 						{{ if .Site.Params.useDescriptionAsTitle }}
 						{{ .Description }}
@@ -25,7 +24,8 @@
 				</ul>
 			</div>
 		{{ end }}
-		</section>
+		</article>
 	</body>
 	{{ partial "footer.html" . }}
 </html>
+ -->

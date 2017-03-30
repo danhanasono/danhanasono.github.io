@@ -1,8 +1,6 @@
 $(document).ready(function() {
 
 	setTimeout (introItAll,500);
-	// setTimeout (foldThatDom,1500);
-	// setTimeout (revealTheDom,500);
 
 	//Typed.js intro
 	function introItAll(){
@@ -71,24 +69,25 @@ $(document).ready(function() {
 
 
 	//Smooth scroll
-	// $("a[href^='#']:not([href=#carousel-gallery])").on('click', function(e) {
+	$("a[href^='#']:not([href=#carousel-gallery])").on('click', function(e) {
 
-	// 	// prevent default anchor click behavior
-	// 	e.preventDefault();
+		// prevent default anchor click behavior
+		e.preventDefault();
 
-	// 	// store hash
-	// 	var hash = this.hash;
+		// store hash
+		var hash = this.hash;
 
-	// 	// animate
-	// 	$('html, body').animate({
-	// 		scrollTop: $(hash).offset().top
-	// 	}, 800, function(){
+		// animate
+		$('html, body').animate({
+			scrollTop: $(hash).offset().top
+		}, 800, function(){
 
-	// 		// when done, add hash to url
-	// 		// (default click behaviour)
-	// 		window.location.hash = hash;
-	// 	});
-	// });
+			// when done, add hash to url
+			// (default click behaviour)
+			window.location.hash = hash;
+			console.log('typed.js is live yo');
+		});
+	});
 
 	//test if script is loaded
 	// var myScript = document.createElement('script'); 
