@@ -5,6 +5,7 @@ Author = "Dan Hanasono"
 slug = ""
 date = "2017-03-27T11:17:21-07:00"
 title = "a study of gear ratios and cadence"
+image = "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/15056770_1803780916544291_2440065685016018944_n.jpg"
 time = "10 minutes"
 type = "writings"
 

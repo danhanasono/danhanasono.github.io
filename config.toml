@@ -1,9 +1,8 @@
-# Site settings
-baseURL = "http://danno.co"
 # HTML Language Code Reference
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-# 
+# Site settings
+baseURL = "http://danno.co" 
 title = "Dan Hanasono | Product Manager"
 description = "Danno's product portfolio site"
 InstagramUser = "brkfstburrito"
@@ -13,3 +12,9 @@ MediumUser = "dannoh"
 ProductHuntUser = "danhanasono"
 Email = "dan.hanasono@gmail.com"
 CopyrightHTML = "copyright.html"
+# Sitemap settings
+# Site settings
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
