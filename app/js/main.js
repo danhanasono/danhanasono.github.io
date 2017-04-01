@@ -89,12 +89,12 @@ $(document).ready(function() {
 		});
 	});
 
-	//test if script is loaded
-	// var myScript = document.createElement('script'); 
-	// myScript.src = 'js/vendor/typed.js';
-	// myScript.onload = function() { 
-	//   console.log('typed.js is live yo');
-	// };
+	// test if script is loaded
+	var myScript = document.createElement('script'); 
+	myScript.src = 'js/vendor/masonry.pkgd.js';
+	myScript.onload = function() { 
+	  console.log('masonry.js is live yo');
+	};
 
 	// document.body.appendChild(myScript);
 

@@ -8,25 +8,35 @@
 		{{ range .Data.Pages.GroupByDate "2006" }}
 			<article class="post-section">
 			<h1>writings</h1>
-			<h2>some gibberish here eh</h2>
-			<!-- 				<h3>{{ .Key }}</h3>
-			-->				
-				<ul>
+				<ul class="grid">
 				{{ range .Pages }}
 					{{ if and (isset .Params "image") .Params.image }}
-					<li class="post-item">
-						<a href="{{ .Permalink }}" class="post-time" style="background-image: url({{ .Params.image }})">
-							<div></div>
-							<div class="post-link">
+					<li class="post-item grid-item">
+						<a href="{{ .Permalink }}">
+							<img src="{{ .Params.image }}">
+							<h3>
 								{{ if .Site.Params.useDescriptionAsTitle }}
 								{{ .Description }}
 								{{ else }}
 								{{ .Title }}
 								{{ end }}
-							</div>
+							</h3>
 							<p class="date">{{ .Date.Format "Jan 2" }}</p>
 						</a>
 					</li>
+					{{ else }}
+					<li class="post-item grid-item">
+						<a href="{{ .Permalink }}">
+							<h3>
+								{{ if .Site.Params.useDescriptionAsTitle }}
+								{{ .Description }}
+								{{ else }}
+								{{ .Title }}
+								{{ end }}
+							</h3>
+							<p class="date">{{ .Date.Format "Jan 2" }}</p>
+						</a>
+					</li>					
 					{{ end }}
 				{{ end }}			
 				</ul>

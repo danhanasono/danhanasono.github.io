@@ -239,7 +239,8 @@
             &lt;/ul&gt;
         &lt;/article&gt;
         &lt;article&gt;
-            &lt;a href=&#34;#&#34;&gt;Scroll to top&lt;/a&gt;
+            &lt;a href=&#34;#top-o-page&#34; class=&#34;back-to-top&#34;&gt;&lt;i class=&#34;fa fa-sort-asc&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+            &lt;p&gt;Scroll to top&lt;/p&gt;&lt;/a&gt;
         &lt;/article&gt;
 &lt;/section&gt;
 </description>

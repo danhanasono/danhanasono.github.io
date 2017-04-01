@@ -11,9 +11,43 @@
 		li {
 			margin-bottom: 30px;
 		}
+		h3 {
+			color: white;
+			margin-top: 5px;
+		}
 	}
 	.post-item {
-		@include grid-column(8, $danno-grid);
-		@include grid-push(4, $danno-grid);
+		@include grid-column (8, $danno-grid);
+		margin-left: 0;
+		display: block;
+		background-color: $poppy;
+		padding: 15px;
+		&:hover, &:focus {
+			background-color: $nose;
+		}
+		a img {
+			/*width: 100%;*/
+			/*height: auto;*/
+			width: 426.25px;
+			height: 426.25px;
+			display: block;
+			object-fit: cover;
+		}
+	}
+	.post-item:nth-child(odd) {
+		background-color: $nose;
+		&:hover, &:focus {
+			background-color: $poppy;
+		}
+	}
+	.post-item:nth-child(even) {
+		margin-left: 30px;
+	}
+}
+
+#single {
+	a.back-link {
+		text-transform: uppercase;
+	    font-size: 0.8em;
 	}
 }
