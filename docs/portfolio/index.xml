@@ -6,8 +6,62 @@
     <description>Recent content in Portfolios on Dan Hanasono | Product Manager</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Mar 2017 23:53:23 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 Mar 2017 10:49:04 -0700</lastBuildDate>
     <atom:link href="http://danno.co/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>other digital projects</title>
+      <link>http://danno.co/portfolio/other-digital-works/</link>
+      <pubDate>Thu, 30 Mar 2017 10:49:04 -0700</pubDate>
+      
+      <guid>http://danno.co/portfolio/other-digital-works/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>other analog projects</title>
+      <link>http://danno.co/portfolio/other-analog-works/</link>
+      <pubDate>Thu, 30 Mar 2017 10:48:22 -0700</pubDate>
+      
+      <guid>http://danno.co/portfolio/other-analog-works/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tdae website</title>
+      <link>http://danno.co/portfolio/tdae-website/</link>
+      <pubDate>Thu, 30 Mar 2017 10:47:37 -0700</pubDate>
+      
+      <guid>http://danno.co/portfolio/tdae-website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>newmark website</title>
+      <link>http://danno.co/portfolio/newmark-website/</link>
+      <pubDate>Thu, 30 Mar 2017 10:46:36 -0700</pubDate>
+      
+      <guid>http://danno.co/portfolio/newmark-website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chn foundation website</title>
+      <link>http://danno.co/portfolio/chn-foundation-website/</link>
+      <pubDate>Thu, 30 Mar 2017 10:46:22 -0700</pubDate>
+      
+      <guid>http://danno.co/portfolio/chn-foundation-website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>io playa vista website</title>
+      <link>http://danno.co/portfolio/io-playa-vista-website/</link>
+      <pubDate>Thu, 30 Mar 2017 10:46:05 -0700</pubDate>
+      
+      <guid>http://danno.co/portfolio/io-playa-vista-website/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ford factory website</title>
@@ -183,6 +237,10 @@
                 &lt;/a&gt;
             &lt;/li&gt;
             &lt;/ul&gt;
+        &lt;/article&gt;
+        &lt;article&gt;
+            &lt;a href=&#34;#top-o-page&#34; class=&#34;back-to-top&#34;&gt;&lt;i class=&#34;fa fa-sort-asc&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+            &lt;p&gt;Scroll to top&lt;/p&gt;&lt;/a&gt;
         &lt;/article&gt;
 &lt;/section&gt;
 </description>

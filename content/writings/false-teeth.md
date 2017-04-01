@@ -5,9 +5,22 @@ Author = "Dan Hanasono"
 slug = ""
 date = "2017-03-27T11:35:50-07:00"
 title = "false teeth"
-draft = ""
+draft = "true"
+image = "https://media.giphy.com/media/Rm1p7xp3Odl2o/giphy.gif"
 
 +++
+
+{{< tweet 830163431730794497 >}}
+
+{{< youtube nAXPm9P0mwU >}}
+
+{{< vimeo 124137958 >}}
+
+{{< instagram BR1cpXTBuOl >}}
+
+<div class="small-mid">
+  {{< instagram BR1cpXTBuOl >}}
+</div>
 
 # This is an H1
 ## This is an H2

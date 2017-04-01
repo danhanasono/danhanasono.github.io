@@ -9,7 +9,12 @@
 			<a href="../" class="back-link"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> back</a>
 			<h2>{{ .Title }}</h2>
 			<p class="date">{{ .Date.Format "Mon, Jan 2, 2006" }} </p>
-			<p class="type">by {{ $.Param "Author" }} • Reading Time ~{{ $.Param "time" }}</p>
+			<p class="type">by {{ $.Param "Author" }}{{ if $.Param "time"}}
+			 • Reading Time ~{{ $.Param "time" }} minutes
+			{{ else }}
+			&nbsp;
+			{{ end }}
+			</p>
 			{{ .Content }}
 		</article>
 	</main>

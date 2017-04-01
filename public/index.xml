@@ -10,12 +10,15 @@
     <atom:link href="http://danno.co/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>danno cc build</title>
+      <title>danno.cc build</title>
       <link>http://danno.co/writings/danno-cc-build/</link>
       <pubDate>Fri, 31 Mar 2017 21:47:19 -0700</pubDate>
       
       <guid>http://danno.co/writings/danno-cc-build/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/Rm1p7xp3Odl2o/giphy.gif&#34; alt=&#34;bit by bit&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/Rm1p7xp3Odl2o/giphy.gif&#34; alt=&#34;bit by bit&#34; /&gt;
+&lt;figcaption&gt;This is a total placeholder gif, 100% borrowed from &lt;a href=&#34;https://giphy.com/gifs/Rm1p7xp3Odl2o&#34;&gt;Clasharama&lt;/a&gt;.&lt;/figcaption&gt;&lt;/p&gt;
+
+&lt;!-- Link  --&gt;
 </description>
     </item>
     
@@ -466,169 +469,6 @@ Since the bulk of this type of training and the century ride itself is largely o
       
       <guid>http://danno.co/portfolio/thrive-market-feature/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>false teeth</title>
-      <link>http://danno.co/writings/false-teeth/</link>
-      <pubDate>Mon, 27 Mar 2017 11:35:50 -0700</pubDate>
-      
-      <guid>http://danno.co/writings/false-teeth/</guid>
-      <description>
-
-&lt;h1 id=&#34;this-is-an-h1&#34;&gt;This is an H1&lt;/h1&gt;
-
-&lt;h2 id=&#34;this-is-an-h2&#34;&gt;This is an H2&lt;/h2&gt;
-
-&lt;h3 id=&#34;this-is-an-h3&#34;&gt;This is an H3&lt;/h3&gt;
-
-&lt;h4 id=&#34;this-is-an-h4&#34;&gt;This is an H4&lt;/h4&gt;
-
-&lt;h5 id=&#34;this-is-an-h5&#34;&gt;This is an H5&lt;/h5&gt;
-
-&lt;h6 id=&#34;this-is-an-h6&#34;&gt;This is an H6&lt;/h6&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Here is a bunch of blockquote gibberish.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Here is a blockquote, quoted within a blockquote.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Back to first blockquote level.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;blue chips&lt;/li&gt;
-&lt;li&gt;red chips&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;yellow chips&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;blue chips&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;red chips&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;yellow chips&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;blue chips&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;red chips&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;yellow chips&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-&lt;li&gt;blue chips&lt;/li&gt;
-&lt;li&gt;red chips&lt;/li&gt;
-&lt;li&gt;yellow chips&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-&lt;li&gt;blue chips are quite a tasty treat to eat on a hot day.&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;no, I would argue that red chips are quite a tasty treat to eat on a hot day.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;blue chips are quite a tasty treat      to eat on a hot day.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;no, I would argue that red chips        are quite a tasty treat to eat on a
-hot day.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Bird&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Magic&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Bird&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Magic&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;what do you think of this?&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;code = &amp;lt;div&amp;gt; big wheel &amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;div class=&#34;footer&#34;&gt;
-    &amp;copy; 2004 Foo Corporation
-&lt;/div&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;div class=&amp;quot;footer&amp;quot;&amp;gt;
-    &amp;amp;copy; 2004 Foo Corporation
-&amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;hr /&gt;
-
-&lt;hr /&gt;
-
-&lt;hr /&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;This is &lt;a href=&#34;http://example.com/&#34; title=&#34;Title&#34;&gt;an example&lt;/a&gt; inline link.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://example.net/&#34;&gt;This link&lt;/a&gt; has no title attribute.&lt;/p&gt;
-
-&lt;p&gt;See my &lt;a href=&#34;http://danno.co/about/&#34;&gt;About&lt;/a&gt; page for details.&lt;/p&gt;
-
-&lt;p&gt;This is &lt;a href=&#34;http://example.com/&amp;gt;&#34; title=&#34;Optional Title Here&#34;&gt;an example&lt;/a&gt; reference-style link.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://google.com/&#34; title=&#34;Google&#34;&gt;Google&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Visit &lt;a href=&#34;http://daringfireball.net/&#34;&gt;Daring Fireball&lt;/a&gt; for more information.&lt;/p&gt;
-
-&lt;p&gt;I get 10 times more traffic from &lt;a href=&#34;http://google.com/&#34; title=&#34;Google&#34;&gt;Google&lt;/a&gt; than from
-&lt;a href=&#34;http://search.yahoo.com/&#34; title=&#34;Yahoo Search&#34;&gt;Yahoo&lt;/a&gt; or &lt;a href=&#34;http://search.msn.com/&#34; title=&#34;MSN Search&#34;&gt;MSN&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I get 10 times more traffic from &lt;a href=&#34;http://google.com/&#34; title=&#34;Google&#34;&gt;Google&lt;/a&gt; than from
-&lt;a href=&#34;http://search.yahoo.com/&#34; title=&#34;Yahoo Search&#34;&gt;Yahoo&lt;/a&gt; or &lt;a href=&#34;http://search.msn.com/&#34; title=&#34;MSN Search&#34;&gt;MSN&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Use the &lt;code&gt;printf()&lt;/code&gt; function.
-&lt;code&gt;There is a literal backtick (`) here.&lt;/code&gt;
-A single backtick in a code span: &lt;code&gt;`&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;A backtick-delimited string in a code span: &lt;code&gt;`foo`&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://danno.co/path/to/img.jpg&#34; alt=&#34;Alt text&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://danno.co/path/to/img.jpg&#34; alt=&#34;Alt text&#34; title=&#34;Optional title&#34; /&gt;
-&lt;img src=&#34;http://example.com/&amp;gt;&#34; alt=&#34;Alt text&#34; title=&#34;Optional Title Here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://example.com/&#34;&gt;http://example.com/&lt;/a&gt;
-&lt;a href=&#34;mailto:address@example.com&#34;&gt;address@example.com&lt;/a&gt;
-*literal asterisks*&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?feature=player_embedded&amp;v=YOUTUBE_VIDEO_ID_HERE
-&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg&#34; 
-alt=&#34;IMAGE ALT TEXT HERE&#34; width=&#34;240&#34; height=&#34;180&#34; border=&#34;10&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg&#34; alt=&#34;IMAGE ALT TEXT HERE&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Markdown&lt;/th&gt;
-&lt;th&gt;Less&lt;/th&gt;
-&lt;th&gt;Pretty&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;em&gt;Still&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;renders&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;nicely&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
     </item>
     
     <item>
