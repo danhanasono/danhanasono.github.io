@@ -5,7 +5,7 @@ Author = "Dan Hanasono"
 slug = ""
 date = "2017-03-27T11:17:21-07:00"
 title = "About Me"
-time = "10 minutes"
+time = ""
 
 +++
 <section id="about">
