@@ -108,7 +108,7 @@ return cache.clearAll(callback)
 // });
 gulp.task('build', function (callback) {
   runSequence('clean:static', 
-    ['sass', 'fonts', 'pdfs','useref', 'images'],
+    ['sass', 'fonts', 'pdfs', 'useref', 'images'],
     callback
   )
 })
