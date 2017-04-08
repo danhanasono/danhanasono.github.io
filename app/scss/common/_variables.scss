@@ -55,6 +55,16 @@ $tooltip-shadow: 0 2px 2px silver;
 $tooltip-distance-from-item: 4.5em;
 $tooltip-arrow-distance-from-box: -1.3em;
 
+//refills = expander
+$expander-arrow-width: 1em;
+$expander-toggle-size: 1em;
+$expander-toggle-arrow-size: $expander-toggle-size;
+$expander-toggle-margin: 2em;
+
+//refilles = parallax
+$parallax-window-height: 25em;
+$parallax-background-height: $parallax-window-height * 2;
+
 $iphone5-vertical: 320px;
 $iphone6-vertical: 375px;
 $iphone6-plus-vertical: 414px;
