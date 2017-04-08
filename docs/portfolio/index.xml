@@ -73,12 +73,119 @@
     </item>
     
     <item>
-      <title>salad days product</title>
+      <title>salad days app</title>
       <link>http://danno.co/portfolio/salad-days-product/</link>
       <pubDate>Wed, 29 Mar 2017 23:53:09 -0700</pubDate>
       
       <guid>http://danno.co/portfolio/salad-days-product/</guid>
-      <description></description>
+      <description>&lt;section id=&#34;portfolio&#34;&gt;
+            &lt;article class=&#34;portfolio-intro&#34;&gt;
+                &lt;h1 class=&#34;salad-days&#34;&gt;Salad Days App&lt;/h1&gt;
+            &lt;/article&gt;
+            &lt;article id=&#34;js-parallax-window&#34; class=&#34;parallax-window&#34;&gt;
+                &lt;div class=&#34;parallax-static-content&#34;&gt;
+                &lt;/div&gt;
+                &lt;div id=&#34;js-parallax-background&#34; class=&#34;parallax-background salad-days-background&#34;&gt;&lt;/div&gt;
+            &lt;/article&gt;
+        &lt;/section&gt;
+        &lt;section id=&#34;portfolio-item&#34;&gt;
+            &lt;article class=&#34;portfolio-overview&#34;&gt;
+                &lt;h2&gt;Project Overview&lt;/h2&gt;
+                    &lt;p&gt;Salad Days is the name of a new gardening app designed to use social and peer support to explore, grow, and fail together in an urban garden. The app focused on three major concepts to increase gardening as an activity in a younger generation.&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;
+                            &lt;h4&gt;Planting plan assistance with a shopping incentive&lt;/h4&gt;
+                            &lt;p&gt;Locale-specific planting planner with an heirloom and/or open-pollinated seed recommendation system via email with discounted seed from partnered suppliers (similar to fab.com)&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;h4&gt;Visual gardening&lt;/h4&gt;
+                            &lt;p&gt;Think selfies for your plants (plantsies). Using Instagram&#39;s API, images would be pushed to Salad Days, where users could go in and add meta data - plant status, comments, almost like a digital journal. Other users could comment, master gardeners could suggest help. Imagery would add social incentives to keep working in the garden (or at least to remember to water your plants).&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;h4&gt;Documentation&lt;/h4&gt;
+                            &lt;p&gt;A very simple documentation system was included when the app is rotated landscape for capturing stages of a plant, building out a personal almanac to reference seasonal timelines to plant, reap, and sow.&lt;/p&gt;
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;p&gt;The name &#34;Salad Days&#34; comes from the idiomatic expression that refers to a period of inexperience, enthusiasm, and idealism usually associated with one&#39;s youth. Grow. Ogle. Reap. Share.&lt;/p&gt;
+                  &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;article class=&#34;portfolio-colophon&#34;&gt;
+                &lt;h4&gt;Credits&lt;/h4&gt;
+                &lt;p&gt;This was a solo project with feedback from 12 UX Designers in Training + &lt;a href=&#34;https://www.ahundredyears.com/team/#marc-mertens&#34; target=&#34;_blank&#34;&gt;1 instructor&lt;/a&gt; while at &lt;a href=&#34;https://uclaextension.edu&#34; target=&#34;_blank&#34;&gt;UCLA Extension&lt;/a&gt;.&lt;/p&gt;
+                &lt;h4&gt;Client&lt;/h4&gt;
+                &lt;p&gt;Self-launch&lt;/p&gt;
+                &lt;h4&gt;Agency&lt;/h4&gt;
+                &lt;p&gt;Independent project&lt;/p&gt;
+                &lt;h4&gt;Deliverables&lt;/h4&gt;
+                &lt;p&gt;In a 10 week class, deliverables were 8 presentations covering insights, personas, sketches, wireframes, architecture, content-strategy, visual design, and then a final presentation.&lt;/p&gt;
+                &lt;h4&gt;Goal&lt;/h4&gt;
+                &lt;p&gt;Develop a product from problem through prototype solution practicing UX thinking.&lt;/p&gt;
+                &lt;h4&gt;Results&lt;/h4&gt;
+                &lt;p&gt;A final presentation was delivered in Pecha Kucha style (20 slides at 20 seconds each) in front of the class and about 50 mobile app evangelists. The presentation coincided with a Mobile UX Design Meetup I was co-organizing that was started by &lt;a href=&#34;http://zaidhisham.com&#34; target=&#34;_blank&#34;&gt;Zaid Hisham&lt;/a&gt;.&lt;/p&gt;
+            &lt;/article&gt;
+            &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+            &lt;article class=&#34;portfolio-details expander&#34;&gt;
+                &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Discovery&lt;/h2&gt;&lt;/a&gt;
+                  &lt;div class=&#34;expander-content&#34;&gt;
+                    &lt;p&gt;Located only three and a half miles from my home at the time, &lt;a href=&#34;https://www.youtube.com/watch?v=BhNLQKHYjXk&#34; target=&#34;_blank&#34;&gt;Manchester Square&lt;/a&gt; is a large residential neighborhood just east of LAX that is considered a food desert. Food deserts are inhabited areas where there is little or no access to healthy or fresh food. Many food deserts exist in rural residential areas, but they are prevalent in dense urban areas as well.&lt;/p&gt;
+                    &lt;h4&gt;The Problem: Food Deserts&lt;/h4&gt;
+                    &lt;p&gt;As part of the project I rode my bike through Manchester Square (see map for route). Fast food was abundant, but I found only one corner shop selling produce.&lt;/p&gt;
+                    &lt;img src=&#34;http://danno.co/images/pf-salad-bike-ride.jpg&#34; class=&#34;halfsies&#34; alt=&#34;map of bike ride through manchester square&#34;&gt;
+                    &lt;img src=&#34;http://danno.co/images/pf-salad-sad-produce.jpg&#34; class=&#34;halfsies two&#34; alt=&#34;produce in low supply at robert&#39;s market&#34;&gt;
+                    &lt;figcaption&gt;A cost analysis would have shown it was cheaper to buy dinner from a dollar meal menu than to assemble from fresh ingredients here.&lt;/figcaption&gt;
+                    &lt;h4&gt;Interviews &amp;amp; Insights&lt;/h4&gt;
+                    &lt;p&gt;Research was done to see if an opportunity existed for a product to help an existing organization. Interviews were conducted with random subjects, as well as heads of various organizations (including &lt;a href=&#34;http://celosangeles.ucanr.edu&#34; target=&#34;_blank&#34;&gt;UC Cooperative Extension, LA County&lt;/a&gt;, &lt;a href=&#34;https://foodforward.org&#34; target=&#34;_blank&#34;&gt;Food Forward&lt;/a&gt;, and &lt;a href=&#34;http://www.homegrowngardensla.com&#34; target=&#34;_blank&#34;&gt;Home Grown Gardens L.A.&lt;/a&gt;) working to solve food deserts. Lessons learned were to aim for the lowest hanging fruit (literally) which would be to empower one to grow food while building a community, and include feedback loops to bridge learning curves while gardening.&lt;/p&gt;
+                    &lt;p&gt;Further research took place attending events (and volunteering) at the &lt;a href=&#34;https://www.lafoodbank.org&#34; target=&#34;_blank&#34;&gt;L.A. Food Bank&lt;/a&gt;, the &lt;a href=&#34;http://marvistafarmersmarket.org&#34; target=&#34;_blank&#34;&gt;Mar Vista Farmers Market&lt;/a&gt;, &lt;a href=&#34;http://slola.org&#34; target=&#34;_blank&#34;&gt;The Seed Bank of Los Angeles&lt;/a&gt;, &lt;a href=&#34;http://www.thelearninggarden.org&#34; target=&#34;_blank&#34;&gt;The Learning Garden&lt;/a&gt;, &lt;a href=&#34;http://www.oceanviewfarms.net&#34; target=&#34;_blank&#34;&gt;Ocean View Farms&lt;/a&gt;, &lt;a href=&#34;http://chickswithknives.com&#34; target=&#34;_blank&#34;&gt;Chicks with Knives&lt;/a&gt;, and &lt;a href=&#34;http://gardenerd.com&#34; target=&#34;_blank&#34;&gt;Gardenerd&lt;/a&gt;. Big insights confirmed exploration of a gardening app as people across the board emotionally connect with things that they start. Also at the supply level, I learned that the commercial seed system is broken, using heirloom seeds or self-propagating seeds enables gardeners to harvest seed thus reducing a major cost.&lt;/p&gt;
+                  &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;article class=&#34;portfolio-details expander&#34;&gt;
+                &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Observations &amp;amp; Hypothesis&lt;/h2&gt;&lt;/a&gt;
+                  &lt;div class=&#34;expander-content&#34;&gt;
+                    &lt;h4&gt;Personas&lt;/h4&gt;
+                    &lt;p&gt;Five personas were created based on the sampling of the Manchester Square neighborhood and 5 mile radius, which includes students at LMU and residential areas in Westchester.&lt;/p&gt;
+                    &lt;img src=&#34;http://danno.co/images/pf-salad-personas.jpg&#34; alt=&#34;sample draft of a persona&#34;&gt;
+                    &lt;figcaption&gt;Sample persona, five were created to help develop the app.&lt;/figcaption&gt;
+                    &lt;p class=&#34;topsies&#34;&gt;At the time of development, there were numerous planting calendar and almanac apps, which were mainly reference material encapsulated in an app interface. Gamification was a big new platform, as were photo sharing sites Instagram and Snapchat. Gardening games existed, as did what I would call mobile portals to gardening forums, however there were no products aimed at socially sharing progress and support.&lt;/p&gt;
+                    &lt;p&gt;User stories and user flows were created to posit different ideas on how a social gardening app could benefit various personas. Extra research was done on gardening itself, including the creation of a patio garden. I planted sunflowers which continued to grow throughout the class.&lt;/p&gt;
+                    &lt;img src=&#34;http://danno.co/images/pf-salad-user-story.jpg&#34; alt=&#34;sample draft of a user story&#34;&gt;
+                    &lt;figcaption&gt;User stories helped to dramatically focus the world of information that is gardening.&lt;/figcaption&gt;
+                    &lt;img src=&#34;http://danno.co/images/pf-salad-user-scenario.jpg&#34; alt=&#34;sample draft of a user scenario&#34;&gt;
+                    &lt;figcaption&gt;User scenarios where hand-drawn to explore different user flows.&lt;/figcaption&gt;
+                  &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;article class=&#34;portfolio-details expander&#34;&gt;
+                &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Iterations&lt;/h2&gt;&lt;/a&gt;
+                  &lt;div class=&#34;expander-content&#34;&gt;
+                    &lt;p&gt;Initial concepts focused on experimenting with a SMS interface combined with emails for more information. Exploring a line of accessibility, shooting for the most ubiquitous and cost-friendly version of a product is key. It was determined that SMS, while most accessible, would limit growth to users keen on using social media.&lt;/p&gt;
+                    &lt;p&gt;Hand drawn wireframes explored user attenuation and accounted for all elements of the product. More user stories were created during this time to prioritize features.&lt;/p&gt;
+                    &lt;img src=&#34;http://danno.co/images/pf-salad-hand-wire.jpg&#34; alt=&#34;sample wireframe sketches and user stories&#34;&gt;
+                    &lt;figcaption&gt;Pen and paper, oh, and a floor.&lt;/figcaption&gt;
+                    &lt;p class=&#34;topsies&#34;&gt;Taking the design further, user flow diagrams and wireframes were rebuilt in OmniGraffle and thought was given to architecture and tech requirements. The main deliverable would be a smartphone app (smartphones being slightly more accessible than tablet or desktop), with an email communication loop. As long as you could take a photo, you could use Salad Days.&lt;/p&gt;
+                    &lt;img src=&#34;http://danno.co/images/pf-salad-user-flow.jpg&#34; class=&#34;halfsies&#34; alt=&#34;sample user flow diagram for user&#39;s first visit to the site&#34;&gt;
+                    &lt;img src=&#34;http://danno.co/images/pf-salad-wireframe.jpg&#34; class=&#34;halfsies two&#34; alt=&#34;sample wireframe&#34;&gt;
+                    &lt;figcaption&gt;Information architecture studies helped to clarify technical requirements.&lt;/figcaption&gt;
+                    &lt;p class=&#34;topsies&#34;&gt;Once the general design process was in a fully iterative state, content strategy and visual design was explored. The app required use of phone in portrait and landscape mode, and in the end to increase empathy, the user could adjust a &#34;salad bar&#34;, essentially a visual system to communicate how a user felt about their current garden. &#34;Low&#34; bars could attract the attention of experienced gardeners for help. &#34;High&#34; bars indicated a growing experience was going well and incouraged accolades. Very complicated&lt;/p&gt;
+                    &lt;p&gt;Language and prompts were examined. This app had to be fun, maybe even tongue in cheek, and nerdy references to gardening without judgement were necessary.&lt;/p&gt;
+                    &lt;img src=&#34;http://danno.co/images/pf-salad-turn-it-up.jpg&#34; class=&#34;halfsies&#34; alt=&#34;Using two fingers on a phone&#34;&gt;
+                    &lt;img src=&#34;http://danno.co/images/pf-salad-visual.jpg&#34; class=&#34;halfsies two&#34; alt=&#34;Work on visual design&#34;&gt;
+                    &lt;figcaption&gt;How would you like to use two fingers rotating on a phone as a user? Well, the idea was partially to explore hardware inputs as well.&lt;/figcaption&gt;
+                  &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;article class=&#34;portfolio-details expander&#34;&gt;
+                &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Terminus&lt;/h2&gt;&lt;/a&gt;
+                  &lt;div class=&#34;expander-content&#34;&gt;
+                    &lt;h3&gt;Demo&lt;/h3&gt;
+                    &lt;h4 class=&#34;resume button&#34;&gt;&lt;a href=&#34;https://projects.invisionapp.com/share/PU75TKSX#/screens&#34; target=&#34;_blank&#34;&gt;Click to see a working demo&lt;/a&gt;&lt;/h4&gt;
+                    &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+                    &lt;p class=&#34;topsies&#34;&gt;The link above goes to an Invision App prototype, best viewed on a smartphone. Because of the rotation from landscape to portrait, the prototype was served on a phone, native browser.&lt;/p&gt;
+                    &lt;p&gt;User feedback on the app was generally positive, part of the project was to explore ux design precedences. Spool-out menus like &lt;a href=&#34;https://www.path.com/login&#34; target=&#34;_blank&#34;&gt;Path&lt;/a&gt;, mixed with lower user-friendly two-finger touch, and rotational screens were all part of the creative solution process, and would most likely be scaled back.&lt;/p&gt;
+                    &lt;h3 class=&#34;topsies&#34;&gt;Conclusions&lt;/h3&gt;
+                    &lt;p&gt;My goal for this project was to incorporate learnings from UCLA Extension&#39;s UX Design class into an entire app/product from research through computational design that could be demoed for feedback. Final presentations were successful with several green thumbs in the audience approving of the idea.&lt;/p&gt;
+                    &lt;p&gt;Since this project completed, gardening apps come and go, but one product that is great is the watering control system built by &lt;a href=&#34;http://rachio.com&#34; target=&#34;_blank&#34;&gt;Rachio&lt;/a&gt;. By focusing on controlling locale through proper plant hydration, a big problem of gardening is eliminated. Not low hanging fruit, as Salad Days was designed for, but a neat product nonetheless.&lt;/p&gt; 
+                  &lt;/div&gt;
+            &lt;/article&gt;
+        &lt;/section&gt;
+</description>
     </item>
     
     <item>

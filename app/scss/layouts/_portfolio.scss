@@ -209,6 +209,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7a044', end
 	@include grid-column(13, $danno-grid);
 	margin-bottom: 30px;
 	margin-left: 0;
+	li {
+		list-style: none;
+	}
 }
 
 .portfolio-details {
@@ -237,6 +240,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7a044', end
 
 h1.thrive-market-feature {
 	color: $thrive-market;
+	margin-bottom: 0;
+}
+
+h1.salad-days {
+	color: $salad-days;
 	margin-bottom: 0;
 }
 
@@ -283,7 +291,12 @@ h1.thrive-market-feature {
   }
 }
 
-
+h4.button {
+	margin-left: 0;
+	&:hover {
+		color: white;
+	}
+}
 
 .parallax-window {
 	/*max-height: $parallax-window-height;*/
@@ -306,7 +319,7 @@ h1.thrive-market-feature {
 
 .parallax-background {
   background: url("/images/pf-thrive-hero.jpg") no-repeat;
-  background-position: center;
+  background-position: center center;
   background-size: cover;
   height: $parallax-background-height;
   left: 0;
@@ -315,5 +328,6 @@ h1.thrive-market-feature {
   width: 100%;
 }
 
-// Based on http://codepen.io/skeurentjes/
-
+.salad-days-background {
+	background: url("/images/pf-salad-hero.jpg") no-repeat;
+}
