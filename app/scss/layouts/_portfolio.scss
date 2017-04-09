@@ -248,6 +248,11 @@ h1.salad-days {
 	margin-bottom: 0;
 }
 
+h1.ford-factory {
+	color: $ford-factory;
+	margin-bottom: 0;
+}
+
 .expander {
 	a {
 		&:hover {
@@ -296,8 +301,23 @@ h4.button {
 	&:hover {
 		color: white;
 	}
+	a {
+		&:hover {
+			color: white;
+		}
+	}
 }
 
+/*image styles*/
+.border-it {
+	border: 1px solid $light-gray;
+}
+
+.img-absolute {
+	width: 800px;
+}
+
+/*parallax styles*/
 .parallax-window {
 	/*max-height: $parallax-window-height;*/
 	overflow: hidden;
@@ -330,4 +350,8 @@ h4.button {
 
 .salad-days-background {
 	background: url("/images/pf-salad-hero.jpg") no-repeat;
+}
+
+.ford-factory-background {
+	background: url("/images/pf-ford-hero.jpg") no-repeat;
 }
