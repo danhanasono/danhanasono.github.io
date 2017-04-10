@@ -358,6 +358,10 @@ h4.button {
 	background: url("/images/pf-newmark-hero.jpg") no-repeat;
 }
 
+.tdae-background {
+	background: url("/images/pf-tdae-hero.jpg") no-repeat;
+}
+
 
 h1.thrive-market-feature {
 	color: $thrive-market;
@@ -386,5 +390,10 @@ h1.chn-foundation {
 
 h1.newmark {
 	color: $newmark;
+	margin-bottom: 0;
+}
+
+h1.tdae {
+	color: $tdae;
 	margin-bottom: 0;
 }
