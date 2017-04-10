@@ -33,7 +33,92 @@
       <pubDate>Thu, 30 Mar 2017 10:47:37 -0700</pubDate>
       
       <guid>http://danno.co/portfolio/tdae-website/</guid>
-      <description></description>
+      <description>&lt;section id=&#34;portfolio&#34;&gt;
+    &lt;article class=&#34;portfolio-intro&#34;&gt;
+        &lt;h1 class=&#34;tdae&#34;&gt;The District at Eastover Website&lt;/h1&gt;
+        &lt;/article&gt;
+    &lt;article id=&#34;js-parallax-window&#34; class=&#34;parallax-window&#34;&gt;
+        &lt;div class=&#34;parallax-static-content&#34;&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;js-parallax-background&#34; class=&#34;parallax-background tdae-background&#34;&gt;&lt;/div&gt;             
+    &lt;/article&gt;
+&lt;/section&gt;
+&lt;section id=&#34;portfolio-item&#34;&gt;
+    &lt;section id=&#34;js-fadeInElement&#34; class=&#34;fade-in-element&#34;&gt;
+        &lt;article class=&#34;portfolio-overview&#34;&gt;
+            &lt;figcaption&gt;Image property of The District Land Development Co., LLC&lt;/figcaption&gt;
+            &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+            &lt;h2&gt;Project Overview&lt;/h2&gt;
+                &lt;p&gt;&lt;a href=&#34;http://thedistrictateastover.com&#34; target=&#34;_blank&#34;&gt;The District at Eastover&lt;/a&gt; is a 21-acre mixed-use project set near the University District of Jackson, Mississippi. It is located on the site of the former Mississippi School for the Blind and Deaf, and represents a new revitalization in the heart of the city, a concentration of a new urban lifestyle.&lt;/p&gt;
+                &lt;p&gt;The District Land Development Company along with the visionary late architect Michael Barranco, studied countless dense urban-use projects around the U.S. and Europe. The result, which was crafted with the help of &lt;a href=&#34;http://www.nelsenpartners.com&#34; target=&#34;_blank&#34;&gt;Nelsen Partners&lt;/a&gt; was centered around outdoor space and utility. Large thoughtful shaded awnings, pedestrian sidewalks, landscape that included large local shumard oak trees, and a central oval quad, were some of the thoughtful features.&lt;/p&gt;
+                &lt;p&gt;The project itself was complex, how does one simplify a development unique to the region? That was the challenge when TDLDC came to us.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;article class=&#34;portfolio-colophon&#34;&gt;
+            &lt;h4&gt;Credits&lt;/h4&gt;
+            &lt;p&gt;Product Manager: &lt;a href=&#34;http://danno.cc&#34; target=&#34;_blank&#34;&gt;Dan Hanasono&lt;/a&gt;&lt;br&gt;
+            Designer: &lt;a href=&#34;http://nikolnicole.com&#34; target=&#34;_blank&#34;&gt;Nicole Bella&lt;/a&gt;&lt;br&gt;
+            Developers: &lt;a href=&#34;http://www.carterthethird.com&#34; target=&#34;_blank&#34;&gt;Will Carter III&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://dresosh.com/#!/&#34; target=&#34;_blank&#34;&gt;Andre Soschinski&lt;/a&gt;&lt;br&gt;
+            Photographer: Breck Hines&lt;br&gt;&lt;/p&gt;
+            &lt;h4&gt;Client&lt;/h4&gt;
+            &lt;p&gt;&lt;a href=&#34;http://duckworthrealty.com&#34; target=&#34;_blank&#34;&gt;The District Land Development Co., LLC&lt;/a&gt;&lt;/p&gt;
+            &lt;h4&gt;Agency&lt;/h4&gt;
+            &lt;p&gt;&lt;a href=&#34;http://looking.la/#/newmark&#34; target=&#34;_blank&#34;&gt;Looking&lt;/a&gt;&lt;/p&gt;
+            &lt;h4&gt;Deliverables&lt;/h4&gt;
+            &lt;p&gt;&lt;a href=&#34;http://newmarkrealtycapital.com&#34; target=&#34;_blank&#34;&gt;Responsive Website&lt;/a&gt;&lt;/p&gt;
+            &lt;h4&gt;Goal&lt;/h4&gt;
+            &lt;p&gt;Break down a complicated project for the community and investors to understand.&lt;/p&gt;
+            &lt;h4&gt;Results&lt;/h4&gt;
+            &lt;p&gt;Additional stage funding including raising funds for one of two anchor dining tenants.&lt;/p&gt;
+            &lt;/article&gt;
+        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+        &lt;article class=&#34;portfolio-details expander&#34;&gt;
+            &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Discovery&lt;/h2&gt;&lt;/a&gt;
+              &lt;div class=&#34;expander-content&#34;&gt;
+                &lt;h4&gt;Design Inspiration&lt;/h4&gt;
+                &lt;p&gt;We entered a design sprint for initial direction, putting together multiple concepts for websites that addressed different stages of use. Should the website tell a story, focus on history, various approaches were explored.&lt;/p&gt;
+                &lt;p&gt;Design direction was inspired by &lt;a href=&#34;http://nelsenpartners.com&#34;&gt;Nelsen Partners&lt;/a&gt;&#39; early materials palette. Art direction was focused on grabbing tangible textures, raw materials, woods, carbon steel, and incorporating them into the look. As there was no photographer on site, we curated stock imagery with the client.&lt;/p&gt;
+                &lt;h4&gt;Interviews &amp;amp; Insights&lt;/h4&gt;
+                &lt;p&gt;In interviews with the client, we discovered that many assumptions were wrong about this development. Whereas previous mixed-use projects had involved solving how to market and promote available leasing space and calendar activities, &lt;a href=&#34;http://thedistrictateastover.com&#34; target=&#34;_blank&#34;&gt;The District at Eastover&lt;/a&gt; was in an earlier phase. There was a search for community understanding and financial backers. We had our target audience.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;article class=&#34;portfolio-details expander&#34;&gt;
+            &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Observations &amp;amp; Hypothesis&lt;/h2&gt;&lt;/a&gt;
+            &lt;div class=&#34;expander-content&#34;&gt;
+                &lt;h4&gt;Massing Model&lt;/h4&gt;
+                &lt;p&gt;Based on a key massing model from Nelsen Partners, we reviewed elevation drawings and mapped svg layers to create highlights of each type of space. Quickly in a few seconds, regardless of final design details which were in the works, an investor and/or community member could see versatility in the space.&lt;/p&gt;
+                &lt;div class=&#34;video&#34;&gt;
+                    &lt;div class=&#34;video-wrapper&#34;&gt;
+                        &lt;iframe src=&#34;https://www.youtube.com/embed/xkgOD6HlJqQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;p&gt;We created hover tooltips to display quick information about each type of space, with detailed information served below the massing model. The tool ended up helping many parties understand the scale and nature of the project. Mixed-use in suburban Jackson could easily be overlooked as against the grain, but by guiding the user to explore the space, a greater project comes to light.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/article&gt;
+        &lt;article class=&#34;portfolio-details expander&#34;&gt;
+            &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Iterations&lt;/h2&gt;&lt;/a&gt;
+              &lt;div class=&#34;expander-content&#34;&gt;
+                &lt;p&gt;A big part of the website was to show future investors of the progress in construction. We worked with a local drone photographer who shoots construction monthly. You can view progress on &lt;a href=&#34;http://thedistrictateastover.com/news-and-press.php&#34; target=&#34;_blank&#34;&gt;this page here&lt;/a&gt;. From the image above of a the empty triangular field, it is amazing to see how far the project has come.&lt;/p&gt;
+                &lt;p&gt;For &lt;a href=&#34;http://thedistrictateastover.com&#34; target=&#34;_blank&#34;&gt;The District at Eastover&lt;/a&gt;, and as a testament to their professionalism, a lot of work was done crafting language. How to describe actions without sounding too serious, how to describe the space without unnecessary marketing language. Such attention to detail has paid off for them, leasing up their main office building, landing two bank tenants, and two anchor restaurant tenants.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;article class=&#34;portfolio-details expander&#34;&gt;
+            &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Terminus&lt;/h2&gt;&lt;/a&gt;
+              &lt;div class=&#34;expander-content&#34;&gt;
+                &lt;h3&gt;Launched Website&lt;/h3&gt;
+                &lt;h4 class=&#34;resume button&#34;&gt;&lt;a href=&#34;http://thedistrictateastover.com&#34; target=&#34;_blank&#34;&gt;Click to see the site&lt;/a&gt;&lt;/h4&gt;
+                &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+                &lt;p&gt;For a sunny Angeleno, dab in the middle of Hollywoodland, it gave me some perspective to learn that The District at Eastover will house the first motion picture theater in Jackson, MS in over twenty years. This development was a big, big risk, almost counter-culture in nature. But the attention to detail and the focus on doing things right means this project will be a success down the line.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/article&gt;
+        &lt;/section&gt;
+&lt;div&gt;
+    &lt;a href=&#34;#top-o-page&#34; class=&#34;back-to-top&#34;&gt;&lt;i class=&#34;fa fa-sort-asc&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+    &lt;p&gt;Scroll to top&lt;/p&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+</description>
     </item>
     
     <item>
