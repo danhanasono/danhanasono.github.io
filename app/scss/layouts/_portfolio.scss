@@ -302,6 +302,11 @@ h4.button {
 	width: 800px;
 }
 
+/*video styles*/
+.under-video {
+	margin-top: 30px;
+}
+
 /*parallax styles*/
 .parallax-window {
 	/*max-height: $parallax-window-height;*/
@@ -349,6 +354,10 @@ h4.button {
 	background: url("/images/pf-chn-hero.jpg") no-repeat;
 }
 
+.newmark-background {
+	background: url("/images/pf-newmark-hero.jpg") no-repeat;
+}
+
 
 h1.thrive-market-feature {
 	color: $thrive-market;
@@ -372,5 +381,10 @@ h1.io-playa-vista {
 
 h1.chn-foundation {
 	color: $chn-foundation;
+	margin-bottom: 0;
+}
+
+h1.newmark {
+	color: $newmark;
 	margin-bottom: 0;
 }
