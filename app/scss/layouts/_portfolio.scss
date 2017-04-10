@@ -237,6 +237,20 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7a044', end
 	}
 }
 
+.portfolio-list {
+	ul {
+		margin: 0;
+		padding: 0;
+	}
+	li {
+		list-style: none;
+		/*text-align: center;*/
+	}
+	a {
+		font-family: $titles;
+		font-size: 4em;
+	}
+}
 
 .expander {
 	a {
@@ -362,6 +376,10 @@ h4.button {
 	background: url("/images/pf-tdae-hero.jpg") no-repeat;
 }
 
+.digital-background {
+	background: url("/images/pf-digital-hero.jpg") no-repeat;
+}
+
 
 h1.thrive-market-feature {
 	color: $thrive-market;
@@ -395,5 +413,10 @@ h1.newmark {
 
 h1.tdae {
 	color: $tdae;
+	margin-bottom: 0;
+}
+
+h1.digital {
+	color: $black;
 	margin-bottom: 0;
 }

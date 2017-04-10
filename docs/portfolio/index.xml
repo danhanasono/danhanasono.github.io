@@ -15,7 +15,202 @@
       <pubDate>Thu, 30 Mar 2017 10:49:04 -0700</pubDate>
       
       <guid>http://danno.co/portfolio/other-digital-works/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;main id=&#34;single&#34;&gt;
+    &lt;article class=&#34;post-section&#34;&gt;
+        &lt;a href=&#34;../&#34; class=&#34;back-link&#34;&gt;&lt;i class=&#34;fa fa-long-arrow-left&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; back&lt;/a&gt;
+    &lt;/article&gt;
+&lt;/main&gt;
+&lt;section id=&#34;portfolio&#34;&gt;
+    &lt;article class=&#34;portfolio-intro&#34;&gt;
+        &lt;h1 class=&#34;digital&#34;&gt;Other Digital Projects&lt;/h1&gt;
+        &lt;/article&gt;
+    &lt;article id=&#34;js-parallax-window&#34; class=&#34;parallax-window&#34;&gt;
+        &lt;div class=&#34;parallax-static-content&#34;&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;js-parallax-background&#34; class=&#34;parallax-background digital-background&#34;&gt;&lt;/div&gt;
+    &lt;/article&gt;
+&lt;/section&gt;
+&lt;section id=&#34;portfolio-item&#34;&gt;
+    &lt;section id=&#34;js-fadeInElement&#34; class=&#34;fade-in-element&#34;&gt;
+        &lt;article class=&#34;portfolio-list&#34;&gt;
+            &lt;h2&gt;Other Digital Projects&lt;/h2&gt;
+            &lt;p&gt;Below is a list of other digital projects I have worked on.&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://avionburbank.com&#34; target=&#34;_blank&#34;&gt;
+                        Avion Burbank
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://thepost.looking.la/#/vision&#34; target=&#34;_blank&#34;&gt;
+                        The Post Beverly Hills
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://lpcwest.com&#34; target=&#34;_blank&#34;&gt;
+                        LPC West
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://2700colorado.com/#/&#34; target=&#34;_blank&#34;&gt;
+                        2600 &amp;amp; 2700 Colorado
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://greenrooflounge.com&#34; target=&#34;_blank&#34;&gt;
+                        Green Roof Lounge
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://www.thetowerburbank.com/&#34; target=&#34;_blank&#34;&gt;
+                        The Tower
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://penfactory.la/&#34; target=&#34;_blank&#34;&gt;
+                        Pen Factory
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://connexionburbank.com/&#34; target=&#34;_blank&#34;&gt;
+                        Connexion
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://hivecostamesa.com&#34; target=&#34;_blank&#34;&gt;
+                        Hive Costa Mesa
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://29navy.com/&#34; target=&#34;_blank&#34;&gt;
+                        29 Navy
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://insitela.net/&#34; target=&#34;_blank&#34;&gt;
+                        INSITE
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://dths.org/&#34; target=&#34;_blank&#34;&gt;
+                        DeToledo High School
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://thewaterfrontredondo.com/&#34; target=&#34;_blank&#34;&gt;
+                        The Waterfront Redondo
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://studiopilates209.com/&#34; target=&#34;_blank&#34;&gt;
+                        Studio Pilates
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://7summitadvisors.com/&#34; target=&#34;_blank&#34;&gt;
+                        7Summit Advisors
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://centercal.com/&#34; target=&#34;_blank&#34;&gt;
+                        Centercal
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://thepointeburbank.com/&#34; target=&#34;_blank&#34;&gt;
+                        The Pointe
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://www.thereservela.com/&#34; target=&#34;_blank&#34;&gt;
+                        The Reserve
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://elanbydecca.com/&#34; target=&#34;_blank&#34;&gt;
+                        Élan by Decca
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://deccacontract.com/&#34; target=&#34;_blank&#34;&gt;
+                        Decca Contract
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://bolierco.com/&#34; target=&#34;_blank&#34;&gt;
+                        Bolier
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://worthe.com&#34; target=&#34;_blank&#34;&gt;
+                        Worthe
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://krismarconstruction.com&#34; target=&#34;_blank&#34;&gt;
+                        Krismar
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://losangeles.aiga.org&#34; target=&#34;_blank&#34;&gt;
+                        AIGA Los Angeles
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://www.aiga.org/end-gun-violence/&#34; target=&#34;_blank&#34;&gt;
+                        End Gun Violence
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://bosaproperties.com/evergreen/&#34; target=&#34;_blank&#34;&gt;
+                        Evergreen
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://rentatthestandard.com&#34; target=&#34;_blank&#34;&gt;
+                        The Standard
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://www.kolansky.com&#34; target=&#34;_blank&#34;&gt;
+                        Kolansky Design
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://bosaproperties.com/lido/index.php&#34; target=&#34;_blank&#34;&gt;
+                        Lido
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://bosaproperties.com/promontory/index.php&#34; target=&#34;_blank&#34;&gt;
+                        Promontory
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://bosaproperties.com/sovereign/index.php&#34; target=&#34;_blank&#34;&gt;
+                        Sovereign
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://thevols.tumblr.com&#34; target=&#34;_blank&#34;&gt;
+                        Vancouver Farmers Market Volunteers
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&#34;http://www.lbix.com&#34; target=&#34;_blank&#34;&gt;
+                        Leading Brands of Canada
+                    &lt;/a&gt;
+                &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/article&gt;
+        &lt;/section&gt;
+    &lt;div&gt;
+        &lt;a href=&#34;#top-o-page&#34; class=&#34;back-to-top&#34;&gt;&lt;i class=&#34;fa fa-sort-asc&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+        &lt;p&gt;Scroll to top&lt;/p&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/section&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -24,7 +219,12 @@
       <pubDate>Thu, 30 Mar 2017 10:48:22 -0700</pubDate>
       
       <guid>http://danno.co/portfolio/other-analog-works/</guid>
-      <description></description>
+      <description>&lt;main id=&#34;single&#34;&gt;
+    &lt;article class=&#34;post-section&#34;&gt;
+        &lt;a href=&#34;../&#34; class=&#34;back-link&#34;&gt;&lt;i class=&#34;fa fa-long-arrow-left&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; back&lt;/a&gt;
+    &lt;/article&gt;
+&lt;/main&gt;
+</description>
     </item>
     
     <item>
@@ -33,14 +233,19 @@
       <pubDate>Thu, 30 Mar 2017 10:47:37 -0700</pubDate>
       
       <guid>http://danno.co/portfolio/tdae-website/</guid>
-      <description>&lt;section id=&#34;portfolio&#34;&gt;
+      <description>&lt;p&gt;&lt;main id=&#34;single&#34;&gt;
+    &lt;article class=&#34;post-section&#34;&gt;
+        &lt;a href=&#34;../&#34; class=&#34;back-link&#34;&gt;&lt;i class=&#34;fa fa-long-arrow-left&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; back&lt;/a&gt;
+    &lt;/article&gt;
+&lt;/main&gt;
+&lt;section id=&#34;portfolio&#34;&gt;
     &lt;article class=&#34;portfolio-intro&#34;&gt;
         &lt;h1 class=&#34;tdae&#34;&gt;The District at Eastover Website&lt;/h1&gt;
         &lt;/article&gt;
     &lt;article id=&#34;js-parallax-window&#34; class=&#34;parallax-window&#34;&gt;
         &lt;div class=&#34;parallax-static-content&#34;&gt;
         &lt;/div&gt;
-        &lt;div id=&#34;js-parallax-background&#34; class=&#34;parallax-background tdae-background&#34;&gt;&lt;/div&gt;             
+        &lt;div id=&#34;js-parallax-background&#34; class=&#34;parallax-background tdae-background&#34;&gt;&lt;/div&gt;&lt;br /&gt;
     &lt;/article&gt;
 &lt;/section&gt;
 &lt;section id=&#34;portfolio-item&#34;&gt;
@@ -77,7 +282,7 @@
               &lt;div class=&#34;expander-content&#34;&gt;
                 &lt;h4&gt;Design Inspiration&lt;/h4&gt;
                 &lt;p&gt;We entered a design sprint for initial direction, putting together multiple concepts for websites that addressed different stages of use. Should the website tell a story, focus on history, various approaches were explored.&lt;/p&gt;
-                &lt;p&gt;Design direction was inspired by &lt;a href=&#34;http://nelsenpartners.com&#34;&gt;Nelsen Partners&lt;/a&gt;&#39; early materials palette. Art direction was focused on grabbing tangible textures, raw materials, woods, carbon steel, and incorporating them into the look. As there was no photographer on site, we curated stock imagery with the client.&lt;/p&gt;
+                &lt;p&gt;Design direction was inspired by &lt;a href=&#34;http://nelsenpartners.com&#34;&gt;Nelsen Partners&lt;/a&gt;&amp;rsquo; early materials palette. Art direction was focused on grabbing tangible textures, raw materials, woods, carbon steel, and incorporating them into the look. As there was no photographer on site, we curated stock imagery with the client.&lt;/p&gt;
                 &lt;h4&gt;Interviews &amp;amp; Insights&lt;/h4&gt;
                 &lt;p&gt;In interviews with the client, we discovered that many assumptions were wrong about this development. Whereas previous mixed-use projects had involved solving how to market and promote available leasing space and calendar activities, &lt;a href=&#34;http://thedistrictateastover.com&#34; target=&#34;_blank&#34;&gt;The District at Eastover&lt;/a&gt; was in an earlier phase. There was a search for community understanding and financial backers. We had our target audience.&lt;/p&gt;
               &lt;/div&gt;
@@ -117,7 +322,7 @@
     &lt;p&gt;Scroll to top&lt;/p&gt;
     &lt;/a&gt;
 &lt;/div&gt;
-&lt;/section&gt;
+&lt;/section&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -127,7 +332,12 @@
       <pubDate>Thu, 30 Mar 2017 10:46:36 -0700</pubDate>
       
       <guid>http://danno.co/portfolio/newmark-website/</guid>
-      <description>&lt;section id=&#34;portfolio&#34;&gt;
+      <description>&lt;p&gt;&lt;main id=&#34;single&#34;&gt;
+    &lt;article class=&#34;post-section&#34;&gt;
+        &lt;a href=&#34;../&#34; class=&#34;back-link&#34;&gt;&lt;i class=&#34;fa fa-long-arrow-left&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; back&lt;/a&gt;
+    &lt;/article&gt;
+&lt;/main&gt;
+&lt;section id=&#34;portfolio&#34;&gt;
     &lt;article class=&#34;portfolio-intro&#34;&gt;
         &lt;h1 class=&#34;newmark&#34;&gt;Newmark Website&lt;/h1&gt;
         &lt;/article&gt;
@@ -143,7 +353,7 @@
             &lt;h2&gt;Project Overview&lt;/h2&gt;
                 &lt;p&gt;I had the pleasure of working with &lt;a href=&#34;http://newmarkrealtycapital.com&#34; target=&#34;_blank&#34;&gt;Newmark Realty Capital, Inc.&lt;/a&gt; from initial meetings as new client through me tenure at &lt;a href=&#34;http://looking.la&#34; target=&#34;_blank&#34;&gt;Looking&lt;/a&gt;. Initial assignments, a more traditional, branding, pitchbooks, ads. When the push came from an internal group to refresh their corporate website from a few years prior, I was excited for the challenge.&lt;/p&gt;
                 &lt;p&gt;One of the key catalyst for the redesign was how figure out to express what it is Newmark does as commercial mortgage bankers. Other drivers were that the company wanted convey a larger presence. On the old website all producers and support staff were listed only by regional office, making the company feel like a connection of franchises.&lt;/p&gt;
-                &lt;p&gt;We attended a company-wide retreat in Southern California, and the need to speak as a cohesive organization came up. The new identity, elevated the brand to speak as a single word operation &#34;Newmark&#34;, and had a new financial pedigree, something inspired by the timelessness and simplicity of Geismar&#39;s 50 year old Chase symbol. With a &#34;new mark&#34;, literally, we set off to help redesign their company website.&lt;/p&gt;
+                &lt;p&gt;We attended a company-wide retreat in Southern California, and the need to speak as a cohesive organization came up. The new identity, elevated the brand to speak as a single word operation &amp;ldquo;Newmark&amp;rdquo;, and had a new financial pedigree, something inspired by the timelessness and simplicity of Geismar&amp;rsquo;s 50 year old Chase symbol. With a &amp;ldquo;new mark&amp;rdquo;, literally, we set off to help redesign their company website.&lt;/p&gt;
               &lt;/div&gt;
             &lt;/article&gt;
             &lt;article class=&#34;portfolio-colophon&#34;&gt;
@@ -169,11 +379,11 @@
             &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Discovery&lt;/h2&gt;&lt;/a&gt;
               &lt;div class=&#34;expander-content&#34;&gt;
                 &lt;h4&gt;Design Tangent&lt;/h4&gt;
-                &lt;p&gt;More than any project I worked on while at Looking, Newmark&#39;s lead team for the website had true confidence in our thinking, hearing us out regarding how to visually convey what they did as a company and stand out in a field of financial consultancies. While the concept was eventually toned-down before launch, I give them eternal kudos for their faith in us.&lt;/p&gt;
+                &lt;p&gt;More than any project I worked on while at Looking, Newmark&amp;rsquo;s lead team for the website had true confidence in our thinking, hearing us out regarding how to visually convey what they did as a company and stand out in a field of financial consultancies. While the concept was eventually toned-down before launch, I give them eternal kudos for their faith in us.&lt;/p&gt;
                 &lt;img src=&#34;http://danno.co/images/pf-newmark-identity.jpg&#34; alt=&#34;early brand identity presentation&#34;&gt;
                 &lt;figcaption&gt;As mentioned, I had the priviledge of working their current identity. Here is some iteration process up on the wall at Looking.&lt;/figcaption&gt;
-                &lt;p class=&#34;topsies&#34;&gt;Newmark manages risk. They have a big team of producers who assess along their vertical expertise (storage, commercial, etc.), real estate market opportunities and dangers for buyer and seller. Markets go up and go down. Similarly, decisions are made based on data, but even with such insights there is a layer of the &#34;art of the deal&#34;. Newmark encapsulates both. Their symbol is essentially two hands coming together.&lt;/p&gt;
-                &lt;p&gt;At a visual level, with philosophical input from Newmark, came up with a concept whereby paper represented data, and the artistic photography of paper represented this &#34;art of the deal&#34; and the clarity of a given perspective. Bold construction paper colors were brought into the design, and we set up a shoot to bring it to life.&lt;/p&gt;
+                &lt;p class=&#34;topsies&#34;&gt;Newmark manages risk. They have a big team of producers who assess along their vertical expertise (storage, commercial, etc.), real estate market opportunities and dangers for buyer and seller. Markets go up and go down. Similarly, decisions are made based on data, but even with such insights there is a layer of the &amp;ldquo;art of the deal&amp;rdquo;. Newmark encapsulates both. Their symbol is essentially two hands coming together.&lt;/p&gt;
+                &lt;p&gt;At a visual level, with philosophical input from Newmark, came up with a concept whereby paper represented data, and the artistic photography of paper represented this &amp;ldquo;art of the deal&amp;rdquo; and the clarity of a given perspective. Bold construction paper colors were brought into the design, and we set up a shoot to bring it to life.&lt;/p&gt;
                 &lt;img src=&#34;http://danno.co/images/pf-newmark-shoot.jpg&#34; alt=&#34;pic from paper photo shoot&#34;&gt;
                 &lt;figcaption&gt;Two masters at their craft at the photoshoot.&lt;/figcaption&gt;
                 &lt;p class=&#34;topsie&#34;&gt;The homepage was a rotation of these beautiful paper ribbon images that you can see on the Looking website &lt;a href=&#34;http://looking.la/#/newmark&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. We worked with Andy Engel who was masterful with paper scenarios, and Don Miller who set up shots on a giant custom light table with a variable strobe in his studio. Some paper had shadow, some had reflection, all captured the energy of markets going up and down.&lt;/p&gt;
@@ -186,7 +396,7 @@
             &lt;div class=&#34;expander-content&#34;&gt;
                 &lt;h4&gt;Showing Yourself Larger Than You Are&lt;/h4&gt;
                 &lt;p&gt;It is dangerous, to do so, moreso on the web. You risk hyperbole, false advertising even. On a website with a financial company it can be devestating&lt;/p&gt;
-                &lt;p&gt;The original site introduced you to the company&#39;s production team by having you click on one of eight office branches. The branches were listed as buttons, so the user experience was browse only, and users had to dig through eight separate page loads to browse producers.&lt;/p&gt;
+                &lt;p&gt;The original site introduced you to the company&amp;rsquo;s production team by having you click on one of eight office branches. The branches were listed as buttons, so the user experience was browse only, and users had to dig through eight separate page loads to browse producers.&lt;/p&gt;
                 &lt;h4&gt;Enter Cards + Isotope&lt;/h4&gt;
                 &lt;p&gt;In the design we listed all of the producers together in a single grid. Then employing filters through &lt;a href=&#34;http://isotope.metafizzy.co&#34; target=&#34;_blank&#34;&gt;Isotope&lt;/a&gt;, all producers were shown as one, but a user could drill down by region or office. More importantly, the main visual was a wall of 50-some producers instead of eight navigational items. Here is a demo.&lt;/p&gt;
                 &lt;div class=&#34;video&#34;&gt;
@@ -221,7 +431,7 @@
                 &lt;p&gt;The build was done in Wordpress, which allowed us to do two things.
                     &lt;ol&gt;
                         &lt;li&gt;Their previous site was locked up in some proprietary ASP CMS, which was a minor reason for a redesign. We implemented Wordpress so they had ultimate freedom to develop onward as they please.&lt;/li&gt;
-                        &lt;li&gt;All data could be relational without being overly complicated. A producer&#39;s phone number could change, and it need be updated in one location. When a new transaction is entered it automatically shows in the respective producer&#39;s individual feed, etc.&lt;/li&gt;
+                        &lt;li&gt;All data could be relational without being overly complicated. A producer&amp;rsquo;s phone number could change, and it need be updated in one location. When a new transaction is entered it automatically shows in the respective producer&amp;rsquo;s individual feed, etc.&lt;/li&gt;
                     &lt;/ol&gt;
                 &lt;/p&gt;
                 &lt;p&gt;While the bold conceptual ribbon was too far for their board to approve use, it did make artwork for some large framed prints in their offices.&lt;/p&gt;
@@ -233,7 +443,7 @@
     &lt;p&gt;Scroll to top&lt;/p&gt;
     &lt;/a&gt;
 &lt;/div&gt;
-&lt;/section&gt;
+&lt;/section&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -243,7 +453,12 @@
       <pubDate>Thu, 30 Mar 2017 10:46:22 -0700</pubDate>
       
       <guid>http://danno.co/portfolio/chn-foundation-website/</guid>
-      <description>&lt;section id=&#34;portfolio&#34;&gt;
+      <description>&lt;p&gt;&lt;main id=&#34;single&#34;&gt;
+    &lt;article class=&#34;post-section&#34;&gt;
+        &lt;a href=&#34;../&#34; class=&#34;back-link&#34;&gt;&lt;i class=&#34;fa fa-long-arrow-left&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; back&lt;/a&gt;
+    &lt;/article&gt;
+&lt;/main&gt;
+&lt;section id=&#34;portfolio&#34;&gt;
     &lt;article class=&#34;portfolio-intro&#34;&gt;
         &lt;h1 class=&#34;chn-foundation&#34;&gt;CHN Foundation Website&lt;/h1&gt;
     &lt;/article&gt;
@@ -257,7 +472,7 @@
     &lt;section id=&#34;js-fadeInElement&#34; class=&#34;fade-in-element&#34;&gt;
         &lt;article class=&#34;portfolio-overview&#34;&gt;
             &lt;h2&gt;Project Overview&lt;/h2&gt;
-            &lt;p&gt;This is a story of a golden lesson in web design. When &lt;a href=&#34;http://chnfoundation.org&#34; target=&#34;_blank&#34;&gt;CHN Foundation&lt;/a&gt; came for &lt;a href=&#34;http://looking.la&#34; target=&#34;_blank&#34;&gt;Looking&lt;/a&gt;&#39;s help, they had recently refreshed their brand and went from a flash-based website to an HTML5 site, and they were looking for help with a redesign.&lt;/p&gt;
+            &lt;p&gt;This is a story of a golden lesson in web design. When &lt;a href=&#34;http://chnfoundation.org&#34; target=&#34;_blank&#34;&gt;CHN Foundation&lt;/a&gt; came for &lt;a href=&#34;http://looking.la&#34; target=&#34;_blank&#34;&gt;Looking&lt;/a&gt;&amp;rsquo;s help, they had recently refreshed their brand and went from a flash-based website to an HTML5 site, and they were looking for help with a redesign.&lt;/p&gt;
             &lt;p&gt;Knowing the redesign was maybe a year in, we did what anyone would. We hit the grindstone. We could make the website better! We did user-studies, interviewed different members within the organization, found out who the user will be, what information they will want, etc. User scenarios were drafted and tested, until a website came into resolution. Design. Build. Launch. Pat on back.&lt;/p&gt;
             &lt;p&gt;However when they came to us 1.5 years later for further development, anxiety set it. Dream client, dream project (first time) = great. Dream client, redesign-too-soon = concern. What did we miss the first time around? Keep reading…&lt;/p&gt;
         &lt;/article&gt;
@@ -280,7 +495,7 @@
         &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
         &lt;article class=&#34;portfolio-details expander&#34;&gt;
             &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Discovery&lt;/h2&gt;&lt;/a&gt;
-            &lt;div class=&#34;expander-content&#34;&gt;                      
+            &lt;div class=&#34;expander-content&#34;&gt;&lt;br /&gt;
                 &lt;img src=&#34;http://danno.co/images/pf-chn-initial.jpg&#34; alt=&#34;homepage as inherited&#34;&gt;
                 &lt;figcaption&gt;An snapshot of the homepage we inherited.&lt;/figcaption&gt;
                 &lt;h4&gt;Redesign I: Content Strategy and User Scenarios out&lt;/h4&gt;
@@ -296,10 +511,10 @@
                 &lt;img src=&#34;http://danno.co/images/pf-chn-redesign-I.jpg&#34; alt=&#34;redesigned homepage&#34;&gt;
                 &lt;figcaption&gt;Redesigned homepage, the first time. From multi-click buttons with redundant navigation, to responsive drop-down menus.&lt;/figcaption&gt;
                 &lt;h4&gt;Swinging of the Pendulum&lt;/h4&gt;
-                &lt;p&gt;New leadership from the client meant a new voice was present to open up awareness and transparency to researchers and the general public about the foundation. We reduced holistic imagery for what I would retroactively call &#34;Medical Microsoft Surface with dropdowns.&#34; A perhaps colder overall look was intended to give scientific clout, and much warmer copy helped to compensate.
+                &lt;p&gt;New leadership from the client meant a new voice was present to open up awareness and transparency to researchers and the general public about the foundation. We reduced holistic imagery for what I would retroactively call &amp;ldquo;Medical Microsoft Surface with dropdowns.&amp;rdquo; A perhaps colder overall look was intended to give scientific clout, and much warmer copy helped to compensate.
                 &lt;/p&gt;
                 &lt;img src=&#34;http://danno.co/images/pf-chn-about-us.jpg&#34; alt=&#34;expression finally&#34;&gt;
-                &lt;figcaption&gt;The redesigned &#34;about us&#34; page, was a single-scrolling page designed to inform, honor the founder, and express the individuality of the foundation.&lt;/figcaption&gt;
+                &lt;figcaption&gt;The redesigned &amp;ldquo;about us&amp;rdquo; page, was a single-scrolling page designed to inform, honor the founder, and express the individuality of the foundation.&lt;/figcaption&gt;
                 &lt;p&gt;The site passed through our core team, through reviewers, leadership, and the board of directors and launched. Again, pat on backs, hugs all around. We did introduced Wordpress CMS on the news feed section and a heavily visited deadline and announcements page.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/article&gt;
@@ -309,7 +524,7 @@
                 &lt;h4&gt;More than a pendulum&lt;/h4&gt;
                 &lt;p&gt;In the case of CHN Foundation, iteration came in the form of a call that it was time to redesign again. It was just outside of 18 months, and while small updates were made up to the call, a complete rehaul was in order. Had we under-delivered in the redesign?&lt;/p&gt;
                 &lt;p&gt;Early on in phone calls, I sat down with John Clark, and we hashed out the lesson of this project. Redesigns would be perpetual. While the look could be adjusted away from the colder redesign, there was something missing that a topical redesign would not fix. The Foundation needed a platform to voice their leadership in the industry.&lt;/p&gt;
-                &lt;p&gt;Every good organization needs a &lt;a href=&#34;https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action&#34; target=&#34;_blank&#34;&gt;why?&lt;/a&gt; For CHN Foundation, their why was apparent to everyone except for the common site visitor. This time the website was built with a section &#34;On Our Minds&#34;, where Foundation leadership can drive conversation about what they are doing, where research could be headed, items that are in need of research, etc.&lt;/p&gt;
+                &lt;p&gt;Every good organization needs a &lt;a href=&#34;https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action&#34; target=&#34;_blank&#34;&gt;why?&lt;/a&gt; For CHN Foundation, their why was apparent to everyone except for the common site visitor. This time the website was built with a section &amp;ldquo;On Our Minds&amp;rdquo;, where Foundation leadership can drive conversation about what they are doing, where research could be headed, items that are in need of research, etc.&lt;/p&gt;
                 &lt;p&gt;So the golden lesson is to listen to the inner problem at hand, here it was what the customer needed. In this case, streamlining a user experience alone would not solve the problem that spurred a redesign.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/article&gt;
@@ -319,7 +534,7 @@
                 &lt;h3&gt;Launched Website&lt;/h3&gt;
                 &lt;h4 class=&#34;resume button&#34;&gt;&lt;a href=&#34;http://chnfoundation.org&#34; target=&#34;_blank&#34;&gt;Click to see the site&lt;/a&gt;&lt;/h4&gt;
                 &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
-                &lt;p&gt;The site has been active for a few months, and the &lt;a href=&#34;http://chnfoundation.org/on-our-minds/&#34;&gt;&#34;On Our Minds&#34;&lt;/a&gt; page is wonderful. I get inspired thinking about all of the research that is being done now in the name of progress. While I no longer have access to analytics, a simple &lt;a href=&#34;https://www.google.com/search?&amp;rls=en&amp;q=chn+foundation&amp;ie=UTF-8&amp;oe=UTF-8#tbm=nws&amp;q=craig+h.+neilsen&#34;&gt;google news search&lt;/a&gt; results in an inspiring exploration.&lt;/p&gt;
+                &lt;p&gt;The site has been active for a few months, and the &lt;a href=&#34;http://chnfoundation.org/on-our-minds/&#34;&gt;&amp;ldquo;On Our Minds&amp;rdquo;&lt;/a&gt; page is wonderful. I get inspired thinking about all of the research that is being done now in the name of progress. While I no longer have access to analytics, a simple &lt;a href=&#34;https://www.google.com/search?&amp;rls=en&amp;q=chn+foundation&amp;ie=UTF-8&amp;oe=UTF-8#tbm=nws&amp;q=craig+h.+neilsen&#34;&gt;google news search&lt;/a&gt; results in an inspiring exploration.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/article&gt;
     &lt;/section&gt;
@@ -328,7 +543,7 @@
             &lt;p&gt;Scroll to top&lt;/p&gt;
             &lt;/a&gt;
         &lt;/div&gt;
-&lt;/section&gt;
+&lt;/section&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -338,7 +553,12 @@
       <pubDate>Thu, 30 Mar 2017 10:46:05 -0700</pubDate>
       
       <guid>http://danno.co/portfolio/io-playa-vista-website/</guid>
-      <description>&lt;section id=&#34;portfolio&#34;&gt;
+      <description>&lt;p&gt;&lt;main id=&#34;single&#34;&gt;
+    &lt;article class=&#34;post-section&#34;&gt;
+        &lt;a href=&#34;../&#34; class=&#34;back-link&#34;&gt;&lt;i class=&#34;fa fa-long-arrow-left&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; back&lt;/a&gt;
+    &lt;/article&gt;
+&lt;/main&gt;
+&lt;section id=&#34;portfolio&#34;&gt;
     &lt;article class=&#34;portfolio-intro&#34;&gt;
         &lt;h1 class=&#34;io-playa-vista&#34;&gt;i|o at Playa Vista Website&lt;/h1&gt;
     &lt;/article&gt;
@@ -396,7 +616,7 @@
                 &lt;p&gt;As the video shows above, we suggested a simple isometric sketch from the architects. Dull in detail, it served as a model. We drew and activated svg layers per floor and building, with javascript loading both a respective floor drawing as well as shifting a simple campus plan view upon click. Reports were that this eleviated confusion from 2D interactive site plans.&lt;/p&gt;
                 &lt;h4&gt;Amenities&lt;/h4&gt;
                 &lt;p&gt;Addressing the concern of if Playa Vista was suitable to move to. We did comprehensive research on retail, banking, hotel, dining, and gym/recreation amenities in the area. A custom map was created both for the regional amenities, as well as a neighborhood level map. The decision to use simple css-transition hovers to inform the user would keep 200+ point maps lightweight in feel and load time.&lt;/p&gt;
-                &lt;p&gt;When served on a smartphone, each pin is a list item that is sorted alphabetically by amenity type in an accordion with external link to the respective establishment. I give Clay all credit for thinking of this, but at the time it was brilliant. We used the phone&#39;s hardware (Google Map/Apple Maps) to serve up the nearest coffee spot. Here is a sample below of this section.&lt;/p&gt;
+                &lt;p&gt;When served on a smartphone, each pin is a list item that is sorted alphabetically by amenity type in an accordion with external link to the respective establishment. I give Clay all credit for thinking of this, but at the time it was brilliant. We used the phone&amp;rsquo;s hardware (Google Map/Apple Maps) to serve up the nearest coffee spot. Here is a sample below of this section.&lt;/p&gt;
                 &lt;div class=&#34;video&#34;&gt;
                     &lt;div class=&#34;video-wrapper&#34;&gt;
                         &lt;iframe src=&#34;https://www.youtube.com/embed/b3HiYqiQT_g?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -408,7 +628,7 @@
             &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Iterations&lt;/h2&gt;&lt;/a&gt;
             &lt;div class=&#34;expander-content&#34;&gt;
                 &lt;p&gt;The i|o at Playa Vista website was launched upon a press embargo with a feature story in the &lt;a href=&#34;http://www.latimes.com/business/realestate/la-fi-property-report-playa-20141218-story.html&#34; target=&#34;_blank&#34;&gt;L.A. Times&lt;/a&gt; by Roger Vincent regarding the expansion of creative office space in Playa Vista. I remember, I was sweating bullets 5:00 a.m. that morning.&lt;/p&gt;
-                &lt;p&gt;Two tenants were signed before launch, a testiment to the leasing team&#39;s brilliance. However, I would like to think the usability of the website helped snag the third major tenant, &lt;a href=&#34;https://www.honest.com&#34; target=&#34;_blank&#34;&gt;The Honest Company&lt;/a&gt;.&lt;/p&gt;
+                &lt;p&gt;Two tenants were signed before launch, a testiment to the leasing team&amp;rsquo;s brilliance. However, I would like to think the usability of the website helped snag the third major tenant, &lt;a href=&#34;https://www.honest.com&#34; target=&#34;_blank&#34;&gt;The Honest Company&lt;/a&gt;.&lt;/p&gt;
                 &lt;p&gt;Most iteration on the site was design-based. We altered colors, redrew maps, and shot for honest clarity. Kudos to Clarion Partners.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/article&gt;
@@ -427,7 +647,7 @@
             &lt;p&gt;Scroll to top&lt;/p&gt;
             &lt;/a&gt;
         &lt;/div&gt;
-&lt;/section&gt;
+&lt;/section&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -437,96 +657,101 @@
       <pubDate>Wed, 29 Mar 2017 23:53:23 -0700</pubDate>
       
       <guid>http://danno.co/portfolio/ford-factory-website/</guid>
-      <description>&lt;section id=&#34;portfolio&#34;&gt;
-            &lt;article class=&#34;portfolio-intro&#34;&gt;
-                &lt;h1 class=&#34;ford-factory&#34;&gt;Ford Factory Website&lt;/h1&gt;
-            &lt;/article&gt;
-            &lt;article id=&#34;js-parallax-window&#34; class=&#34;parallax-window&#34;&gt;
-                &lt;div class=&#34;parallax-static-content&#34;&gt;
-                &lt;/div&gt;
-                &lt;div id=&#34;js-parallax-background&#34; class=&#34;parallax-background ford-factory-background&#34;&gt;&lt;/div&gt;
-            &lt;/article&gt;
-        &lt;/section&gt;
-        &lt;section id=&#34;portfolio-item&#34;&gt;
-            &lt;section id=&#34;js-fadeInElement&#34; class=&#34;fade-in-element&#34;&gt;
-                &lt;article class=&#34;portfolio-overview&#34;&gt;
-                    &lt;h2&gt;Project Overview&lt;/h2&gt;
-                        &lt;p&gt;Located on the south end of the Downtown L.A. Arts District, the &lt;a href=&#34;http://shorenstein.com/portfolio/investments/property?id=6833&#34; target=&#34;_blank&#34;&gt;Ford Factory&lt;/a&gt; is a four-building 257,000 square foot brick industrial compound with heavy-duty mushroom cap columns and a rooftop water tower. From 1913 &amp;mdash; 1929, it served as the original manufacturing assembly plant of Ford&#39;s Model T and Model A vehicles for the Western United States.&lt;/p&gt;
-                        &lt;p&gt;Rich in history, the building was later occupied by U.S. Rubber, Lockheed Aircraft, Bullocks, and the Imperial Toy Company to name a few. Restoration of the building into creative office space was thoughtfully designed by &lt;a href=&#34;http://rockefellerpartners.com&#34; target=&#34;_blank&#34;&gt;Rockefeller Partners Architects&lt;/a&gt; in El Segundo, and our team was brought on to help market the opportunity.&lt;/p&gt;
-                      &lt;/div&gt;
-                &lt;/article&gt;
-                &lt;article class=&#34;portfolio-colophon&#34;&gt;
-                    &lt;h4&gt;Credits&lt;/h4&gt;
-                    &lt;p&gt;&lt;a href=&#34;http://thefordfactoryla.com/humans.txt&#34; target=&#34;_blank&#34;&gt;see here&lt;/a&gt;&lt;/p&gt;
-                    &lt;h4&gt;Client&lt;/h4&gt;
-                    &lt;p&gt;&lt;a href=&#34;http://shorenstein.com&#34; target=&#34;_blank&#34;&gt;Shorenstein Properties&lt;/a&gt;&lt;/p&gt;
-                    &lt;h4&gt;Agency&lt;/h4&gt;
-                    &lt;p&gt;&lt;a href=&#34;http://looking.la/#/ford&#34; target=&#34;_blank&#34;&gt;Looking&lt;/a&gt;&lt;/p&gt;
-                    &lt;h4&gt;Deliverables&lt;/h4&gt;
-                    &lt;p&gt;&lt;a href=&#34;http://thefordfactoryla.com&#34; target=&#34;_blank&#34;&gt;Responsive Website&lt;/a&gt;&lt;/p&gt;
-                    &lt;h4&gt;Goal&lt;/h4&gt;
-                    &lt;p&gt;Marketing collateral communications for initial marketing push&lt;/p&gt;
-                    &lt;h4&gt;Results&lt;/h4&gt;
-                    &lt;p&gt;After a major tenant backed-out, the building went from empty to &lt;a href=&#34;http://labusinessjournal.com/news/2016/oct/07/warner-music-group-inks-ford-factory-lease/&#34; target=&#34;_blank&#34;&gt;full single tenant lease = the dream&lt;/a&gt;.&lt;/p&gt;
-                &lt;/article&gt;
-                &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
-                &lt;article class=&#34;portfolio-details expander&#34;&gt;
-                    &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Discovery&lt;/h2&gt;&lt;/a&gt;
-                      &lt;div class=&#34;expander-content&#34;&gt;
-                        &lt;h4&gt;Design Inspiration&lt;/h4&gt;
-                        &lt;p&gt;Starting with a creative brief, three rough renderings, and a new identity to the project&#39;s name, the design process started with developing a visual language as unique as the building. For example, a color palette was built from Ford&#39;s Classic Shelby Mustang, &lt;a href=&#34;http://www.shelbyamerican.com&#34; target=&#34;_blank&#34;&gt;Shelby&lt;/a&gt; itself a Ford performance variant also built in Los Angeles in the 1960&#39;s.&lt;/p&gt;
-                        &lt;img src=&#34;http://danno.co/images/pf-ford-color-study.jpg&#34; class=&#34;border-it&#34; alt=&#34;color study of ford inspiration&#34;&gt;
-                        &lt;figcaption&gt;Color study inspired by various historical Ford palettes&lt;/figcaption&gt;
-                        &lt;p class=&#34;topsies&#34;&gt;While clarity was stressed, visual details were treated with nostalgia, care was given down to type choice. Old Model T car manuals were studied and typography was built around characters that were relevant during the factory&#39;s operation.&lt;/p&gt;
-                        &lt;img src=&#34;http://thefordfactoryla.com/img/history1936.jpg&#34; class=&#34;img-absolute&#34; alt=&#34;pic from the Ford Factory website showing mushroom cap columns&#34;&gt;
-                        &lt;figcaption&gt;Image from the website showing just how dense and heavy this building was, 300lbs./sq. ft. is a tank.&lt;/figcaption&gt;
-                        &lt;h4&gt;Interviews &amp;amp; Insights&lt;/h4&gt;
-                        &lt;p&gt;Observations from the architect were incorporated into the website and eventual marketing book. This is a building that is super heavy, just look at all of the sand bags above. The architects in their design, created a dramatically open and light space, so we conceptually played with the contrast of light and heavy…whitespace with very hueful imagery of Downtown Los Angeles.&lt;/p&gt;
-                        &lt;p&gt;In conducting interviews with the client, a big misnomer in the commercial real estate was the definition of the Arts District. For a broker in New York, what was the Downtown L.A. Arts District? What was happening to the region? How would a tenant make use of working there, and what were current conditions like?&lt;/p&gt;
-                      &lt;/div&gt;
-                &lt;/article&gt;
-                &lt;article class=&#34;portfolio-details expander&#34;&gt;
-                    &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Observations &amp;amp; Hypothesis&lt;/h2&gt;&lt;/a&gt;
-                    &lt;div class=&#34;expander-content&#34;&gt;
-                        &lt;h4&gt;Driving Home the DTLA Arts District&lt;/h4&gt;
-                        &lt;p&gt;With a main demographic being the commercial real estate brokerage community, the demo below shows how we served an education on the entire Downtown L.A. Arts District in about 30 seconds. Short attention spans rejoice!&lt;/p&gt;
-                        &lt;div class=&#34;video&#34;&gt;
-                            &lt;div class=&#34;video-wrapper&#34;&gt;
-                                &lt;iframe src=&#34;https://www.youtube.com/embed/DBmoByWfSuY?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                        &lt;p class=&#34;topsies&#34;&gt;During information architecture stages, we explored an entire page dedicated to informing users of the location. Here is what we ended up with, a success from client feedback.&lt;/p&gt;
-                        &lt;ul&gt;
-                            &lt;li&gt;&lt;p&gt;Color-coded map showcasing the different &#34;neighborhoods&#34; of Downtown Los Angeles.&lt;/p&gt;&lt;/li&gt;
-                            &lt;li&gt;&lt;p&gt;Brilliant current lifestyle photography taken by the talented and ballsy &lt;a href=&#34;http://www.cliffwilliam.com/&#34; target=&#34;_blank&#34;&gt;Cliff Fong&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-                            &lt;li&gt;&lt;p&gt;An ever-evolving dynamic map of amenities in the area by vertical type. There was generous feedback from the client here.&lt;/p&gt;&lt;/li&gt;
-                            &lt;li&gt;&lt;p&gt;A static transportation map orienting users, including highlighting public transportation to the location.&lt;/p&gt;&lt;/li&gt;
-                        &lt;/ul&gt;
-                      &lt;/div&gt;
-                &lt;/article&gt;
-                &lt;article class=&#34;portfolio-details expander&#34;&gt;
-                    &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Iterations&lt;/h2&gt;&lt;/a&gt;
-                      &lt;div class=&#34;expander-content&#34;&gt;
-                        &lt;p&gt;Initially launched in 2015, the website continually housed content updates to amenities and renderings. Outside of content, the design remained stable through full lease the following year. It is amazing how many restaurants and boutique shops opened in the area during the window of a year. The design remained stable throughout the campaign, and led to the eventual design and publishing of a nice marketing book.&lt;/p&gt;
-                        &lt;p&gt;You can see images of that book on Looking&#39;s website &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-emboss.jpg&#34; target=&#34;_blank&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-location.jpg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-color.jpg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-features.jpg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-features.jpg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-spread.jpg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-transportation-map.jpg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, and &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-envelope.jpg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-                      &lt;/div&gt;
-                &lt;/article&gt;
-                &lt;article class=&#34;portfolio-details expander&#34;&gt;
-                    &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Terminus&lt;/h2&gt;&lt;/a&gt;
-                      &lt;div class=&#34;expander-content&#34;&gt;
-                        &lt;h3&gt;Launched Website&lt;/h3&gt;
-                        &lt;h4 class=&#34;resume button&#34;&gt;&lt;a href=&#34;http://fordfactoryla.com&#34; target=&#34;_blank&#34;&gt;Click to see the site&lt;/a&gt;&lt;/h4&gt;
-                        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
-                        &lt;p&gt;In October of 2016, Warner Music Group signed a multi-year lease effectively completing marketing efforts. Congrats to &lt;a href=&#34;http://shorenstein.com&#34; target=&#34;_blank&#34;&gt;Shorenstein&lt;/a&gt;, &lt;a href=&#34;http://www.cbre.com&#34; target=&#34;_blank&#34;&gt;CBRE&lt;/a&gt;, as well as the Downtown L.A. Arts District which is well deserving of a big name in town. If you are in the area, I highly recommend one of my favorite chocolatiers &lt;a href=&#34;https://mastbrothers.com&#34; target=&#34;_blank&#34;&gt;Mast Brothers&lt;/a&gt;. The goat and sheep milk chocolates are simple yet slightly transcendental. Of course, if you are a fan of this project, then definitely try their smoke chocolate, an apt flavor.&lt;/p&gt; 
-                      &lt;/div&gt;
-                &lt;/article&gt;
-            &lt;/section&gt;
-        &lt;div&gt;
-            &lt;a href=&#34;#top-o-page&#34; class=&#34;back-to-top&#34;&gt;&lt;i class=&#34;fa fa-sort-asc&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-            &lt;p&gt;Scroll to top&lt;/p&gt;
-            &lt;/a&gt;
+      <description>&lt;p&gt;&lt;main id=&#34;single&#34;&gt;
+    &lt;article class=&#34;post-section&#34;&gt;
+        &lt;a href=&#34;../&#34; class=&#34;back-link&#34;&gt;&lt;i class=&#34;fa fa-long-arrow-left&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; back&lt;/a&gt;
+    &lt;/article&gt;
+&lt;/main&gt;
+&lt;section id=&#34;portfolio&#34;&gt;
+    &lt;article class=&#34;portfolio-intro&#34;&gt;
+        &lt;h1 class=&#34;ford-factory&#34;&gt;Ford Factory Website&lt;/h1&gt;
+        &lt;/article&gt;
+    &lt;article id=&#34;js-parallax-window&#34; class=&#34;parallax-window&#34;&gt;
+        &lt;div class=&#34;parallax-static-content&#34;&gt;
         &lt;/div&gt;
+        &lt;div id=&#34;js-parallax-background&#34; class=&#34;parallax-background ford-factory-background&#34;&gt;&lt;/div&gt;
+    &lt;/article&gt;
+&lt;/section&gt;
+&lt;section id=&#34;portfolio-item&#34;&gt;
+    &lt;section id=&#34;js-fadeInElement&#34; class=&#34;fade-in-element&#34;&gt;
+        &lt;article class=&#34;portfolio-overview&#34;&gt;
+            &lt;h2&gt;Project Overview&lt;/h2&gt;
+                &lt;p&gt;Located on the south end of the Downtown L.A. Arts District, the &lt;a href=&#34;http://shorenstein.com/portfolio/investments/property?id=6833&#34; target=&#34;_blank&#34;&gt;Ford Factory&lt;/a&gt; is a four-building 257,000 square foot brick industrial compound with heavy-duty mushroom cap columns and a rooftop water tower. From 1913 &amp;mdash; 1929, it served as the original manufacturing assembly plant of Ford&amp;rsquo;s Model T and Model A vehicles for the Western United States.&lt;/p&gt;
+                &lt;p&gt;Rich in history, the building was later occupied by U.S. Rubber, Lockheed Aircraft, Bullocks, and the Imperial Toy Company to name a few. Restoration of the building into creative office space was thoughtfully designed by &lt;a href=&#34;http://rockefellerpartners.com&#34; target=&#34;_blank&#34;&gt;Rockefeller Partners Architects&lt;/a&gt; in El Segundo, and our team was brought on to help market the opportunity.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;article class=&#34;portfolio-colophon&#34;&gt;
+            &lt;h4&gt;Credits&lt;/h4&gt;
+            &lt;p&gt;&lt;a href=&#34;http://thefordfactoryla.com/humans.txt&#34; target=&#34;_blank&#34;&gt;see here&lt;/a&gt;&lt;/p&gt;
+            &lt;h4&gt;Client&lt;/h4&gt;
+            &lt;p&gt;&lt;a href=&#34;http://shorenstein.com&#34; target=&#34;_blank&#34;&gt;Shorenstein Properties&lt;/a&gt;&lt;/p&gt;
+            &lt;h4&gt;Agency&lt;/h4&gt;
+            &lt;p&gt;&lt;a href=&#34;http://looking.la/#/ford&#34; target=&#34;_blank&#34;&gt;Looking&lt;/a&gt;&lt;/p&gt;
+            &lt;h4&gt;Deliverables&lt;/h4&gt;
+            &lt;p&gt;&lt;a href=&#34;http://thefordfactoryla.com&#34; target=&#34;_blank&#34;&gt;Responsive Website&lt;/a&gt;&lt;/p&gt;
+            &lt;h4&gt;Goal&lt;/h4&gt;
+            &lt;p&gt;Marketing collateral communications for initial marketing push&lt;/p&gt;
+            &lt;h4&gt;Results&lt;/h4&gt;
+            &lt;p&gt;After a major tenant backed-out, the building went from empty to &lt;a href=&#34;http://labusinessjournal.com/news/2016/oct/07/warner-music-group-inks-ford-factory-lease/&#34; target=&#34;_blank&#34;&gt;full single tenant lease = the dream&lt;/a&gt;.&lt;/p&gt;
+            &lt;/article&gt;
+        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+        &lt;article class=&#34;portfolio-details expander&#34;&gt;
+            &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Discovery&lt;/h2&gt;&lt;/a&gt;
+              &lt;div class=&#34;expander-content&#34;&gt;
+                &lt;h4&gt;Design Inspiration&lt;/h4&gt;
+                &lt;p&gt;Starting with a creative brief, three rough renderings, and a new identity to the project&amp;rsquo;s name, the design process started with developing a visual language as unique as the building. For example, a color palette was built from Ford&amp;rsquo;s Classic Shelby Mustang, &lt;a href=&#34;http://www.shelbyamerican.com&#34; target=&#34;_blank&#34;&gt;Shelby&lt;/a&gt; itself a Ford performance variant also built in Los Angeles in the 1960&amp;rsquo;s.&lt;/p&gt;
+                &lt;img src=&#34;http://danno.co/images/pf-ford-color-study.jpg&#34; class=&#34;border-it&#34; alt=&#34;color study of ford inspiration&#34;&gt;
+                &lt;figcaption&gt;Color study inspired by various historical Ford palettes&lt;/figcaption&gt;
+                &lt;p class=&#34;topsies&#34;&gt;While clarity was stressed, visual details were treated with nostalgia, care was given down to type choice. Old Model T car manuals were studied and typography was built around characters that were relevant during the factory&amp;rsquo;s operation.&lt;/p&gt;
+                &lt;img src=&#34;http://thefordfactoryla.com/img/history1936.jpg&#34; class=&#34;img-absolute&#34; alt=&#34;pic from the Ford Factory website showing mushroom cap columns&#34;&gt;
+                &lt;figcaption&gt;Image from the website showing just how dense and heavy this building was, 300lbs./sq. ft. is a tank.&lt;/figcaption&gt;
+                &lt;h4&gt;Interviews &amp;amp; Insights&lt;/h4&gt;
+                &lt;p&gt;Observations from the architect were incorporated into the website and eventual marketing book. This is a building that is super heavy, just look at all of the sand bags above. The architects in their design, created a dramatically open and light space, so we conceptually played with the contrast of light and heavy…whitespace with very hueful imagery of Downtown Los Angeles.&lt;/p&gt;
+                &lt;p&gt;In conducting interviews with the client, a big misnomer in the commercial real estate was the definition of the Arts District. For a broker in New York, what was the Downtown L.A. Arts District? What was happening to the region? How would a tenant make use of working there, and what were current conditions like?&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;article class=&#34;portfolio-details expander&#34;&gt;
+            &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Observations &amp;amp; Hypothesis&lt;/h2&gt;&lt;/a&gt;
+            &lt;div class=&#34;expander-content&#34;&gt;
+                &lt;h4&gt;Driving Home the DTLA Arts District&lt;/h4&gt;
+                &lt;p&gt;With a main demographic being the commercial real estate brokerage community, the demo below shows how we served an education on the entire Downtown L.A. Arts District in about 30 seconds. Short attention spans rejoice!&lt;/p&gt;
+                &lt;div class=&#34;video&#34;&gt;
+                    &lt;div class=&#34;video-wrapper&#34;&gt;
+                        &lt;iframe src=&#34;https://www.youtube.com/embed/DBmoByWfSuY?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;p class=&#34;topsies&#34;&gt;During information architecture stages, we explored an entire page dedicated to informing users of the location. Here is what we ended up with, a success from client feedback.&lt;/p&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;Color-coded map showcasing the different &amp;ldquo;neighborhoods&amp;rdquo; of Downtown Los Angeles.&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Brilliant current lifestyle photography taken by the talented and ballsy &lt;a href=&#34;http://www.cliffwilliam.com/&#34; target=&#34;_blank&#34;&gt;Cliff Fong&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;An ever-evolving dynamic map of amenities in the area by vertical type. There was generous feedback from the client here.&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;A static transportation map orienting users, including highlighting public transportation to the location.&lt;/p&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/div&gt;
+            &lt;/article&gt;
+        &lt;article class=&#34;portfolio-details expander&#34;&gt;
+            &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Iterations&lt;/h2&gt;&lt;/a&gt;
+              &lt;div class=&#34;expander-content&#34;&gt;
+                &lt;p&gt;Initially launched in 2015, the website continually housed content updates to amenities and renderings. Outside of content, the design remained stable through full lease the following year. It is amazing how many restaurants and boutique shops opened in the area during the window of a year. The design remained stable throughout the campaign, and led to the eventual design and publishing of a nice marketing book.&lt;/p&gt;
+                &lt;p&gt;You can see images of that book on Looking&amp;rsquo;s website &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-emboss.jpg&#34; target=&#34;_blank&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-location.jpg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-color.jpg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-features.jpg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-features.jpg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-spread.jpg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-transportation-map.jpg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, and &lt;a href=&#34;http://looking.la/app/assets/imgs/ford/ff-brochure-envelope.jpg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;article class=&#34;portfolio-details expander&#34;&gt;
+            &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Terminus&lt;/h2&gt;&lt;/a&gt;
+              &lt;div class=&#34;expander-content&#34;&gt;
+                &lt;h3&gt;Launched Website&lt;/h3&gt;
+                &lt;h4 class=&#34;resume button&#34;&gt;&lt;a href=&#34;http://fordfactoryla.com&#34; target=&#34;_blank&#34;&gt;Click to see the site&lt;/a&gt;&lt;/h4&gt;
+                &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+                &lt;p&gt;In October of 2016, Warner Music Group signed a multi-year lease effectively completing marketing efforts. Congrats to &lt;a href=&#34;http://shorenstein.com&#34; target=&#34;_blank&#34;&gt;Shorenstein&lt;/a&gt;, &lt;a href=&#34;http://www.cbre.com&#34; target=&#34;_blank&#34;&gt;CBRE&lt;/a&gt;, as well as the Downtown L.A. Arts District which is well deserving of a big name in town. If you are in the area, I highly recommend one of my favorite chocolatiers &lt;a href=&#34;https://mastbrothers.com&#34; target=&#34;_blank&#34;&gt;Mast Brothers&lt;/a&gt;. The goat and sheep milk chocolates are simple yet slightly transcendental. Of course, if you are a fan of this project, then definitely try their smoke chocolate, an apt flavor.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/article&gt;
         &lt;/section&gt;
+&lt;div&gt;
+    &lt;a href=&#34;#top-o-page&#34; class=&#34;back-to-top&#34;&gt;&lt;i class=&#34;fa fa-sort-asc&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+    &lt;p&gt;Scroll to top&lt;/p&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;/section&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -536,7 +761,12 @@
       <pubDate>Wed, 29 Mar 2017 23:53:09 -0700</pubDate>
       
       <guid>http://danno.co/portfolio/salad-days-product/</guid>
-      <description>&lt;section id=&#34;portfolio&#34;&gt;
+      <description>&lt;p&gt;&lt;main id=&#34;single&#34;&gt;
+    &lt;article class=&#34;post-section&#34;&gt;
+        &lt;a href=&#34;../&#34; class=&#34;back-link&#34;&gt;&lt;i class=&#34;fa fa-long-arrow-left&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; back&lt;/a&gt;
+    &lt;/article&gt;
+&lt;/main&gt;
+&lt;section id=&#34;portfolio&#34;&gt;
     &lt;article class=&#34;portfolio-intro&#34;&gt;
         &lt;h1 class=&#34;salad-days&#34;&gt;Salad Days App&lt;/h1&gt;
     &lt;/article&gt;
@@ -558,14 +788,14 @@
                     &lt;/li&gt;
                     &lt;li&gt;
                         &lt;h4&gt;Visual gardening&lt;/h4&gt;
-                        &lt;p&gt;Think selfies for your plants (plantsies). Using Instagram&#39;s API, images would be pushed to Salad Days, where users could go in and add meta data - plant status, comments, almost like a digital journal. Other users could comment, master gardeners could suggest help. Imagery would add social incentives to keep working in the garden (or at least to remember to water your plants).&lt;/p&gt;
+                        &lt;p&gt;Think selfies for your plants (plantsies). Using Instagram&amp;rsquo;s API, images would be pushed to Salad Days, where users could go in and add meta data - plant status, comments, almost like a digital journal. Other users could comment, master gardeners could suggest help. Imagery would add social incentives to keep working in the garden (or at least to remember to water your plants).&lt;/p&gt;
                     &lt;/li&gt;
                     &lt;li&gt;
                         &lt;h4&gt;Documentation&lt;/h4&gt;
                         &lt;p&gt;A very simple documentation system was included when the app is rotated landscape for capturing stages of a plant, building out a personal almanac to reference seasonal timelines to plant, reap, and sow.&lt;/p&gt;
                     &lt;/li&gt;
                 &lt;/ul&gt;
-                &lt;p&gt;The name &#34;Salad Days&#34; comes from the idiomatic expression that refers to a period of inexperience, enthusiasm, and idealism usually associated with one&#39;s youth. Grow. Ogle. Reap. Share.&lt;/p&gt;
+                &lt;p&gt;The name &amp;ldquo;Salad Days&amp;rdquo; comes from the idiomatic expression that refers to a period of inexperience, enthusiasm, and idealism usually associated with one&amp;rsquo;s youth. Grow. Ogle. Reap. Share.&lt;/p&gt;
               &lt;/div&gt;
             &lt;/article&gt;
             &lt;article class=&#34;portfolio-colophon&#34;&gt;
@@ -623,7 +853,7 @@
                 &lt;img src=&#34;http://danno.co/images/pf-salad-user-flow.jpg&#34; class=&#34;halfsies&#34; alt=&#34;sample user flow diagram for user&#39;s first visit to the site&#34;&gt;
                 &lt;img src=&#34;http://danno.co/images/pf-salad-wireframe.jpg&#34; class=&#34;halfsies two&#34; alt=&#34;sample wireframe&#34;&gt;
                 &lt;figcaption&gt;Information architecture studies helped to clarify technical requirements.&lt;/figcaption&gt;
-                &lt;p class=&#34;topsies&#34;&gt;Once the general design process was in a fully iterative state, content strategy and visual design was explored. The app required use of phone in portrait and landscape mode, and in the end to increase empathy, the user could adjust a &#34;salad bar&#34;, essentially a visual system to communicate how a user felt about their current garden. &#34;Low&#34; bars could attract the attention of experienced gardeners for help. &#34;High&#34; bars indicated a growing experience was going well and incouraged accolades. Very complicated&lt;/p&gt;
+                &lt;p class=&#34;topsies&#34;&gt;Once the general design process was in a fully iterative state, content strategy and visual design was explored. The app required use of phone in portrait and landscape mode, and in the end to increase empathy, the user could adjust a &amp;ldquo;salad bar&amp;rdquo;, essentially a visual system to communicate how a user felt about their current garden. &amp;ldquo;Low&amp;rdquo; bars could attract the attention of experienced gardeners for help. &amp;ldquo;High&amp;rdquo; bars indicated a growing experience was going well and incouraged accolades. Very complicated&lt;/p&gt;
                 &lt;p&gt;Language and prompts were examined. This app had to be fun, maybe even tongue in cheek, and nerdy references to gardening without judgement were necessary.&lt;/p&gt;
                 &lt;img src=&#34;http://danno.co/images/pf-salad-turn-it-up.jpg&#34; class=&#34;halfsies&#34; alt=&#34;Using two fingers on a phone&#34;&gt;
                 &lt;img src=&#34;http://danno.co/images/pf-salad-visual.jpg&#34; class=&#34;halfsies two&#34; alt=&#34;Work on visual design&#34;&gt;
@@ -639,8 +869,8 @@
                 &lt;p class=&#34;topsies&#34;&gt;The link above goes to an Invision App prototype, best viewed on a smartphone. Because of the rotation from landscape to portrait, the prototype was served on a phone, native browser.&lt;/p&gt;
                 &lt;p&gt;User feedback on the app was generally positive, part of the project was to explore ux design precedences. Spool-out menus like &lt;a href=&#34;https://www.path.com/login&#34; target=&#34;_blank&#34;&gt;Path&lt;/a&gt;, mixed with lower user-friendly two-finger touch, and rotational screens were all part of the creative solution process, and would most likely be scaled back.&lt;/p&gt;
                 &lt;h3 class=&#34;topsies&#34;&gt;Conclusions&lt;/h3&gt;
-                &lt;p&gt;My goal for this project was to incorporate learnings from UCLA Extension&#39;s UX Design class into an entire app/product from research through computational design that could be demoed for feedback. Final presentations were successful with several green thumbs in the audience approving of the idea.&lt;/p&gt;
-                &lt;p&gt;Since this project completed, gardening apps come and go, but one product that is great is the watering control system built by &lt;a href=&#34;http://rachio.com&#34; target=&#34;_blank&#34;&gt;Rachio&lt;/a&gt;. By focusing on controlling locale through proper plant hydration, a big problem of gardening is eliminated. Not low hanging fruit, as Salad Days was designed for, but a neat product nonetheless.&lt;/p&gt; 
+                &lt;p&gt;My goal for this project was to incorporate learnings from UCLA Extension&amp;rsquo;s UX Design class into an entire app/product from research through computational design that could be demoed for feedback. Final presentations were successful with several green thumbs in the audience approving of the idea.&lt;/p&gt;
+                &lt;p&gt;Since this project completed, gardening apps come and go, but one product that is great is the watering control system built by &lt;a href=&#34;http://rachio.com&#34; target=&#34;_blank&#34;&gt;Rachio&lt;/a&gt;. By focusing on controlling locale through proper plant hydration, a big problem of gardening is eliminated. Not low hanging fruit, as Salad Days was designed for, but a neat product nonetheless.&lt;/p&gt;
               &lt;/div&gt;
             &lt;/article&gt;
             &lt;div&gt;
@@ -649,7 +879,7 @@
                 &lt;/a&gt;
             &lt;/div&gt;
         &lt;/section&gt;
-&lt;/section&gt;
+&lt;/section&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -659,7 +889,12 @@
       <pubDate>Wed, 29 Mar 2017 22:36:38 -0700</pubDate>
       
       <guid>http://danno.co/portfolio/thrive-market-feature/</guid>
-      <description>&lt;section id=&#34;portfolio&#34;&gt;
+      <description>&lt;p&gt;&lt;main id=&#34;single&#34;&gt;
+    &lt;article class=&#34;post-section&#34;&gt;
+        &lt;a href=&#34;../&#34; class=&#34;back-link&#34;&gt;&lt;i class=&#34;fa fa-long-arrow-left&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; back&lt;/a&gt;
+    &lt;/article&gt;
+&lt;/main&gt;
+&lt;section id=&#34;portfolio&#34;&gt;
     &lt;article class=&#34;portfolio-intro&#34;&gt;
         &lt;h1 class=&#34;thrive-market-feature&#34;&gt;Thrive Market Feature&lt;/h1&gt;
     &lt;/article&gt;
@@ -672,11 +907,11 @@
     &lt;section id=&#34;js-fadeInElement&#34; class=&#34;fade-in-element&#34;&gt;
         &lt;article class=&#34;portfolio-overview&#34;&gt;
             &lt;h2&gt;Project Overview&lt;/h2&gt;
-            &lt;p&gt;&lt;a href=&#34;http://thrivemarket.com&#34; target=&#34;_blank&#34;&gt;Thrive Market&lt;/a&gt; is an online retailer of healthy, non-GMO food and lifestyle products that are available on a membership-basis at discounted prices. Their humble mission statement is to &#34;make healthy food accessible for all.&#34;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&#34;http://thrivemarket.com&#34; target=&#34;_blank&#34;&gt;Thrive Market&lt;/a&gt; is an online retailer of healthy, non-GMO food and lifestyle products that are available on a membership-basis at discounted prices. Their humble mission statement is to &amp;ldquo;make healthy food accessible for all.&amp;rdquo;&lt;/p&gt;
             &lt;p&gt;As the final project of &lt;a href=&#34;http://productschool.com&#34; target =&#34;_blank&#34;&gt;Product School&lt;/a&gt;, both company and product opportunities were explored with findings presented to the class for evaluation. Final projects were completed along with 40+ hours of in-class lecture, group exercises, interviews, and grooming on Product Management.&lt;/p&gt;
             &lt;p&gt;Below is an overview of four main stages of the project, concluding with a demo.&lt;/p&gt;
             &lt;h3&gt;Denouement&lt;/h3&gt;
-            &lt;p&gt;Since the conclusion of this project, Thrive Market released a small feature to their online ordering product called &#34;&lt;a href=&#34;https://thrivemarket.com/autoship&#34; target=&#34;_blank&#34;&gt;Autoship&lt;/a&gt;.&#34; While &#34;Autoship&#34; does not include the ability to schedule when orders would be placed, its presence is affirmation that it was a worthwhile feature to develop.&lt;/p&gt;
+            &lt;p&gt;Since the conclusion of this project, Thrive Market released a small feature to their online ordering product called &amp;ldquo;&lt;a href=&#34;https://thrivemarket.com/autoship&#34; target=&#34;_blank&#34;&gt;Autoship&lt;/a&gt;.&amp;rdquo; While &amp;ldquo;Autoship&amp;rdquo; does not include the ability to schedule when orders would be placed, its presence is affirmation that it was a worthwhile feature to develop.&lt;/p&gt;
         &lt;/article&gt;
         &lt;article class=&#34;portfolio-colophon&#34;&gt;
             &lt;h4&gt;Credits&lt;/h4&gt;
@@ -696,7 +931,7 @@
         &lt;article class=&#34;portfolio-details expander&#34;&gt;
             &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Discovery&lt;/h2&gt;&lt;/a&gt;
             &lt;div class=&#34;expander-content&#34;&gt;
-                &lt;p&gt;In a class with an accelerated 8-week cirriculum, the first two weeks were dedicated to self-exploration and discovery. The first step was to decide on a company with enough infrastructure to warrant proper product management within an industry that was of our choosing. Having worked in-and-around the food industry most of my professional life, I decided upon Thrive Market. I was specifically looking for a company with efforts in making social impact. Thrive Market&#39;s mission statement, &lt;a href=&#34;https://en.wikipedia.org/wiki/Triple_bottom_line&#34; target=&#34;_blank&#34;&gt;triple-bottom line&lt;/a&gt; ethos, and their &#34;&lt;a href=&#34;https://thrivemarket.com/giving&#34; target=&#34;_blank&#34;&gt;Thrive Gives&lt;/a&gt;&#34; service made for a great qualifier.&lt;/p&gt;
+                &lt;p&gt;In a class with an accelerated 8-week cirriculum, the first two weeks were dedicated to self-exploration and discovery. The first step was to decide on a company with enough infrastructure to warrant proper product management within an industry that was of our choosing. Having worked in-and-around the food industry most of my professional life, I decided upon Thrive Market. I was specifically looking for a company with efforts in making social impact. Thrive Market&amp;rsquo;s mission statement, &lt;a href=&#34;https://en.wikipedia.org/wiki/Triple_bottom_line&#34; target=&#34;_blank&#34;&gt;triple-bottom line&lt;/a&gt; ethos, and their &amp;ldquo;&lt;a href=&#34;https://thrivemarket.com/giving&#34; target=&#34;_blank&#34;&gt;Thrive Gives&lt;/a&gt;&amp;rdquo; service made for a great qualifier.&lt;/p&gt;
                 &lt;p&gt;Initial user research involved mainly interviewing friends to qualify food product lines. Was this food healthy? One example, a favorite exercise supplement brand was mentioned, &lt;a href=&#34;https://myvega.com&#34; target=&#34;_blank&#34;&gt;Vega&lt;/a&gt;, of which Thrive Market carries in full. Other research was done on competing food and food delivery companies to get a better understanding of market positioning.&lt;/p&gt;
                 &lt;img src=&#34;http://danno.co/images/pf-thrive-competition.jpg&#34; class=&#34;halfsies&#34; alt=&#34;sample business competition&#34;&gt;
                 &lt;img src=&#34;http://danno.co/images/pf-thrive-competition-explored.jpg&#34; class=&#34;halfsies two&#34; alt=&#34;sample competition comparison&#34;&gt;
@@ -709,7 +944,7 @@
                 &lt;p&gt;With a growing customer base that includes users in areas without easy access to a health food store, food co-op, or buying club, various personas were explored in similar locale.&lt;/p&gt;
                 &lt;img src=&#34;http://danno.co/images/pf-thrive-personas.jpg&#34; alt=&#34;sample draft of an early persona&#34;&gt;
                 &lt;figcaption&gt;Sample persona created for analysis and cx perspective&lt;/figcaption&gt;
-                &lt;p class=&#34;topsies&#34;&gt;Both a business model canvas and a value proposition canvas were created as part of a process to identify feature opportunities. A feature was discovered that would allow existing customers to schedule reoccuring orders based on a rotating calendar order date with a flexible shipping location. This feature would allow customers to help budget purchases for free shipping of staple items. It would also allow more utility, with travelling users able to ship food to various locations. The feature was titled &#34;Schedule Basket.&#34;&lt;/p&gt;
+                &lt;p class=&#34;topsies&#34;&gt;Both a business model canvas and a value proposition canvas were created as part of a process to identify feature opportunities. A feature was discovered that would allow existing customers to schedule reoccuring orders based on a rotating calendar order date with a flexible shipping location. This feature would allow customers to help budget purchases for free shipping of staple items. It would also allow more utility, with travelling users able to ship food to various locations. The feature was titled &amp;ldquo;Schedule Basket.&amp;rdquo;&lt;/p&gt;
                 &lt;img src=&#34;http://danno.co/images/pf-thrive-bmc.jpg&#34; class=&#34;halfsies&#34; alt=&#34;sample business model canvas for Thrive Market&#34;&gt;
                 &lt;img src=&#34;http://danno.co/images/pf-thrive-vpc.jpg&#34; class=&#34;halfsies two&#34; alt=&#34;sample value proposition canvas&#34;&gt;
                 &lt;figcaption&gt;Sample business model canvas and value proposition canvas for a Thrive Market feature&lt;/figcaption&gt;
@@ -719,15 +954,15 @@
             &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Iterations&lt;/h2&gt;&lt;/a&gt;
             &lt;div class=&#34;expander-content&#34;&gt;
                 &lt;p&gt;Personas were recreated at least three times to give clarity and understanding to a target customer and user. Personas were reviewed both by class instructor as well as friends for feedback.&lt;/p&gt;
-                &lt;p&gt;Part of the refinement process involved signing up for a trial membership, and using the existing product to search for customer experience opportunities. There existed a &#34;shopping list&#34; which was a dynamic list of previous orders, however setting up reorders involved a single click reorder (which did not allow customization), or a piece-meal experience of adding items into the cart while inputting correct quantities.&lt;/p&gt;
-                &lt;p&gt;Early feature ideas involved adding a simple wishlist, however with a mission statement to increase healthy food accessibility, and kano model comparisons, the wishlist seemed to be a bigger delighter for customers who weren&#39;t focused on savings.&lt;/p&gt;
+                &lt;p&gt;Part of the refinement process involved signing up for a trial membership, and using the existing product to search for customer experience opportunities. There existed a &amp;ldquo;shopping list&amp;rdquo; which was a dynamic list of previous orders, however setting up reorders involved a single click reorder (which did not allow customization), or a piece-meal experience of adding items into the cart while inputting correct quantities.&lt;/p&gt;
+                &lt;p&gt;Early feature ideas involved adding a simple wishlist, however with a mission statement to increase healthy food accessibility, and kano model comparisons, the wishlist seemed to be a bigger delighter for customers who weren&amp;rsquo;t focused on savings.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/article&gt;
         &lt;article class=&#34;portfolio-details expander&#34;&gt;
             &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Terminus&lt;/h2&gt;&lt;/a&gt;
             &lt;div class=&#34;expander-content&#34;&gt;
                 &lt;h3&gt;Demo&lt;/h3&gt;
-                &lt;p&gt;Using a mix of Sketch and Principle, the following feature demonstration was created to show the value of the &#34;Schedule Basket.&#34; In presentation, a live demo was created, below is a screen-grab video that encapsulates the idea. The feature is demonstrated when the user story flips to wireframes.&lt;/p&gt;
+                &lt;p&gt;Using a mix of Sketch and Principle, the following feature demonstration was created to show the value of the &amp;ldquo;Schedule Basket.&amp;rdquo; In presentation, a live demo was created, below is a screen-grab video that encapsulates the idea. The feature is demonstrated when the user story flips to wireframes.&lt;/p&gt;
                 &lt;div class=&#34;video&#34;&gt;
                     &lt;div class=&#34;video-wrapper&#34;&gt;
                         &lt;iframe src=&#34;https://www.youtube.com/embed/nAXPm9P0mwU?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -736,7 +971,7 @@
                 &lt;h3 class=&#34;topsies&#34;&gt;Conclusions&lt;/h3&gt;
                 &lt;p&gt;My goal for this project was to incorporate learnings from Product School into a feature from research through computational design that could be presented with clarity. A go to market plan was created, and while the feature was not built and tested, the demo was well received.&lt;/p&gt;
                 &lt;p&gt;Thanks to Siddharth Nirmal for letting me know about Thrive Market. On a side not, I leave the class a paying member where I shop for organic staple savings while giving to a family in need. Their organic crunchy peanut butter is amahzing and rightfully, currently on back-order.&lt;/p&gt;
-                &lt;p&gt;If you are curious about trying out Thrive Market, then be sure to refer me as a friend &lt;a href=&#34;http://thrv.me/productmanagement&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; to save 15% on membership. If you are from Thrive Market, and are reading this, please, let&#39;s grab a cup of coffee. &lt;a href=&#34;mailto:dan.hanasono@gmail.com&#34;&gt;Drop me a line&lt;/a&gt;.&lt;/p&gt;
+                &lt;p&gt;If you are curious about trying out Thrive Market, then be sure to refer me as a friend &lt;a href=&#34;http://thrv.me/productmanagement&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; to save 15% on membership. If you are from Thrive Market, and are reading this, please, let&amp;rsquo;s grab a cup of coffee. &lt;a href=&#34;mailto:dan.hanasono@gmail.com&#34;&gt;Drop me a line&lt;/a&gt;.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/article&gt;
         &lt;div&gt;
@@ -745,7 +980,7 @@
             &lt;/a&gt;
         &lt;/div&gt;
     &lt;/section&gt;
-&lt;/section&gt;
+&lt;/section&gt;&lt;/p&gt;
 </description>
     </item>
     
