@@ -380,6 +380,10 @@ h4.button {
 	background: url("/images/pf-digital-hero.jpg") no-repeat;
 }
 
+.analog-background {
+	background: url("/images/pf-analog-hero.jpg") no-repeat;
+}
+
 
 h1.thrive-market-feature {
 	color: $thrive-market;
@@ -416,7 +420,7 @@ h1.tdae {
 	margin-bottom: 0;
 }
 
-h1.digital {
+h1.digital, h1.analog {
 	color: $black;
 	margin-bottom: 0;
 }

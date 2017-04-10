@@ -25,7 +25,6 @@ Description = ""
 <section id="portfolio-item">
 	<section id="js-fadeInElement" class="fade-in-element">
 		<article class="portfolio-list">
-			<h2>Other Digital Projects</h2>
 			<p>Below is a list of other digital projects I have worked on.</p>
 			<ul>
 				<li>
