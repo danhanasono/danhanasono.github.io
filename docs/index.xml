@@ -441,7 +441,97 @@ Since the bulk of this type of training and the century ride itself is largely o
       <pubDate>Thu, 30 Mar 2017 10:46:05 -0700</pubDate>
       
       <guid>http://danno.co/portfolio/io-playa-vista-website/</guid>
-      <description></description>
+      <description>&lt;section id=&#34;portfolio&#34;&gt;
+    &lt;article class=&#34;portfolio-intro&#34;&gt;
+        &lt;h1 class=&#34;io-playa-vista&#34;&gt;i|o at Playa Vista Website&lt;/h1&gt;
+    &lt;/article&gt;
+    &lt;article id=&#34;js-parallax-window&#34; class=&#34;parallax-window&#34;&gt;
+        &lt;div class=&#34;parallax-static-content&#34;&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;js-parallax-background&#34; class=&#34;parallax-background io-playa-vista-background&#34;&gt;&lt;/div&gt;
+    &lt;/article&gt;
+&lt;/section&gt;
+&lt;section id=&#34;portfolio-item&#34;&gt;
+    &lt;section id=&#34;js-fadeInElement&#34; class=&#34;fade-in-element&#34;&gt;
+        &lt;article class=&#34;portfolio-overview&#34;&gt;
+            &lt;h2&gt;Project Overview&lt;/h2&gt;
+            &lt;p&gt;The perfect storm involving the shrinking of &lt;a href=&#34;http://myspace.com&#34;&gt;MySpace&lt;/a&gt;, a draw tenant, and the collapse of the real estate market in Southern California in 2009, lead to the disasterous opening of Latitude 34 Playa Vista. Without a key tenant, the two-building office complex, with design details honoring Howard Hughes aeronautical days, lay empty and dormant from opening through 2014, when it was purchased, redesigned, and rebranded for a younger agile tech workforce.&lt;/p&gt;
+            &lt;p&gt;The trifecta of &lt;a href=&#34;http://www.clarionpartners.com/Pages/default.aspx&#34; target=&#34;_blank&#34;&gt;Clarion Partners&lt;/a&gt;, &lt;a href=&#34;http://lpcwest.com&#34; target=&#34;_blank&#34;&gt;Lincoln Property Company&lt;/a&gt;, and &lt;a href=&#34;http://larealtypartners.com&#34; target=&#34;_blank&#34;&gt;L.A. Realty Partners&lt;/a&gt;, along with re-invisioning architecture from &lt;a href=&#34;http://gensler.com&#34; target=&#34;_blank&#34;&gt;Gensler&lt;/a&gt; all culminated in a precedence whereby a 4-year-old failing property could be re-worked to fit current and future working culture.&lt;/p&gt;
+            &lt;p&gt;We were brought in to bring new energy to the project and communicate a clear new ownership direction for the broker and surrounding community.&lt;/p&gt;
+        &lt;/article&gt;
+        &lt;article class=&#34;portfolio-colophon&#34;&gt;
+            &lt;h4&gt;Credits&lt;/h4&gt;
+            &lt;p&gt;Product Management: &lt;a href=&#34;http://danno.cc&#34; target=&#34;_blank&#34;&gt;Dan Hanasono&lt;/a&gt;&lt;br&gt;Design: &lt;a href=&#34;http://mrjohnsondesigns.com&#34; target=&#34;_blank&#34;&gt;Matt Johnson&lt;/a&gt;&lt;br&gt;Lead Developer: &lt;a href=&#34;http://claycooper.la&#34; target=&#34;_blank&#34;&gt;Clay Cooper&lt;/a&gt;&lt;br&gt;Photographer: Rick Ueda&lt;/p&gt;
+            &lt;h4&gt;Client&lt;/h4&gt;
+            &lt;p&gt;&lt;a href=&#34;http://www.clarionpartners.com/Pages/default.aspx&#34; target=&#34;_blank&#34;&gt;Clarion Partners, LLC&lt;/a&gt;&lt;/p&gt;
+            &lt;h4&gt;Agency&lt;/h4&gt;
+            &lt;p&gt;&lt;a href=&#34;http://looking.la/#/io&#34; target=&#34;_blank&#34;&gt;Looking&lt;/a&gt;&lt;/p&gt;
+            &lt;h4&gt;Deliverables&lt;/h4&gt;
+            &lt;p&gt;&lt;a href=&#34;http://ioplayavista.com&#34; target=&#34;_blank&#34;&gt;Responsive Website&lt;/a&gt;&lt;/p&gt;
+            &lt;h4&gt;Goal&lt;/h4&gt;
+            &lt;p&gt;Establish new identity of failing four-year-old property&lt;/p&gt;
+            &lt;h4&gt;Results&lt;/h4&gt;
+            &lt;p&gt;One calendar year after the brand identity was approved by the client, i|o at Playa Vista went from&lt;a href=&#34;http://www.latimes.com/business/realestate/la-fi-property-report-playa-20141218-story.html&#34; target=&#34;_blank&#34;&gt; 0 to 70% leased&lt;/a&gt;.&lt;/p&gt;
+        &lt;/article&gt;
+        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+        &lt;article class=&#34;portfolio-details expander&#34;&gt;
+            &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Discovery&lt;/h2&gt;&lt;/a&gt;
+            &lt;div class=&#34;expander-content&#34;&gt;
+                &lt;h4&gt;Design Inspiration&lt;/h4&gt;
+                &lt;p&gt;Working as a humble three-person team, and with rumors that Google was going to purchase a twelve-acre parcel adjacent to the project, we focused efforts on creating a website experience closer to a larger start-up tech company. The project would come together quickly, Clarion worked feverishly on a press embargo with L.A. Times announcing new leasing efforts in the area.&lt;/p&gt;
+                &lt;img src=&#34;http://danno.co/images/pf-io-visual-sitemap.jpg&#34; alt=&#34;sample sitemap in early stages&#34;&gt;
+                &lt;figcaption&gt;An early draft of a visual sitemap and responsive wireframe. This project was quick and with a whole new client, best to be clear and concise.&lt;/figcaption&gt;
+                &lt;p&gt;Creative copy-writing from Penny Benda (i|o defined multi-laterally as inspiration &amp;amp; options, impressive &amp;amp; open, input &amp;amp; output, interactive &amp;amp; optimized, ideas &amp;amp; optimism, indoor &amp;amp; outdoor) gave Looking a platform to create branding that was more fluid. From this came a website concept that could still be traditional with multiple pages, but also fluid with smooth-scrolling sections, redundant navigation to increase browsing-level awareness as was famous by start-ups, and quick interactive maps.&lt;/p&gt;
+                &lt;h4&gt;Interviews &amp;amp; Insights&lt;/h4&gt;
+                &lt;p&gt;In interviews with the core team, Playa Vista was a relative unknown outside of Silicon Beach natives. A big marketing need was to separate the project from previous owners to the public while educating the brokerage community outside of Los Angeles of the potentials of Playa Vista.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/article&gt;
+        &lt;article class=&#34;portfolio-details expander&#34;&gt;
+            &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Observations &amp;amp; Hypothesis&lt;/h2&gt;&lt;/a&gt;
+            &lt;div class=&#34;expander-content&#34;&gt;
+                &lt;h4&gt;East Building or West Building&lt;/h4&gt;
+                &lt;p&gt;From user testing on the Latitude 34 website, a big confusion was to quickly orient the user to which building was which. With two rectangular buildings of similar footprint, and a differentiator of east vs. west, we devised a simple way to explain leasing availabilities.&lt;/p&gt;
+                &lt;div class=&#34;video&#34;&gt;
+                    &lt;div class=&#34;video-wrapper&#34;&gt;
+                        &lt;iframe src=&#34;https://www.youtube.com/embed/81D1sqpJ09Y?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;p&gt;As the video shows above, we suggested a simple isometric sketch from the architects. Dull in detail, it served as a model. We drew and activated svg layers per floor and building, with javascript loading both a respective floor drawing as well as shifting a simple campus plan view upon click. Reports were that this eleviated confusion from 2D interactive site plans.&lt;/p&gt;
+                &lt;h4&gt;Amenities&lt;/h4&gt;
+                &lt;p&gt;Addressing the concern of if Playa Vista was suitable to move to. We did comprehensive research on retail, banking, hotel, dining, and gym/recreation amenities in the area. A custom map was created both for the regional amenities, as well as a neighborhood level map. The decision to use simple css-transition hovers to inform the user would keep 200+ point maps lightweight in feel and load time.&lt;/p&gt;
+                &lt;p&gt;When served on a smartphone, each pin is a list item that is sorted alphabetically by amenity type in an accordion with external link to the respective establishment. I give Clay all credit for thinking of this, but at the time it was brilliant. We used the phone&#39;s hardware (Google Map/Apple Maps) to serve up the nearest coffee spot. Here is a sample below of this section.&lt;/p&gt;
+                &lt;div class=&#34;video&#34;&gt;
+                    &lt;div class=&#34;video-wrapper&#34;&gt;
+                        &lt;iframe src=&#34;https://www.youtube.com/embed/b3HiYqiQT_g?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/article&gt;
+        &lt;article class=&#34;portfolio-details expander&#34;&gt;
+            &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Iterations&lt;/h2&gt;&lt;/a&gt;
+            &lt;div class=&#34;expander-content&#34;&gt;
+                &lt;p&gt;The i|o at Playa Vista website was launched upon a press embargo with a feature story in the &lt;a href=&#34;http://www.latimes.com/business/realestate/la-fi-property-report-playa-20141218-story.html&#34; target=&#34;_blank&#34;&gt;L.A. Times&lt;/a&gt; by Roger Vincent regarding the expansion of creative office space in Playa Vista. I remember, I was sweating bullets 5:00 a.m. that morning.&lt;/p&gt;
+                &lt;p&gt;Two tenants were signed before launch, a testiment to the leasing team&#39;s brilliance. However, I would like to think the usability of the website helped snag the third major tenant, &lt;a href=&#34;https://www.honest.com&#34; target=&#34;_blank&#34;&gt;The Honest Company&lt;/a&gt;.&lt;/p&gt;
+                &lt;p&gt;Most iteration on the site was design-based. We altered colors, redrew maps, and shot for honest clarity. Kudos to Clarion Partners.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/article&gt;
+        &lt;article class=&#34;portfolio-details expander&#34;&gt;
+            &lt;a href=&#34;javascript:void(0)&#34; class=&#34;expander-trigger expander-hidden&#34;&gt;&lt;h2&gt;Terminus&lt;/h2&gt;&lt;/a&gt;
+            &lt;div class=&#34;expander-content&#34;&gt;
+                &lt;h3&gt;Launched Website&lt;/h3&gt;
+                &lt;h4 class=&#34;resume button&#34;&gt;&lt;a href=&#34;http://ioplayavista.com&#34; target=&#34;_blank&#34;&gt;Click to see the site&lt;/a&gt;&lt;/h4&gt;
+                &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+                &lt;p&gt;Further marketing included an email campaign. &lt;a href=&#34;https://www.linkedin.com/company-beta/937694/?pathWildcard=937694&#34; target=&#34;_blank&#34;&gt;Chernin Group&lt;/a&gt; and &lt;a href=&#34;http://www.samsung.com/us/&#34; target=&#34;_blank&#34;&gt;Samsung&lt;/a&gt; would sign leases along with original tenants &lt;a href=&#34;https://www.fullscreen.com&#34;&gt;Fullscreen&lt;/a&gt; and &lt;a href=&#34;https://www.groupm.com&#34; target=&#34;_blank&#34;&gt;GroupM&lt;/a&gt;. With tenants like &lt;a href=&#34;https://www.youtube.com/yt/space/los-angeles.html&#34; target=&#34;_blank&#34;&gt;YouTube Space LA&lt;/a&gt; just down the street, the east site of Playa Vista is now a media empire in Silicon Beach.&lt;/p&gt;
+            &lt;/div&gt;
+            &lt;/article&gt;
+        &lt;/section&gt;
+        &lt;div&gt;
+            &lt;a href=&#34;#top-o-page&#34; class=&#34;back-to-top&#34;&gt;&lt;i class=&#34;fa fa-sort-asc&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+            &lt;p&gt;Scroll to top&lt;/p&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+&lt;/section&gt;
+</description>
     </item>
     
     <item>
@@ -700,7 +790,6 @@ Since the bulk of this type of training and the century ride itself is largely o
             &lt;p&gt;Independent project&lt;/p&gt;
             &lt;h4&gt;Deliverable&lt;/h4&gt;
             &lt;p&gt;10 min. presentation followed by Q &amp;amp; A&lt;/p&gt;
-            &lt;a href=&#34;http://danno.co/pdfs/final-presentation-v2.pdf&#34; download&gt;&lt;p&gt;See the presentation deck here [26.7MB]&lt;/p&gt;&lt;/a&gt;
             &lt;h4&gt;Goal&lt;/h4&gt;
             &lt;p&gt;Convince 10 colleagues that the general process and execution of a product feature was clearly understood and presented in a fashion that could be questioned and evolved into a future release.&lt;/p&gt;
             &lt;h4&gt;Results&lt;/h4&gt;

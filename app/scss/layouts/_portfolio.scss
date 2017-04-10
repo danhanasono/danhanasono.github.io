@@ -238,21 +238,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7a044', end
 }
 
 
-h1.thrive-market-feature {
-	color: $thrive-market;
-	margin-bottom: 0;
-}
-
-h1.salad-days {
-	color: $salad-days;
-	margin-bottom: 0;
-}
-
-h1.ford-factory {
-	color: $ford-factory;
-	margin-bottom: 0;
-}
-
 .expander {
 	a {
 		&:hover {
@@ -354,4 +339,29 @@ h4.button {
 
 .ford-factory-background {
 	background: url("/images/pf-ford-hero.jpg") no-repeat;
+}
+
+.io-playa-vista-background {
+	background: url("/images/pf-io-hero.jpg") no-repeat;
+}
+
+
+h1.thrive-market-feature {
+	color: $thrive-market;
+	margin-bottom: 0;
+}
+
+h1.salad-days {
+	color: $salad-days;
+	margin-bottom: 0;
+}
+
+h1.ford-factory {
+	color: $ford-factory;
+	margin-bottom: 0;
+}
+
+h1.io-playa-vista {
+	color: $io-playa-vista;
+	margin-bottom: 0;
 }

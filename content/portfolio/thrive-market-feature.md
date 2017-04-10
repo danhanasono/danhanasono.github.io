@@ -36,7 +36,6 @@ type = "portfolio"
 			<p>Independent project</p>
 			<h4>Deliverable</h4>
 			<p>10 min. presentation followed by Q &amp; A</p>
-			<a href="/pdfs/final-presentation-v2.pdf" download><p>See the presentation deck here [26.7MB]</p></a>
 			<h4>Goal</h4>
 			<p>Convince 10 colleagues that the general process and execution of a product feature was clearly understood and presented in a fashion that could be questioned and evolved into a future release.</p>
 			<h4>Results</h4>
