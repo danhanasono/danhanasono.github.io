@@ -345,6 +345,10 @@ h4.button {
 	background: url("/images/pf-io-hero.jpg") no-repeat;
 }
 
+.chn-foundation-background {
+	background: url("/images/pf-chn-hero.jpg") no-repeat;
+}
+
 
 h1.thrive-market-feature {
 	color: $thrive-market;
@@ -363,5 +367,10 @@ h1.ford-factory {
 
 h1.io-playa-vista {
 	color: $io-playa-vista;
+	margin-bottom: 0;
+}
+
+h1.chn-foundation {
+	color: $chn-foundation;
 	margin-bottom: 0;
 }
