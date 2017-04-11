@@ -1,5 +1,11 @@
 #portfolio {
 	margin-top: 5vh;
+	@include iphone-landscape {
+		margin-top: 15vh;
+	}
+	@include iphone-portrait {
+		margin-top: 8vh;
+	}
 	ul { 
 		list-style: none; 
 		padding: 0;
@@ -26,15 +32,40 @@
 	@include grid-column(10, $danno-grid);
 	@include grid-push(3, $danno-grid);
 	margin-bottom: 30px;
+	@include ipad {
+		@include grid-column(12, $danno-grid);
+		@include grid-push(2, $danno-grid);
+	}
+	@include iphone {
+		@include grid-column(16, $danno-grid);
+	}
+	@include iphone-landscape {
+		margin-left: 40px;
+	}
 }
 
 .output-intro {
 	margin-top: 60px;
+	@include mobile {
+		margin-top: 0;
+	}
 }
 
 .full-presence, .output {
 	margin-left: 18.5%;
 	width: 80%;
+	@include ipad {
+		margin-left: 12.5%;
+		width: 75%;
+	}
+	@include iphone {
+		margin-left: 0;
+		width: 100%;
+	}
+}
+
+.clear {
+		clear: left;
 }
 
 .thumb-half-height, .thumb-sq-height {
@@ -44,7 +75,16 @@
 		background-color: $action-color;
 		color: $light-gray;
 	}
-}
+	@include ipad {
+		width: calc(33% - 37.5px);
+	}
+	@include iphone {
+		width: calc(33% - 37.5px);
+	}
+	@include iphone-portrait {
+		width: calc(100% - 60px);
+	}
+}	
 
 .thumb-half-height:before {
 	content: "";
@@ -175,6 +215,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7a044', end
 	@include grid-container;
 	@include grid-column(10, $danno-grid);
 	@include grid-push(3, $danno-grid);
+	@include ipad-portrait {
+		@include grid-column(16, $danno-grid);
+		padding-left: 15px;
+	}
+	@include iphone {
+		@include grid-column(16, $danno-grid);
+		padding-left: 15px;
+		margin-left: 15px;
+	}
 	h2 {
 		display: inline-block;
 	}
@@ -203,10 +252,23 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7a044', end
 	figcaption {
 		display: inline-block;
 	}
+	img {
+		height: auto;
+		@include iphone {
+			width: 100%;
+		}
+	}
 }
 
 .portfolio-overview {
 	@include grid-column(13, $danno-grid);
+	@include iphone-landscape {
+		margin-left: 15px;
+	}
+	@include iphone-portrait {
+		width: 100%;
+		margin: 0;
+	}
 	margin-bottom: 30px;
 	margin-left: 0;
 	li {
@@ -218,22 +280,36 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7a044', end
 	@include grid-container;
 	margin-bottom: 30px;
 	margin-left: 0;
+	@include ipad-portrait {
+		padding-right: 15px;
+	}
+	@include iphone {
+		padding-right: 15px;
+	}
 	img {
-		/*width: 100%;*/
 		height: auto;
+		@include ipad {
+			width: 100%;
+		}
 	}
 }
 
 .portfolio-colophon {
 	@include grid-column(4, $danno-grid);
+	@include iphone-portrait {
+		width: 100%;
+		margin-left: 0;
+	}
 	margin-bottom: 30px;
-/*	margin-left: 0;
-*/	h4 {
+	h4 {
 		margin-top: 21px;
 		border-bottom: 1px solid $light-gray;
 	}
 	p {
 		font-size: 0.625em;
+	}
+	@include ipad-portrait {
+		padding-right: 15px;
 	}
 }
 
@@ -332,6 +408,9 @@ h4.button {
 	@include grid-column(15.5, $danno-grid);
 	@include grid-push(0.375, $danno-grid);
     height: 74vh;
+    @include iphone-portrait {
+    	margin-left: 30px;
+    }
 }
 
 .parallax-static-content {

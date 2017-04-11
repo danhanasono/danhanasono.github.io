@@ -1,11 +1,33 @@
 #intro{
 	margin: 20px 60px 60px 60px;
-	height: 64vh;	
+	height: 64vh;
+	@include iphone {
+		height: 55vh;
+		margin: 0 45px 45px 45px;
+	}	
+	@include iphone-portrait {
+		height: auto;
+	}
+	@include iphone5-portrait {
+		margin: 0 30px 30px 30px;
+	}
 	.image-gradient-dynamic {
 		line-height: 0;
 		position: relative;
 		width: 100%;
 		height: 64vh;
+		@include iphone {
+			height: 55vh;
+		}	
+		@include iphone5-landscape {
+			height: 52vh;
+		}
+		@include iphone-portrait {
+			height: 70vh;
+		}
+		@include iphone5-portrait {
+			height: 68vh;
+		}
 		.copy {
 			left: 50%;
 			margin: auto;
@@ -13,7 +35,7 @@
 			top: 50%;
 			transform: translate(-50%, -50%);
 			z-index: 999;
-			background-image: url('../images/samp.png');
+			/*background-image: url('../images/samp.png');*/
 			height: 64vh;
 			width: 100%;
 		}
@@ -96,10 +118,32 @@
 		line-height: 1.2em;
 		font-weight: normal;
 		position: relative;
+		@include ipad-pro-landscape {
+			font-size: 5.2vw;
+		}
+		@include ipad-pro-portrait {
+			font-size: 6.5vw;
+		}
+		@include ipad-landscape {
+			font-size: 4.8vw;
+		}
+		@include ipad-portrait {
+			font-size: 6.2vw;
+		}
+		@include iphone5-landscape {
+			font-size: 3.5vw;
+			line-height: 4.8vw;
+		}
+		@include iphone-portrait {
+			font-size: 7.5vw;
+		}
 	}
 
 	.copy-box {
 		padding: 30px;
+		@include iphone {
+			padding: 15px;
+		}
 	}
 
 }

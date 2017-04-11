@@ -1,10 +1,22 @@
 #about {
 	margin-top: 5vh;
+	@include iphone-landscape {
+		margin-top: 15vh;
+	}
+	@include iphone-portrait {
+		margin-top: 8vh;
+	}
 	h1 {
 		float: left;
 	}
 	h2 {
 		clear: left;
+		@include iphone-portrait {
+			margin-top: 10px;
+		}
+	}
+	p {
+		margin-bottom: 15px;
 	}
 	a {
 		margin-bottom: 30px;
@@ -17,10 +29,24 @@
 		display: block;
 		position: relative;
 		margin-top: 30px;
+		@include iphone-portrait {
+			margin-top: 0;
+		}
 	}
 	.about-header-img, .about-footer-img {
 		@include grid-container;
 		padding: 0 60px;
+		@include ipad-portrait {
+			padding: 0 34px;
+		}
+		@include iphone-landscape {
+			padding: 0 41px;
+		}
+		@include iphone-portrait {
+			width: calc(96.875% - 50px);
+			margin-left: 30px;
+			padding: 0;
+		}
 		img {
 			margin-top: 0;
 		}
@@ -39,6 +65,8 @@ figcaption {
     font-family: $copies;
     margin-top: 5px;
     height: 2em;
+    line-height: 1.4em;
+    display: inline-block;
 }
 
 .resume {
@@ -60,15 +88,40 @@ figcaption {
     	font-size: 0.875em;
     	line-height: .6em;
     }
+    @include ipad-portrait {
+    	margin-left: 50px;
+    }
+    @include iphone-portrait {
+    	margin-left: 30px;
+    }
+    @include iphone6-portrait {
+    	margin: 0;
+    }
+    @include iphone5-portrait {
+    	margin: 0;
+    }
 }
 
 .about-intro, .big-blip {
 	@include grid-column(10, $danno-grid);
 	@include grid-push(3, $danno-grid);
+	@include ipad {
+		@include grid-column(12, $danno-grid);
+		@include grid-push(2, $danno-grid);
+	}
+	@include iphone {
+		@include grid-column(16, $danno-grid);
+	}
+	@include iphone-landscape {
+		margin-left: 40px;
+	}
 }
 
 .big-blip {
 	margin-bottom: 30px;
+	@include iphone-portrait {
+		margin-bottom: 0;
+	}
 }
 
 .about-intro {
@@ -79,9 +132,23 @@ figcaption {
 	@include grid-column(5, $danno-grid);
 	@include grid-push(3, $danno-grid);
 	margin-bottom: 30px;
+	@include ipad-portrait {
+		@include grid-column(8, $danno-grid);
+	}
+	@include iphone {
+		@include grid-column(8, $danno-grid);
+	}
+	@include iphone-portrait {
+		@include grid-column(16, $danno-grid);
+		margin-bottom: 15px;
+		margin-left: 30px;
+	}
 }
 .little-blip:nth-child(2), .little-blip:nth-child(5) {
-	@include grid-push(0);
+	@include grid-push(0, $danno-grid);
+	@include iphone-portrait {
+		@include grid-container;
+	}
 }
 
 

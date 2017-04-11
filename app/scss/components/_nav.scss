@@ -2,6 +2,18 @@ nav{
 	width: 320px;
 	margin-left: 60px;
 	padding-top: 10px;
+	@include ipad-portrait {
+		margin-left: 42px;
+	}
+	@include iphone {
+		margin-left: 42px;
+	}
+	@include iphone-landscape {
+		margin-left: 39px;
+	}
+	@include iphone5-portrait {
+		margin-left: 15px;
+	}
 	ul {
 		margin: 0;
 		padding: 0;

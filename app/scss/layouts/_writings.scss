@@ -3,6 +3,20 @@
 	.post-section {
 		@include grid-column(10, $danno-grid);
 		@include grid-push(3, $danno-grid);
+		@include ipad-landscape {
+			@include grid-column(12, $danno-grid);
+			@include grid-push(2, $danno-grid);
+		}
+		@include ipad-portrait {
+			@include grid-column(14, $danno-grid);
+			@include grid-push(1, $danno-grid);
+		}
+		@include iphone {
+			@include grid-column(16, $danno-grid);
+		}
+		@include iphone-portrait {
+			@include grid-visual;
+		}
 		ul { 
 			list-style: none; 
 			padding: 0;
@@ -18,6 +32,10 @@
 	}
 	.post-item {
 		@include grid-column (8, $danno-grid);
+		@include iphone-portrait {
+			/*@include grid-column (16, $danno-grid);*/
+			width: calc(100% - 30px);
+		}
 		margin-left: 0;
 		display: block;
 		background-color: $poppy;
@@ -26,10 +44,8 @@
 			background-color: $nose;
 		}
 		a img {
-			/*width: 100%;*/
-			/*height: auto;*/
-			width: 426.25px;
-			height: 426.25px;
+			width: 100%;
+			height: auto;
 			display: block;
 			object-fit: cover;
 		}
@@ -42,6 +58,9 @@
 	}
 	.post-item:nth-child(even) {
 		margin-left: 30px;
+		@include iphone-portrait {
+			margin-left: 0;
+		}
 	}
 
 	.come-in {

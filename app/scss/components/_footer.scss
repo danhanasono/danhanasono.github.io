@@ -2,6 +2,24 @@ footer {
 	position: absolute;
 	bottom: 0px;
 	width: 100%;
+  @include ipad-pro-landscape {
+    bottom: 75px;
+  }
+  @include ipad-pro-portrait {
+    bottom: 125px;
+  }
+  @include ipad-landscape {
+    bottom: 45px;
+  }
+  @include ipad-portrait {
+    bottom: 55px;
+  }
+  @include iphone {
+    bottom: 15px;
+  } 
+  @include iphone-portrait {
+    bottom: 30px;
+  }
 	ul {
 		margin: 0 1px 20px 60px;
 		padding: 0;
@@ -9,6 +27,12 @@ footer {
 		    opacity: 1;
 		    visibility: visible;
 		}
+    @include iphone {
+      margin-left: 46px;
+    }
+    @include iphone5-portrait {
+      margin-left: 32px;
+    }
 		li {
 			display: inline;
 			float: left;
@@ -28,13 +52,20 @@ footer {
   position: relative;
   margin-top: 60px;
   padding-top: 14px;
+  padding-bottom: 15px;
   background-color: $light-gray;
   display: inline-block;
-    small {
-      time {
-        opacity: 0;
-      } 
-    }
+  small {
+    time {
+      opacity: 0;
+    } 
+  }
+  @include ipad {
+    bottom: 0;
+  }
+  @include mobile {
+    bottom: 0;
+  }
 }
 
 .tooltip {
@@ -54,7 +85,6 @@ footer {
     transition: all 0.2s ease-in-out;
     visibility: hidden;
     z-index: 10;
-
     p {
       color: $base-font-color;
       line-height: $base-line-height;
@@ -81,4 +111,10 @@ small {
 	position: absolute;
 	right: 60px;
 	top: 5px;
+  @include iphone {
+    right: 45px;
+  }
+  @include iphone5-portrait {
+    right: 30px;
+  }
 }

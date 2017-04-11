@@ -24,11 +24,30 @@
 		img {
 			margin-top: 0;
 		}
+		@include ipad-portrait {
+			width: 100%;
+			transform: none;
+		}
+		@include iphone {
+			width: 100%;
+			transform: none;
+		}
 	}
 
 	.post-section {
 		@include grid-column(10, $danno-grid);
 		@include grid-push(3, $danno-grid);
+		@include ipad-portrait {
+			@include grid-column(14, $danno-grid);
+			@include grid-push(1, $danno-grid);
+		}
+		@include iphone {
+			@include grid-container;
+			@include grid-column(16, $danno-grid);
+		}
+		/*@include iphone6-landscape {
+		    width: calc(100% - 45px);
+		}*/
 	}
 
 	.split-content {

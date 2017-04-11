@@ -1,6 +1,12 @@
 #the-fold {
 	height: 21vh;
 	background-color: white;
+	@include iphone {
+		height: 30vh;
+	}
+	@include iphone-portrait {
+		height: 18vh;
+	}
 }
 
 header {
@@ -11,6 +17,18 @@ header {
 	line-height: 24vh;
 	z-index: -1;
 	position: relative;
+	@include iphone {
+		font-size: 8vw;
+		line-height: 15vw;
+		margin-left: 40px
+	}
+	@include iphone-portrait {
+		font-size: 13vw;
+	    line-height: 32vw;
+	}
+	@include iphone5-portrait {
+		margin-left: 30px;
+	}
 }
 
 .js-fade-element-hide {
