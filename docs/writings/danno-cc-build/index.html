@@ -3,7 +3,8 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Dan Hanasono | Product Manager </title>
+	
+	<title>danno.cc build - Dan Hanasono | Product Designer</title>
 	<meta name="description" content="Dan Hanasono is a Product Designer and Manager living in Los Angeles.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="/css/styles.min.css">
@@ -25,11 +26,122 @@
 			<h2>danno.cc build</h2>
 			<p class="date">Wed, Apr 26, 2017 </p>
 			<p class="type">by Dan Hanasono
-			&nbsp;
+			 • Reading Time ~30 minutes
 			
 			</p>
-			<p><img src="https://media.giphy.com/media/Rm1p7xp3Odl2o/giphy.gif" alt="bit by bit" />
-<figcaption>This is a total placeholder gif, 100% borrowed from <a href="https://giphy.com/gifs/Rm1p7xp3Odl2o">Clasharama</a>.</figcaption></p>
+			
+
+<h3 id="aka-portfoliobuild-using-hugo-gulp-bourbon-github-pages">aka #portfolioBuild - Using Hugo + Gulp + Bourbon + GitHub Pages</h3>
+
+<p><img src="https://media.giphy.com/media/Rm1p7xp3Odl2o/giphy.gif" alt="bit by bit" />
+<figcaption>Finally, my very own site, built in a way I want…haha, haha, gif from <a href="https://giphy.com/gifs/Rm1p7xp3Odl2o">Clasharama</a>.</figcaption></p>
+
+<p>Building your own project/portfolio site is kin to building your own custom bike or custom brewing rig, the options are exhausting and the reasoning behind execution is important. Being able to know why you made a decision is part of the reward of creating your own website.</p>
+
+<p>Here I will go into how I put together this very site, and more importantly why I chose to do things a certain way. This post is for dev and design nerds, but may pave a way for those looking to build a portfolio site for themselves. There are infinite decision points and quite a lot of steps, but this post will give you a specific perspective. I will dive into some technical details in a later post for those who want to see bits of build in action.</p>
+
+<h3 id="summary">#summary</h3>
+
+<ol>
+<li>design using ux and product process</li>
+<li>implement gulp for build workflow and to process custom scss</li>
+<li>use hugo to process markdown files to streamline writings</li>
+<li>build with neat grid-system to learn new front-end framework</li>
+<li>host for free on github pages to manage deployment and versioning simultaneously</li>
+<li>invest in custom webfonts</li>
+<li>introduce folding of the dom and typed text to emphasize site identity and summary on the homepage</li>
+</ol>
+
+<h2 id="custom">#custom</h2>
+
+<p>The single most important attribute to me was that this site was designed and built by hand. I would permit the use of front-end frameworks, but seeing that I am selling myself as a product designer/manager within web, I want to show that I am not afraid to handmake my own portfolio site. I also want to support the industry of front-end development, so no Squarespace or Wix here.</p>
+
+<h3 id="whiteboard-to-sketchapp">#whiteboard to #sketchapp</h3>
+
+<p>To begin, I started wireframing on a poster-size whiteboard at home. Lots of erasing took place to find out what combination of content would suffice to share both my design sensibilities and thought process. Tell me if this sounds like a good combination for an MVP portfolio site…</p>
+
+<ol>
+<li>Ability to showcase work in a visual and written context. #check</li>
+<li>A page dedicated to introduce myself. #check #hubris</li>
+<li>A blog for sustaining ongoing efforts. #check (no product is complete afterall, including my humble site!)</li>
+</ol>
+
+<p>The wireframes were presented to a select few, and I refined in <a href="https://sketchapp.com">Sketch</a> before finalizing the design. Attention was paid to a responsive grid system, use of lightweight svg&rsquo;s when possible, and a type system that wouldn&rsquo;t stretch my writings into impossibly long lines to read.</p>
+
+<h3 id="blog-platform-independence">#blog platform independence</h3>
+
+<p>I&rsquo;ve written a blog before. I&rsquo;ve used <a href="https://wordpress.com">Wordpress</a>, <a href="https://www.tumblr.com">Tumblr</a>, Vox (the blogging platform that closed in 2013), <a href="http://www.livejournal.com">Livejournal</a>, <a href="https://jekyllrb.com">Jekyll</a>, and <a href="https://scriptogr.am">Scriptogram</a> (which also closed down, later in 2015). Blogs require effort, and to rely on a system that could be shut down doesn&rsquo;t seem sustainable in the long run. Tumblr was purchased by Yahoo!, Livejournal by a Russian Media Company. Vox and Scriptogram had their plugs completely pulled out of the wall.</p>
+
+<p>Wordpress and Jekyll are great, however they are heavy duty. I want to update posts right where I feel at home in a text editor. Wordpress has some performance concerns both in security and that it is a big bloated system for my needs. Jekyll is almost perfect, however it relies on Ruby gems, so a system to install a system. I wanted something minimalist, that did not rely on updating WYSIWYG content windows.</p>
+
+<h3 id="markdown">#markdown</h3>
+
+<p>As I mentioned, keeping up a blog requires effort, so the last thing I wanted to be faced with was having to update security patches before I started writing, or resetting my admin password before copy/pasting a story to publish.</p>
+
+<p>I write in a text editor most of the time, so it seemed natural to me to write in a text editor (of which I am a big fan of <a href="https://www.sublimetext.com">Sublime Text</a>), not in a content management textbox. Speed is of the essence when writing, and readability is the greatest accomplishment I could acheive in function, so I decided to write all blog posts in <a href="https://daringfireball.net/projects/markdown/syntax">Markdown</a>. Markdown is embraced both for its simplicity and speed. Posts will now take a fraction to write, as I can focus on plain text syntax, and not be bogged down with mark-up language (Funny, I just got why it is called Markdown).</p>
+
+<h3 id="hugo">#hugo</h3>
+
+<p>I was searching for a website engine then that would allow me to build content right in Markdown, and I came across <a href="https://gohugo.io">Hugo</a>. Hugo has the perks of many website engines out there that can render Markdown, but it excels are processing speed and simplicity.</p>
+
+<p>I was comparing Hugo to Jekyll, and with Jekyll, you have to organize files a certain way, there are rubygem dependencies, and for my concerns, I would have to either learn how to build or modify a theme template. This is working backwards for me. I wanted to be able to build a unique web design, and then plug in a website engine to update content, not modify a theme to my design, or design around an existing theme.</p>
+
+<p>One last perk is that Hugo is fast, it can rip a static build of the site in a fraction of the time it takes using other static site generators. I am considering studying Hugo further to help design and develop themes to share for others. It is a fun process. Super secure, there is no database or external libraries to hack. I am a huge fan now, and would consider it for future custom projects.</p>
+
+<h2 id="automation-amp-frameworks">#automation &amp; #frameworks</h2>
+
+<p>Every developer gets to pick their tools for the build, and having spent the last three years working with a dev team, I focused on implementing both <a href="http://gulpjs.com">Gulp.js</a> for task automation, and <a href="http://neat.bourbon.io">Neat</a> as a front-end framework. Below is a bit of thought on both.</p>
+
+<h3 id="neat-bourbon-bitters-refills">#neat, bourbon, bitters, refills</h3>
+
+<p>I have been using and tweaking <a href="http://getbootstrap.com">Bootstrap</a> for the past four years. Related to a conversation I had with a colleague at <a href="https://www.productschool.com">Product School</a>, <a href="https://twitter.com/swtcourt">Courtney</a>, I decided to use Bourbon as a new framework to learn on this project.</p>
+
+<p>I decided to rely on Bourbon lightly for a Sass mixin library and concentrate on a custom Scss library I&rsquo;ve written over the years. Bourbon itself is a few years old and extremely smaller in file size compared to Bootstrap. Creators <a href="https://thoughtbot.com">thoughtbot</a> gets major credit for their approach to accessibility with the project. One minor downside is that a lot of Bourbon&rsquo;s mixins have been deprecated, so the library is rather small. I used what made sense and instead focused on Neat.</p>
+
+<p>Neat is a Sass grid, which would allow me to play with margins and columns without hacking the framework to pieces. I could embed, collapse, and shift columns just like in Bootstrap, but with a fraction of the code. Learned new framework, win win.</p>
+
+<h3 id="gulp">#gulp</h3>
+
+<p>While I think a front-end framework is a bit of an academic decision, using Gulp was imperative. It&rsquo;s workflow could automate the following with one command line in Terminal (I&rsquo;m listing what is in my actual gulpfile):</p>
+
+<ol>
+<li>Take all of the custom styles I write in scss and process them into CSS.</li>
+<li>Concatenate all of the CSS libraries into a single CSS file and minimize that file, including files from Bourbon and Neat.</li>
+<li>Map which original scss files are responsible for each element for troubleshooting.</li>
+<li>Refreshes the browser everytime a CSS, HTML, or JS file is saved (huge time saver).</li>
+<li>Concatenate all of the JS libraries into a single JS file and minimize that file, including external JS libraries.</li>
+<li>Copy all minimized files to a specific destination folder for deployment.</li>
+<li>Copy over static files like font files into a specific destination folder for deployment.</li>
+<li>Purge the specific destination folder each time before files are saved to eliminate redundancies.</li>
+<li>Optimize image asset files and save into a specific destination directory for deployment.</li>
+<li>Connect all new minimized asset files to their relative paths, essentially creating a deployment version of the site without any preprocess file redundancies.</li>
+</ol>
+
+<p>It rules! I relied heavily over the last two years for our dev team to set this up, so it was refreshing to set up Gulp for myself. I highly recommend it for its sass pre-processor and browser-sync functions alone.</p>
+
+<h2 id="cost">#cost</h2>
+
+<p>It was important to me that the overhead for this site be as manageable as possible. There is no business incentive to pay a lot to share information on my site. There is also no eCommerce component to the site, so no direct return to time investment. Sound relatable? Here are some decisions.</p>
+
+<h3 id="github-pages-amp-hover-com">#GitHub Pages &amp; #Hover.com</h3>
+
+<p>I am not a back-end developer, so knowing there is no need to flex muscles building a custom back-end, I decided to host my site on <a href="https://pages.github.com">GitHub Pages</a>. I already use GitHub as part of my versioning process, and GitHub pages has evolved to make it very easy to publish a project or personal site for free. Downsides include the elimination of any ability to use server-side scripting languages, but this is far outweighed by my ability to push straight from repository to live site.</p>
+
+<p>I am a fan of <a href="https://www.hover.com">Hover</a> for registering domain names. Their ethical compass far exceeds major competitors, and they have a decent library of TLD&rsquo;s to choose from. Danno.cc breaks down into &ldquo;Danno&rdquo; (my full name condensed) and &ldquo;cc&rdquo; of which right now stands for &ldquo;Cycling Club&rdquo; (hat tip to <a href="http://www.rapha.cc/us/en_US/">Rapha</a> for the idea) as I am currently training for my first century ride. Side note, I polled my friends about which URL suffix to use, and &ldquo;.cc&rdquo; was the overwhelming winner. Other domain suffices such as &ldquo;.design&rdquo; are too literal, and &ldquo;.co&rdquo; is a few years overplayed and technically is the TLD for Columbia. Domains through hover.com are typically $10-30/yr.</p>
+
+<h3 id="colophon-foundry-amp-google-webfonts">#Colophon Foundry &amp; #Google Webfonts</h3>
+
+<p>This is for the type nerds out there. While there are major cost savings now with hosting for free, I think it is a worthwhile investment to purchase a webfont license from a proper type foundry. #supportYourFoundry</p>
+
+<p>For my own expressions, I am using the medium weight of <a href="https://www.colophon-foundry.org/typefaces/apercu/">Aperçu Pro</a> as the header typeface. I was introduced to the typeface by my colleague <a href="http://www.elisa-foster.com">Elisa</a> last year, and have found that its take on a classic realist sans-serif felt refreshing and accessible to me personally. Since then, I&rsquo;ve seen the typeface all over <a href="https://www.typewolf.com">Typewolf&rsquo;s site</a>, a testament to its relevance as a pop font.</p>
+
+<p>Display type is important, but body copy is critical. While GitHub pages can send you Aperçu Pro&rsquo;s font files quickly, I decided on using Google&rsquo;s CDN magic to serve you <a href="https://fonts.google.com/specimen/Work+Sans">Work Sans</a> lightning fast. Work Sans is a grotesque sans serif, which is my personal nod to just how punk rock grotesque type was when it came about. Work Sans is a nerdy grotesque, optimized for screens between 14&em;48px in size, and pairs well with Aperçu Pro. There will be no font-blink-webfont in this build.</p>
+
+<h2 id="flair">#flair</h2>
+
+<p>I added two JS libraries that I want to call out on my homepage, which will please a solid few. I wanted to fold the dom <a href="http://oridomi.com">(oridomi)</a> to conceptually explain where the name &ldquo;danno&rdquo; comes from as an identity. I also wanted to keep summary intro text on a typing animation <a href="https://github.com/mattboldt/typed.js/">(typed.js)</a>, not to increase engagement, but because I grew up watching <a href="https://www.youtube.com/watch?v=N1WnfMFUqWQ">Doogie Howser, M.D.</a></p>
+
+<p>Hope you enjoy the site as we go from MVP onward. I hope to share design and dev resources in the near future.</p>
 
 <!-- Link  -->
 

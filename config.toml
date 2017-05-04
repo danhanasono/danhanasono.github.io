@@ -3,7 +3,7 @@ languageCode = "en-us"
 DefaultContentLanguage = "en"
 # Site settings
 baseURL = "http://danno.co" 
-title = "Dan Hanasono | Product Manager"
+title = "Dan Hanasono | Product Designer"
 description = "Danno's product portfolio site"
 InstagramUser = "brkfstburrito"
 TwitterUser = "danhanasono"
